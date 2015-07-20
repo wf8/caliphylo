@@ -1,0 +1,8 @@
+18S,include,18S
+18S,exclude,internal transcribed spacer,external transcribed spacer,ITS1,ITS2,ETS,genomic_DNA_fragment_containing_25S-18S_rRNA_intergenic_spacer,pseudogene,probable,M.glaucescens,genomic_DNA_containing_26S-18S,A33.9041
+atpB,include,atpB,AtpB
+atpB,exclude,atpB-rbcL,rbcl-atpB,rbcL-atpB,atpB/rbcL
+ndhF,include,ndhF
+ndhF,exclude,rps15,rpL32,ndhf-trnL
+trnL-trnF,include,trnL-trnF,trnL-F
+trnL-trnF,exclude,trnT-trnL
