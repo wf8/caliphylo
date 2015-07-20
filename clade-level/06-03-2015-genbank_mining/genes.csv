@@ -1,0 +1,8 @@
+18S,include,18S
+18S,exclude,internal transcribed spacer,external transcribed spacer,ITS1,ITS2,ETS
+atpB,include,atpB,AtpB
+atpB,exclude,atpB-rbcL,rbcl-atpB
+ndhF,include,ndhF
+ndhF,exclude,rps15
+trnL-trnF,include,trnL-trnF,trnL-F
+trnL-trnF,exclude,trnT-trnL
