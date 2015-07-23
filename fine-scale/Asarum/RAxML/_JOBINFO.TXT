@@ -1,0 +1,14 @@
+Task\ label=asarum raxml 2
+Task\ ID=715427
+Tool=RAXMLHPC2BB
+created\ on=2015-07-23 10:36:30.0
+JobHandle=NGBW-JOB-RAXMLHPC2BB-66E9A3BB63914333B2BCEB3A693AA88F
+resource=comet
+User\ ID=68621
+User\ Name=freyman@berkeley.edu
+email=freyman@berkeley.edu
+
+Output=(raxml_outputfiles,RAXML_*,UNKNOWN,UNKNOWN,UNKNOWN),(all_outputfiles,*,UNKNOWN,UNKNOWN,UNKNOWN)
+ChargeFactor=1.000000
+cores=48
+JOBID=713887

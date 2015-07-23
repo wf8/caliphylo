@@ -1,0 +1,131 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=37;
+	taxlabels
+	Asarum_arifolium_1
+	Asarum_arifolium_2
+	Asarum_asaroides
+	Asarum_asperum
+	Asarum_blumei
+	Asarum_canadense
+	Asarum_caudatum
+	Asarum_caudigerellum
+	Asarum_caudigerum
+	Asarum_caulescens_1
+	Asarum_caulescens_2
+	Asarum_crassum
+	Asarum_debile
+	Asarum_epigynum
+	Asarum_europaeum
+	Asarum_forbesii
+	Asarum_fudsinoi
+	Asarum_gelasinum
+	Asarum_hartwegii
+	Asarum_hatsushimae
+	Asarum_himalaicum
+	Asarum_kumageanum
+	Asarum_lemmonii
+	Asarum_marmoratum
+	Asarum_minimitanianum
+	Asarum_minus_1
+	Asarum_minus_2
+	Asarum_pulchellum
+	Asarum_satsumense
+	Asarum_savatieri
+	Asarum_shuttleworthii
+	Asarum_sieboldii_1
+	Asarum_sieboldii_2
+	Asarum_speciosum
+	Asarum_takaoi
+	Asarum_virginicum
+	Saruma_henryi
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] (Asarum_savatieri:0.004292,(Asarum_minimitanianum:1.0E-6,((Asarum_forbesii:0.006638,((((Asarum_asaroides:0.002126,Asarum_satsumense:0.002155)[&label=90]:0.004313,Asarum_kumageanum:0.002131)[&label=33]:1.0E-6,(Asarum_gelasinum:1.0E-6,Asarum_hatsushimae:1.0E-6)[&label=70]:1.0E-6)[&label=65]:1.0E-6,Asarum_fudsinoi:0.006446)[&label=100]:0.015441)[&label=61]:0.004302,((((Asarum_virginicum:0.006392,Asarum_minus_2:1.0E-6)[&label=68]:0.002112,(Asarum_minus_1:1.0E-6,Asarum_shuttleworthii:1.0E-6)[&label=74]:1.0E-6)[&label=99]:0.014676,(((Asarum_speciosum:0.004178,Asarum_arifolium_1:1.0E-6)[&label=59]:1.0E-6,Asarum_arifolium_2:0.002083)[&label=96]:0.012123,(Saruma_henryi:0.088603,(((Asarum_sieboldii_1:1.0E-6,Asarum_sieboldii_2:1.0E-6)[&label=100]:0.048816,Asarum_epigynum:0.018047)[&label=45]:0.001909,((((Asarum_europaeum:0.01063,((Asarum_marmoratum:0.002074,((Asarum_hartwegii:0.002058,(Asarum_caudatum:1.0E-6,Asarum_lemmonii:1.0E-6)[&label=89]:0.002069)[&label=72]:0.002092,Asarum_canadense:0.002074)[&label=27]:1.0E-6)[&label=93]:0.006289,(Asarum_debile:0.008604,Asarum_caudigerellum:0.004125)[&label=90]:0.004237)[&label=51]:1.0E-6)[&label=87]:0.004172,Asarum_caudigerum:0.015087)[&label=28]:1.0E-6,(Asarum_pulchellum:0.008463,(Asarum_caulescens_1:1.0E-6,Asarum_caulescens_2:0.002077)[&label=80]:0.002082)[&label=13]:1.0E-6)[&label=45]:1.0E-6,Asarum_himalaicum:0.008418)[&label=97]:0.011224)[&label=39]:0.001234)[&label=70]:0.005963)[&label=77]:0.006139)[&label=100]:0.024139,(Asarum_blumei:1.0E-6,(Asarum_asperum:0.013458,Asarum_crassum:0.011243)[&label=64]:0.003996)[&label=56]:0.006443)[&label=48]:0.002094)[&label=73]:0.006527)[&label=90]:0.004291,Asarum_takaoi:1.0E-6);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="label";
+	set branchLabels.fontName="Arial";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=true;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute=null;
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="label";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set nodeShape.colourAttribute=null;
+	set nodeShape.isShown=false;
+	set nodeShape.minSize=10.0;
+	set nodeShape.scaleType=Width;
+	set nodeShape.shapeType=Circle;
+	set nodeShape.size=4.0;
+	set nodeShape.sizeAttribute=null;
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="Arial";
+	set tipLabels.fontSize=10;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=true;
+	set trees.orderType="increasing";
+	set trees.rooting=true;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+
