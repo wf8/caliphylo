@@ -1,0 +1,6 @@
+in original nexus file:
+    charset ITS = 1 -784;
+    charset ETS = 785 -1367;
+    charset trnLF = 1368 -2094;
+    charset rpl32 = 2095 -3164;
+    partition Genes = 4 : ITS , ETS , trnLF , rpl32;
