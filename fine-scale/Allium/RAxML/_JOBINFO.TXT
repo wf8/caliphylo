@@ -1,0 +1,14 @@
+Task\ label=allium raxml
+Task\ ID=714865
+Tool=RAXMLHPC2BB
+created\ on=2015-07-22 15:35:07.0
+JobHandle=NGBW-JOB-RAXMLHPC2BB-4F86EDA28AE84D08ABCDC8BE627C0076
+resource=comet
+User\ ID=68621
+User\ Name=freyman@berkeley.edu
+email=freyman@berkeley.edu
+
+Output=(raxml_outputfiles,RAXML_*,UNKNOWN,UNKNOWN,UNKNOWN),(all_outputfiles,*,UNKNOWN,UNKNOWN,UNKNOWN)
+ChargeFactor=1.000000
+cores=48
+JOBID=710480
