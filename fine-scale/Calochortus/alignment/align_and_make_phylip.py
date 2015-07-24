@@ -30,108 +30,108 @@ with open('calochortus_accessions.csv', 'rb') as csvfile:
             psbA_accessions.append(row[4])
             rpl16_accessions.append(row[5])
 
-#trnTL_records = []
-#trnL_records = []
-#trnLF_records = []
-#psbA_records = []
-#rpl16_records = []
-#Entrez.email = 'freyman@berkeley.edu'
-#
-#print('Downloading accessions...')
-#for accession in trnTL_accessions:
-#    if accession.strip() != '':
-#        handle = Entrez.efetch(db='nucleotide', rettype='fasta', retmode='text', id=accession)
-#        trnTL_records.append(SeqIO.read(handle, 'fasta'))
-#        handle.close()
-#        sleep(0.02)
-#SeqIO.write(trnTL_records, "trnTL_unaligned.fasta", "fasta")
-#
-#for accession in trnL_accessions:
-#    if accession.strip() != '':
-#        handle = Entrez.efetch(db='nucleotide', rettype='fasta', retmode='text', id=accession)
-#        trnL_records.append(SeqIO.read(handle, 'fasta'))
-#        handle.close()
-#        sleep(0.02)
-#SeqIO.write(trnL_records, "trnL_unaligned.fasta", "fasta")
-#
-#for accession in trnLF_accessions:
-#    if accession.strip() != '':
-#        handle = Entrez.efetch(db='nucleotide', rettype='fasta', retmode='text', id=accession)
-#        trnLF_records.append(SeqIO.read(handle, 'fasta'))
-#        handle.close()
-#        sleep(0.02)
-#SeqIO.write(trnLF_records, "trnLF_unaligned.fasta", "fasta")
-#
-#for accession in psbA_accessions:
-#    if accession.strip() != '':
-#        handle = Entrez.efetch(db='nucleotide', rettype='fasta', retmode='text', id=accession)
-#        psbA_records.append(SeqIO.read(handle, 'fasta'))
-#        handle.close()
-#        sleep(0.02)
-#SeqIO.write(psbA_records, "psbA_unaligned.fasta", "fasta")
-#
-#for accession in rpl16_accessions:
-#    if accession.strip() != '':
-#        handle = Entrez.efetch(db='nucleotide', rettype='fasta', retmode='text', id=accession)
-#        rpl16_records.append(SeqIO.read(handle, 'fasta'))
-#        handle.close()
-#        sleep(0.02)
-#SeqIO.write(rpl16_records, "rpl16_unaligned.fasta", "fasta")
-#
-#print("Aligning trnTL with MAFFT...")
-#mafft_cline = MafftCommandline(input="trnTL_unaligned.fasta")
-#mafft_cline.set_parameter("--auto", True)
-#mafft_cline.set_parameter("--adjustdirection", True)
-#print(str(mafft_cline))
-#stdout, stderr = mafft_cline()
-#
-#print("Writing trnTL alignment to FASTA file...")
-#with open("trnTL_aligned.fasta", "w") as handle:
-#    handle.write(stdout)
-#
-#print("Aligning trnL with MAFFT...")
-#mafft_cline = MafftCommandline(input="trnL_unaligned.fasta")
-#mafft_cline.set_parameter("--auto", True)
-#mafft_cline.set_parameter("--adjustdirection", True)
-#print(str(mafft_cline))
-#stdout, stderr = mafft_cline()
-#
-#print("Writing trnL alignment to FASTA file...")
-#with open("trnL_aligned.fasta", "w") as handle:
-#    handle.write(stdout)
-#
-#print("Aligning trnLF with MAFFT...")
-#mafft_cline = MafftCommandline(input="trnLF_unaligned.fasta")
-#mafft_cline.set_parameter("--auto", True)
-#mafft_cline.set_parameter("--adjustdirection", True)
-#print(str(mafft_cline))
-#stdout, stderr = mafft_cline()
-#
-#print("Writing trnLF alignment to FASTA file...")
-#with open("trnLF_aligned.fasta", "w") as handle:
-#    handle.write(stdout)
-#
-#print("Aligning psbA with MAFFT...")
-#mafft_cline = MafftCommandline(input="psbA_unaligned.fasta")
-#mafft_cline.set_parameter("--auto", True)
-#mafft_cline.set_parameter("--adjustdirection", True)
-#print(str(mafft_cline))
-#stdout, stderr = mafft_cline()
-#
-#print("Writing psbA alignment to FASTA file...")
-#with open("psbA_aligned.fasta", "w") as handle:
-#    handle.write(stdout)
-#
-#print("Aligning rpl16 with MAFFT...")
-#mafft_cline = MafftCommandline(input="rpl16_unaligned.fasta")
-#mafft_cline.set_parameter("--auto", True)
-#mafft_cline.set_parameter("--adjustdirection", True)
-#print(str(mafft_cline))
-#stdout, stderr = mafft_cline()
-#
-#print("Writing rpl16 alignment to FASTA file...")
-#with open("rpl16_aligned.fasta", "w") as handle:
-#    handle.write(stdout)
+trnTL_records = []
+trnL_records = []
+trnLF_records = []
+psbA_records = []
+rpl16_records = []
+Entrez.email = 'freyman@berkeley.edu'
+
+print('Downloading accessions...')
+for accession in trnTL_accessions:
+    if accession.strip() != '':
+        handle = Entrez.efetch(db='nucleotide', rettype='fasta', retmode='text', id=accession)
+        trnTL_records.append(SeqIO.read(handle, 'fasta'))
+        handle.close()
+        sleep(0.02)
+SeqIO.write(trnTL_records, "trnTL_unaligned.fasta", "fasta")
+
+for accession in trnL_accessions:
+    if accession.strip() != '':
+        handle = Entrez.efetch(db='nucleotide', rettype='fasta', retmode='text', id=accession)
+        trnL_records.append(SeqIO.read(handle, 'fasta'))
+        handle.close()
+        sleep(0.02)
+SeqIO.write(trnL_records, "trnL_unaligned.fasta", "fasta")
+
+for accession in trnLF_accessions:
+    if accession.strip() != '':
+        handle = Entrez.efetch(db='nucleotide', rettype='fasta', retmode='text', id=accession)
+        trnLF_records.append(SeqIO.read(handle, 'fasta'))
+        handle.close()
+        sleep(0.02)
+SeqIO.write(trnLF_records, "trnLF_unaligned.fasta", "fasta")
+
+for accession in psbA_accessions:
+    if accession.strip() != '':
+        handle = Entrez.efetch(db='nucleotide', rettype='fasta', retmode='text', id=accession)
+        psbA_records.append(SeqIO.read(handle, 'fasta'))
+        handle.close()
+        sleep(0.02)
+SeqIO.write(psbA_records, "psbA_unaligned.fasta", "fasta")
+
+for accession in rpl16_accessions:
+    if accession.strip() != '':
+        handle = Entrez.efetch(db='nucleotide', rettype='fasta', retmode='text', id=accession)
+        rpl16_records.append(SeqIO.read(handle, 'fasta'))
+        handle.close()
+        sleep(0.02)
+SeqIO.write(rpl16_records, "rpl16_unaligned.fasta", "fasta")
+
+print("Aligning trnTL with MAFFT...")
+mafft_cline = MafftCommandline(input="trnTL_unaligned.fasta")
+mafft_cline.set_parameter("--auto", True)
+mafft_cline.set_parameter("--adjustdirection", True)
+print(str(mafft_cline))
+stdout, stderr = mafft_cline()
+
+print("Writing trnTL alignment to FASTA file...")
+with open("trnTL_aligned.fasta", "w") as handle:
+    handle.write(stdout)
+
+print("Aligning trnL with MAFFT...")
+mafft_cline = MafftCommandline(input="trnL_unaligned.fasta")
+mafft_cline.set_parameter("--auto", True)
+mafft_cline.set_parameter("--adjustdirection", True)
+print(str(mafft_cline))
+stdout, stderr = mafft_cline()
+
+print("Writing trnL alignment to FASTA file...")
+with open("trnL_aligned.fasta", "w") as handle:
+    handle.write(stdout)
+
+print("Aligning trnLF with MAFFT...")
+mafft_cline = MafftCommandline(input="trnLF_unaligned.fasta")
+mafft_cline.set_parameter("--auto", True)
+mafft_cline.set_parameter("--adjustdirection", True)
+print(str(mafft_cline))
+stdout, stderr = mafft_cline()
+
+print("Writing trnLF alignment to FASTA file...")
+with open("trnLF_aligned.fasta", "w") as handle:
+    handle.write(stdout)
+
+print("Aligning psbA with MAFFT...")
+mafft_cline = MafftCommandline(input="psbA_unaligned.fasta")
+mafft_cline.set_parameter("--auto", True)
+mafft_cline.set_parameter("--adjustdirection", True)
+print(str(mafft_cline))
+stdout, stderr = mafft_cline()
+
+print("Writing psbA alignment to FASTA file...")
+with open("psbA_aligned.fasta", "w") as handle:
+    handle.write(stdout)
+
+print("Aligning rpl16 with MAFFT...")
+mafft_cline = MafftCommandline(input="rpl16_unaligned.fasta")
+mafft_cline.set_parameter("--auto", True)
+mafft_cline.set_parameter("--adjustdirection", True)
+print(str(mafft_cline))
+stdout, stderr = mafft_cline()
+
+print("Writing rpl16 alignment to FASTA file...")
+with open("rpl16_aligned.fasta", "w") as handle:
+    handle.write(stdout)
 
 print('Concatenating...')
 accessions = [trnTL_accessions, trnL_accessions, trnLF_accessions, psbA_accessions, rpl16_accessions]
