@@ -151,7 +151,10 @@ for i, taxon in enumerate(taxa):
         if accession[i].strip() == '':
             sequence += get_unknowns(len(str(records[j][0].seq)))
         else:
-            sequence += str(records[j][0].seq)
+            for record in records[j]:
+                if accession[i].strip() in record.description:
+                    sequence += str(record.seq)
+                    break
     final_sequences.append(sequence)
 
 final_records = []
