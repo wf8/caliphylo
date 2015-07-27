@@ -1,0 +1,14 @@
+Task\ label=calochortus raxml 2
+Task\ ID=716245
+Tool=RAXMLHPC2BB
+created\ on=2015-07-24 14:48:06.0
+JobHandle=NGBW-JOB-RAXMLHPC2BB-4C5FD4F280784CF7B0C9F2A459A54C38
+resource=comet
+User\ ID=68621
+User\ Name=freyman@berkeley.edu
+email=freyman@berkeley.edu
+
+Output=(raxml_outputfiles,RAXML_*,UNKNOWN,UNKNOWN,UNKNOWN),(all_outputfiles,*,UNKNOWN,UNKNOWN,UNKNOWN)
+ChargeFactor=1.000000
+cores=48
+JOBID=717528
