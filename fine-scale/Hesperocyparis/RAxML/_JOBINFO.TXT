@@ -1,0 +1,14 @@
+Task\ label=hesperocyparis raxml
+Task\ ID=717591
+Tool=RAXMLHPC2BB
+created\ on=2015-07-27 14:04:50.0
+JobHandle=NGBW-JOB-RAXMLHPC2BB-31ECDC272F5148309B988C0B1FCECEDE
+resource=comet
+User\ ID=68621
+User\ Name=freyman@berkeley.edu
+email=freyman@berkeley.edu
+
+Output=(raxml_outputfiles,RAXML_*,UNKNOWN,UNKNOWN,UNKNOWN),(all_outputfiles,*,UNKNOWN,UNKNOWN,UNKNOWN)
+ChargeFactor=1.000000
+cores=48
+JOBID=722971
