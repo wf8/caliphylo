@@ -1,0 +1,233 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=139;
+	taxlabels
+	Chelone_glabra
+	Collinsia_antonina_1
+	Collinsia_antonina_2
+	Collinsia_antonina_3
+	Collinsia_bartsiifolia_var_bartsiifolia_1
+	Collinsia_bartsiifolia_var_bartsiifolia_2_3
+	Collinsia_bartsiifolia_var_davidsonii_1_5
+	Collinsia_bartsiifolia_var_davidsonii_2to4
+	Collinsia_callosa_1
+	Collinsia_callosa_2
+	Collinsia_callosa_3
+	Collinsia_childii_1
+	Collinsia_childii_2
+	Collinsia_childii_3
+	Collinsia_childii_4
+	Collinsia_childii_5
+	Collinsia_childii_6
+	Collinsia_concolor_1a_2to5_Collinsia_parryi_1_2
+	Collinsia_concolor_1b
+	Collinsia_corymbosa_1_2_3a_3b
+	Collinsia_grandiflora_1_2a
+	Collinsia_grandiflora_2b
+	Collinsia_grandiflora_3_5
+	Collinsia_grandiflora_4
+	Collinsia_greenei_1_2_4
+	Collinsia_greenei_3
+	Collinsia_heterophylla_1
+	Collinsia_heterophylla_10
+	Collinsia_heterophylla_12_13
+	Collinsia_heterophylla_12_14
+	Collinsia_heterophylla_15
+	Collinsia_heterophylla_16
+	Collinsia_heterophylla_17
+	Collinsia_heterophylla_18_ITSclone11
+	Collinsia_heterophylla_18_ITSclone6
+	Collinsia_heterophylla_18_ITSclones2_12
+	Collinsia_heterophylla_21
+	Collinsia_heterophylla_2a_b
+	Collinsia_heterophylla_3
+	Collinsia_heterophylla_4_5
+	Collinsia_heterophylla_6_11_19
+	Collinsia_heterophylla_7
+	Collinsia_heterophylla_8
+	Collinsia_heterophylla_9
+	Collinsia_latifolia_1
+	Collinsia_latifolia_2
+	Collinsia_latifolia_3_4
+	Collinsia_linearis_10
+	Collinsia_linearis_11
+	Collinsia_linearis_13
+	Collinsia_linearis_14
+	Collinsia_linearis_15to18
+	Collinsia_linearis_19
+	Collinsia_linearis_1_4
+	Collinsia_linearis_2
+	Collinsia_linearis_20
+	Collinsia_linearis_3_5_12
+	Collinsia_linearis_6a
+	Collinsia_linearis_6b
+	Collinsia_linearis_7
+	Collinsia_linearis_8
+	Collinsia_linearis_9
+	Collinsia_metamorphica_1_2_6
+	Collinsia_metamorphica_3_4
+	Collinsia_metamorphica_5
+	Collinsia_metamorphica_7
+	Collinsia_metamorphica_8
+	Collinsia_multicolor_1_2
+	Collinsia_parviflora_10a
+	Collinsia_parviflora_10b
+	Collinsia_parviflora_11
+	Collinsia_parviflora_12
+	Collinsia_parviflora_13
+	Collinsia_parviflora_14
+	Collinsia_parviflora_1_2_6_7_Collinsia_grandiflora_6
+	Collinsia_parviflora_3
+	Collinsia_parviflora_4
+	Collinsia_parviflora_5
+	Collinsia_parviflora_8
+	Collinsia_parviflora_9
+	Collinsia_rattanii_1_2_4
+	Collinsia_rattanii_3
+	Collinsia_rattanii_6
+	Collinsia_rattanii_7_8
+	Collinsia_rattanii_9
+	Collinsia_sparsiflora_var_collina_1
+	Collinsia_sparsiflora_var_collina_2
+	Collinsia_sparsiflora_var_collina_4
+	Collinsia_sparsiflora_var_collina_5
+	Collinsia_sparsiflora_var_sparsiflora_17
+	Collinsia_sparsiflora_var_sparsiflora_19
+	Collinsia_sparsiflora_var_sparsiflora_1to5_9to12_15_16_18_20_var_collina_3
+	Collinsia_sparsiflora_var_sparsiflora_6_7_13_14
+	Collinsia_sparsiflora_var_sparsiflora_8
+	Collinsia_tinctoria_1_ETSclone2
+	Collinsia_tinctoria_1_ETSclone3
+	Collinsia_tinctoria_1_ETSclone7
+	Collinsia_tinctoria_1_ETSclones1_5_6_8_10_11_12
+	Collinsia_tinctoria_1_ETSclones4_9
+	Collinsia_tinctoria_2
+	Collinsia_tinctoria_3
+	Collinsia_tinctoria_4_ITS_clone1
+	Collinsia_tinctoria_4_ITS_clone12
+	Collinsia_tinctoria_4_ITS_clone5
+	Collinsia_tinctoria_4_ITS_clones2_3_7_10
+	Collinsia_tinctoria_4_ITS_clones4_6_8_9_11
+	Collinsia_tinctoria_6
+	Collinsia_tinctoria_7
+	Collinsia_tinctoria_8_ITSclone11
+	Collinsia_tinctoria_8_ITSclone3
+	Collinsia_tinctoria_8_ITSclone5
+	Collinsia_tinctoria_8_ITSclone6
+	Collinsia_tinctoria_8_ITSclones1_4_7_8_9_12
+	Collinsia_tinctoria_8_ITSclones2_10
+	Collinsia_torreyi_1a_2_4
+	Collinsia_torreyi_1b
+	Collinsia_torreyi_3
+	Collinsia_verna_1_3
+	Collinsia_verna_2
+	Collinsia_violacea_1
+	Collinsia_violacea_2
+	Collinsia_violacea_3
+	Collinsia_wrightii_11
+	Collinsia_wrightii_12
+	Collinsia_wrightii_1a_b
+	Collinsia_wrightii_2
+	Collinsia_wrightii_3
+	Collinsia_wrightii_4_5_10
+	Collinsia_wrightii_6
+	Collinsia_wrightii_7
+	Collinsia_wrightii_8
+	Collinsia_wrightii_9
+	Keckiella_cordifolia
+	Penstemon_hartwegii
+	Tonella_floribunda_1_2
+	Tonella_tenella_1
+	Tonella_tenella_2
+	Tonella_tenella_3
+	Tonella_tenella_4
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] (((Tonella_tenella_3:0.001114,(Tonella_tenella_1:1.0E-6,Tonella_tenella_2:0.001116)[&label=70]:1.0E-6)[&label=93]:0.002277,Tonella_tenella_4:0.013932)[&label=90]:0.006261,(((((Collinsia_wrightii_4_5_10:1.0E-6,Collinsia_wrightii_3:1.0E-6)[&label=92]:0.001095,(((Collinsia_wrightii_12:0.001106,Collinsia_wrightii_11:0.002213)[&label=17]:1.0E-6,(Collinsia_wrightii_9:1.0E-6,Collinsia_wrightii_7:1.0E-6)[&label=90]:1.0E-6)[&label=18]:1.0E-6,(Collinsia_wrightii_6:1.0E-6,((Collinsia_wrightii_1a_b:1.0E-6,Collinsia_wrightii_8:1.0E-6)[&label=89]:1.0E-6,Collinsia_wrightii_2:1.0E-6)[&label=3]:1.0E-6)[&label=95]:0.003323)[&label=87]:0.001121)[&label=100]:0.02994,((Collinsia_torreyi_1b:1.0E-6,(Collinsia_torreyi_1a_2_4:1.0E-6,Collinsia_torreyi_3:0.001114)[&label=72]:0.001114)[&label=100]:0.030119,((Collinsia_latifolia_1:1.0E-6,Collinsia_latifolia_2:0.001122)[&label=98]:0.003582,Collinsia_latifolia_3_4:0.01238)[&label=99]:0.011741)[&label=62]:0.001969)[&label=73]:0.008782,((((((Collinsia_parviflora_13:0.001136,((Collinsia_parviflora_8:0.004564,(((Collinsia_parviflora_10b:1.0E-6,(Collinsia_parviflora_9:1.0E-6,Collinsia_parviflora_3:1.0E-6)[&label=91]:0.003408)[&label=84]:1.0E-6,Collinsia_parviflora_10a:1.0E-6)[&label=10]:1.0E-6,(Collinsia_grandiflora_4:0.001131,(Collinsia_grandiflora_3_5:1.0E-6,(Collinsia_grandiflora_2b:0.001133,Collinsia_grandiflora_1_2a:1.0E-6)[&label=68]:0.001134)[&label=42]:1.0E-6)[&label=87]:0.002278)[&label=64]:0.001134)[&label=37]:1.0E-6,Collinsia_parviflora_11:1.0E-6)[&label=24]:1.0E-6)[&label=58]:1.0E-6,Collinsia_parviflora_12:1.0E-6)[&label=52]:5.45E-4,((Collinsia_parviflora_5:0.001169,Collinsia_parviflora_4:0.002203)[&label=76]:8.0E-5,(Collinsia_parviflora_1_2_6_7_Collinsia_grandiflora_6:1.0E-6,Collinsia_parviflora_14:0.003422)[&label=80]:6.27E-4)[&label=59]:0.001094)[&label=100]:0.026464,((Collinsia_verna_1_3:1.0E-6,Collinsia_verna_2:0.002273)[&label=100]:0.010912,(Collinsia_violacea_1:0.003844,(Collinsia_violacea_3:1.0E-6,Collinsia_violacea_2:1.0E-6)[&label=98]:0.001141)[&label=100]:0.008865)[&label=99]:0.014624)[&label=99]:0.021035,(((Collinsia_callosa_1:0.003469,(Collinsia_callosa_3:1.0E-6,Collinsia_callosa_2:0.001146)[&label=72]:1.0E-6)[&label=100]:0.021931,((Collinsia_greenei_1_2_4:0.001102,Collinsia_greenei_3:0.001154)[&label=100]:0.028781,((Collinsia_multicolor_1_2:0.013247,((((Collinsia_bartsiifolia_var_davidsonii_1_5:1.0E-6,(Collinsia_bartsiifolia_var_davidsonii_2to4:0.001143,Collinsia_bartsiifolia_var_bartsiifolia_2_3:0.001139)[&label=6]:1.0E-6)[&label=50]:0.001143,Collinsia_bartsiifolia_var_bartsiifolia_1:1.0E-6)[&label=42]:0.001146,(Collinsia_corymbosa_1_2_3a_3b:0.002296,((((Collinsia_tinctoria_3:1.0E-6,Collinsia_tinctoria_8_ITSclone6:1.0E-6)[&label=17]:1.0E-6,(Collinsia_tinctoria_4_ITS_clones4_6_8_9_11:1.0E-6,((Collinsia_tinctoria_7:0.001156,(Collinsia_tinctoria_8_ITSclones2_10:0.001154,(Collinsia_tinctoria_4_ITS_clone1:1.0E-6,Collinsia_tinctoria_4_ITS_clones2_3_7_10:0.002313)[&label=77]:0.001165)[&label=58]:0.001147)[&label=39]:1.0E-6,Collinsia_tinctoria_2:1.0E-6)[&label=13]:1.0E-6)[&label=1]:1.0E-6)[&label=35]:1.0E-6,Collinsia_tinctoria_8_ITSclones1_4_7_8_9_12:0.002309)[&label=57]:0.001148,Collinsia_tinctoria_6:1.0E-6)[&label=39]:0.003461)[&label=4]:1.0E-6)[&label=56]:0.004676,((((Collinsia_tinctoria_1_ETSclones4_9:0.002379,(Collinsia_tinctoria_1_ETSclone3:0.001177,(Collinsia_heterophylla_12_13:1.0E-6,((Collinsia_heterophylla_15:0.001159,Collinsia_heterophylla_16:1.0E-6)[&label=53]:0.001154,((((Collinsia_heterophylla_9:1.0E-6,((Collinsia_heterophylla_18_ITSclone11:0.002304,(Collinsia_heterophylla_4_5:0.003476,Collinsia_heterophylla_2a_b:0.001146)[&label=60]:0.001148)[&label=17]:1.0E-6,Collinsia_heterophylla_18_ITSclones2_12:0.001151)[&label=6]:1.0E-6)[&label=27]:1.0E-6,(Collinsia_heterophylla_7:1.0E-6,(Collinsia_heterophylla_8:0.002317,(Collinsia_heterophylla_6_11_19:1.0E-6,(Collinsia_heterophylla_1:1.0E-6,(Collinsia_heterophylla_17:0.001144,Collinsia_heterophylla_10:1.0E-6)[&label=40]:0.001146)[&label=31]:1.0E-6)[&label=48]:0.001137)[&label=73]:0.002311)[&label=37]:1.0E-6)[&label=70]:0.002293,Collinsia_heterophylla_18_ITSclone6:0.003489)[&label=86]:0.003528,((Collinsia_heterophylla_3:0.002309,Collinsia_heterophylla_21:0.001162)[&label=35]:1.0E-6,Collinsia_heterophylla_12_14:1.0E-6)[&label=28]:1.0E-6)[&label=46]:0.001153)[&label=11]:1.0E-6)[&label=100]:0.012932)[&label=63]:0.00116)[&label=62]:0.002286,(Collinsia_tinctoria_1_ETSclone7:1.0E-6,((Collinsia_tinctoria_1_ETSclone2:0.00118,Collinsia_tinctoria_1_ETSclones1_5_6_8_10_11_12:1.0E-6)[&label=58]:1.0E-6,(Collinsia_tinctoria_8_ITSclone11:0.002379,(Collinsia_tinctoria_8_ITSclone5:0.004646,((Collinsia_tinctoria_4_ITS_clone5:1.0E-6,Collinsia_tinctoria_4_ITS_clone12:0.00231)[&label=96]:0.003469,Collinsia_tinctoria_8_ITSclone3:1.0E-6)[&label=7]:1.0E-6)[&label=64]:1.0E-6)[&label=100]:0.010541)[&label=30]:0.002306)[&label=34]:0.00348)[&label=47]:0.00356,(Collinsia_concolor_1b:1.0E-6,Collinsia_concolor_1a_2to5_Collinsia_parryi_1_2:0.001148)[&label=100]:0.008049)[&label=22]:0.001154,(Collinsia_antonina_3:0.001141,(Collinsia_antonina_2:0.002284,Collinsia_antonina_1:1.0E-6)[&label=13]:1.0E-6)[&label=100]:0.006878)[&label=23]:0.001146)[&label=71]:0.002046)[&label=96]:0.007613,(Collinsia_sparsiflora_var_collina_4:1.0E-6,(Collinsia_sparsiflora_var_collina_2:1.0E-6,((Collinsia_sparsiflora_var_collina_5:1.0E-6,(((Collinsia_sparsiflora_var_collina_1:0.001167,Collinsia_sparsiflora_var_sparsiflora_17:0.002334)[&label=13]:1.0E-6,(Collinsia_sparsiflora_var_sparsiflora_19:0.001165,Collinsia_sparsiflora_var_sparsiflora_8:0.002336)[&label=16]:1.0E-6)[&label=4]:1.0E-6,Collinsia_sparsiflora_var_sparsiflora_1to5_9to12_15_16_18_20_var_collina_3:1.0E-6)[&label=4]:1.0E-6)[&label=10]:1.0E-6,Collinsia_sparsiflora_var_sparsiflora_6_7_13_14:0.001167)[&label=61]:0.001165)[&label=59]:0.001165)[&label=100]:0.035053)[&label=82]:0.004487)[&label=73]:0.00557)[&label=64]:0.006808,((Collinsia_childii_2:0.003464,(((Collinsia_childii_3:0.001146,(Collinsia_childii_4:1.0E-6,Collinsia_childii_6:0.0023)[&label=72]:0.001146)[&label=65]:0.001147,Collinsia_childii_5:0.001187)[&label=40]:1.0E-6,Collinsia_childii_1:1.0E-6)[&label=64]:1.0E-6)[&label=94]:0.002551,(Collinsia_metamorphica_3_4:0.001241,(((Collinsia_metamorphica_8:0.001158,Collinsia_metamorphica_7:0.001156)[&label=91]:0.00232,Collinsia_metamorphica_1_2_6:1.0E-6)[&label=50]:9.16E-4,Collinsia_metamorphica_5:1.0E-6)[&label=45]:1.6E-4)[&label=72]:0.003331)[&label=99]:0.011233)[&label=96]:0.01739)[&label=62]:0.004727,((((((Collinsia_rattanii_6:0.001118,(Collinsia_rattanii_7_8:1.0E-6,Collinsia_rattanii_9:0.001122)[&label=54]:0.001125)[&label=45]:0.001125,Collinsia_rattanii_3:0.002253)[&label=24]:1.0E-6,Collinsia_rattanii_1_2_4:1.0E-6)[&label=30]:1.0E-6,(Collinsia_linearis_14:1.0E-6,((Collinsia_linearis_13:1.0E-6,Collinsia_linearis_15to18:1.0E-6)[&label=48]:0.002253,Collinsia_linearis_20:1.0E-6)[&label=23]:0.00112)[&label=24]:1.0E-6)[&label=62]:0.002246,Collinsia_linearis_19:1.0E-6)[&label=99]:0.020126,((Collinsia_linearis_8:9.8E-4,Collinsia_linearis_7:1.0E-6)[&label=44]:1.07E-4,(Collinsia_linearis_9:1.0E-6,((Collinsia_linearis_6a:1.0E-6,Collinsia_linearis_1_4:1.0E-6)[&label=53]:1.0E-6,(Collinsia_linearis_6b:1.0E-6,(Collinsia_linearis_11:1.0E-6,(Collinsia_linearis_2:0.004513,(Collinsia_linearis_10:0.001121,Collinsia_linearis_3_5_12:1.0E-6)[&label=32]:1.0E-6)[&label=61]:1.21E-4)[&label=19]:1.0E-6)[&label=58]:9.98E-4)[&label=66]:1.0E-6)[&label=51]:0.001368)[&label=99]:0.014239)[&label=100]:0.049001)[&label=82]:0.007334)[&label=66]:0.023109,(Keckiella_cordifolia:0.028785,(Penstemon_hartwegii:0.03445,Chelone_glabra:0.038055)[&label=100]:0.032445)[&label=100]:0.174124)[&label=100]:0.03567,Tonella_floribunda_1_2:0.019967);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="label";
+	set branchLabels.fontName="Arial";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=true;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=861;
+	set legend.attribute=null;
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="Node ages";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set nodeShape.colourAttribute=null;
+	set nodeShape.isShown=false;
+	set nodeShape.minSize=10.0;
+	set nodeShape.scaleType=Width;
+	set nodeShape.shapeType=Circle;
+	set nodeShape.size=4.0;
+	set nodeShape.sizeAttribute=null;
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="Arial";
+	set tipLabels.fontSize=11;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=true;
+	set trees.orderType="decreasing";
+	set trees.rooting=true;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+

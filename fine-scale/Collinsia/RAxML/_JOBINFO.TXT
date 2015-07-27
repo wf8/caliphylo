@@ -1,0 +1,14 @@
+Task\ label=collinsia raxml
+Task\ ID=717571
+Tool=RAXMLHPC2BB
+created\ on=2015-07-27 13:22:56.0
+JobHandle=NGBW-JOB-RAXMLHPC2BB-D26D0A79362B4C40B3347253AC7DEA11
+resource=comet
+User\ ID=68621
+User\ Name=freyman@berkeley.edu
+email=freyman@berkeley.edu
+
+Output=(raxml_outputfiles,RAXML_*,UNKNOWN,UNKNOWN,UNKNOWN),(all_outputfiles,*,UNKNOWN,UNKNOWN,UNKNOWN)
+ChargeFactor=1.000000
+cores=48
+JOBID=722802
