@@ -1,0 +1,139 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=45;
+	taxlabels
+	Cuscuta_brachycalyx_147
+	Cuscuta_brachycalyx_472
+	Cuscuta_brachycalyx_499
+	Cuscuta_brachycalyx_643
+	Cuscuta_brachycalyx_645
+	Cuscuta_californica_178
+	Cuscuta_californica_418
+	Cuscuta_californica_500
+	Cuscuta_californica_637
+	Cuscuta_californica_669
+	Cuscuta_campestris_411
+	Cuscuta_decipiens_1014
+	Cuscuta_decipiens_981
+	Cuscuta_draconella_458
+	Cuscuta_draconella_538
+	Cuscuta_draconella_658
+	Cuscuta_draconella_659
+	Cuscuta_glabrior_596
+	Cuscuta_gronovii_343
+	Cuscuta_howelliana_357
+	Cuscuta_howelliana_654
+	Cuscuta_howelliana_655
+	Cuscuta_howelliana_656
+	Cuscuta_occidentalis_503
+	Cuscuta_occidentalis_504
+	Cuscuta_occidentalis_646
+	Cuscuta_occidentalis_647
+	Cuscuta_occidentalis_648
+	Cuscuta_salina_major_502
+	Cuscuta_salina_major_642
+	Cuscuta_salina_major_651
+	Cuscuta_salina_salina_477
+	Cuscuta_salina_salina_478
+	Cuscuta_salina_salina_652
+	Cuscuta_salina_salina_653
+	Cuscuta_suaveolens_790
+	Cuscuta_subinclusa_197
+	Cuscuta_subinclusa_484
+	Cuscuta_subinclusa_501
+	Cuscuta_subinclusa_644
+	Cuscuta_subinclusa_649
+	Cuscuta_subinclusa_961
+	Cuscuta_suksdorfii_470
+	Cuscuta_suksdorfii_635
+	Cuscuta_suksdorfii_636
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] (Cuscuta_brachycalyx_643:3.14E-4,(Cuscuta_brachycalyx_147:1.0E-6,(((Cuscuta_occidentalis_647:9.22E-4,(Cuscuta_occidentalis_504:6.06E-4,(((Cuscuta_occidentalis_646:1.0E-6,Cuscuta_occidentalis_503:4.86E-4)[&label=98]:0.001548,(((Cuscuta_californica_669:3.12E-4,(Cuscuta_californica_418:6.18E-4,Cuscuta_californica_178:6.14E-4)[&label=35]:1.0E-6)[&label=51]:4.21E-4,Cuscuta_californica_500:0.003694)[&label=68]:6.83E-4,Cuscuta_californica_637:0.001898)[&label=79]:4.18E-4)[&label=96]:0.002135,Cuscuta_occidentalis_648:1.0E-6)[&label=37]:6.07E-4)[&label=12]:1.0E-6)[&label=100]:0.01354,((((((Cuscuta_subinclusa_644:6.15E-4,Cuscuta_subinclusa_649:0.001845)[&label=70]:6.16E-4,Cuscuta_subinclusa_501:0.001573)[&label=52]:6.12E-4,Cuscuta_subinclusa_484:7.76E-4)[&label=21]:1.0E-6,Cuscuta_subinclusa_197:3.18E-4)[&label=58]:3.22E-4,Cuscuta_subinclusa_961:6.41E-4)[&label=100]:0.013509,(((((Cuscuta_salina_major_651:1.0E-6,(Cuscuta_salina_major_502:1.0E-6,Cuscuta_salina_major_642:1.0E-6)[&label=97]:1.0E-6)[&label=100]:0.00657,((Cuscuta_salina_salina_477:3.14E-4,Cuscuta_salina_salina_478:0.001564)[&label=98]:3.01E-4,(Cuscuta_salina_salina_653:1.0E-6,Cuscuta_salina_salina_652:3.12E-4)[&label=99]:0.00125)[&label=100]:0.003753)[&label=100]:0.001911,(Cuscuta_suksdorfii_470:0.001894,(Cuscuta_suksdorfii_636:1.0E-6,Cuscuta_suksdorfii_635:3.15E-4)[&label=100]:0.002223)[&label=97]:8.92E-4)[&label=100]:0.00544,((Cuscuta_howelliana_357:3.18E-4,Cuscuta_howelliana_655:1.0E-6)[&label=100]:0.001938,(Cuscuta_howelliana_654:1.0E-6,Cuscuta_howelliana_656:4.7E-4)[&label=98]:0.002805)[&label=100]:0.010177)[&label=100]:0.01082,((((Cuscuta_draconella_458:1.0E-6,(Cuscuta_draconella_538:1.0E-6,Cuscuta_draconella_659:3.1E-4)[&label=41]:2.0E-6)[&label=62]:3.11E-4,Cuscuta_draconella_658:1.0E-6)[&label=98]:8.46E-4,(Cuscuta_decipiens_981:1.0E-6,Cuscuta_decipiens_1014:1.0E-6)[&label=99]:0.003539)[&label=100]:0.019209,((Cuscuta_glabrior_596:0.014863,Cuscuta_campestris_411:0.008049)[&label=100]:0.025314,(Cuscuta_gronovii_343:0.043757,Cuscuta_suaveolens_790:0.027215)[&label=88]:0.002724)[&label=100]:0.014804)[&label=100]:0.007116)[&label=77]:0.001211)[&label=100]:0.009533)[&label=100]:0.014999,(Cuscuta_brachycalyx_499:1.0E-6,Cuscuta_brachycalyx_645:0.001052)[&label=82]:5.07E-4)[&label=63]:3.06E-4)[&label=43]:1.0E-6,Cuscuta_brachycalyx_472:1.0E-6);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="label";
+	set branchLabels.fontName="Arial";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=true;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute=null;
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="Node ages";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set nodeShape.colourAttribute=null;
+	set nodeShape.isShown=false;
+	set nodeShape.minSize=10.0;
+	set nodeShape.scaleType=Width;
+	set nodeShape.shapeType=Circle;
+	set nodeShape.size=4.0;
+	set nodeShape.sizeAttribute=null;
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="Arial";
+	set tipLabels.fontSize=10;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=true;
+	set trees.orderType="increasing";
+	set trees.rooting=true;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+

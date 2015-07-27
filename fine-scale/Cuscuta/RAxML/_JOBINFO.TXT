@@ -1,0 +1,14 @@
+Task\ label=cuscata raxml
+Task\ ID=717586
+Tool=RAXMLHPC2BB
+created\ on=2015-07-27 13:55:58.0
+JobHandle=NGBW-JOB-RAXMLHPC2BB-A8D6C88E7D3E4AFCBAF56A507EB18D46
+resource=comet
+User\ ID=68621
+User\ Name=freyman@berkeley.edu
+email=freyman@berkeley.edu
+
+Output=(raxml_outputfiles,RAXML_*,UNKNOWN,UNKNOWN,UNKNOWN),(all_outputfiles,*,UNKNOWN,UNKNOWN,UNKNOWN)
+ChargeFactor=1.000000
+cores=48
+JOBID=722932
