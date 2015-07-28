@@ -1,0 +1,124 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=30;
+	taxlabels
+	Bensoniella_oregona
+	Heuchera_americana
+	Heuchera_chlorantha
+	Heuchera_maxima
+	Heuchera_rubescens
+	Lithophragma_affine
+	'Lithophragma_affine_subsp._mixtum'
+	Lithophragma_bolanderi
+	Lithophragma_bolanderi_strain_Oroville_A
+	Lithophragma_bolanderi_strain_Oroville_B
+	Lithophragma_bolanderi_strain_Richardson_Springs_A
+	Lithophragma_bolanderi_strain_Richardson_Springs_B
+	Lithophragma_bolanderi_strain_Sequoia_A
+	Lithophragma_bolanderi_strain_Sequoia_B
+	Lithophragma_bolanderi_strain_Tuolumne_2n_20
+	Lithophragma_bolanderi_strain_Tuolumne_2n_21
+	Lithophragma_campanulatum
+	Lithophragma_cymbalaria
+	Lithophragma_glabrum
+	Lithophragma_heterophyllum
+	Lithophragma_maximum
+	Lithophragma_parviflorum
+	Lithophragma_tenellum
+	Lithophragma_trifoliatum
+	Mitella_acerina
+	Mitella_furusei
+	Mitella_japonica
+	Mitella_pauciflora
+	Mitella_yoshinagae
+	Tellima_grandiflora
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] (((((((Lithophragma_bolanderi_strain_Sequoia_B:0.003044,Lithophragma_bolanderi_strain_Richardson_Springs_B:1.0E-6)[&label=55]:1.0E-6,Lithophragma_bolanderi_strain_Oroville_B:0.001519)[&label=100]:0.028809,Lithophragma_glabrum:0.008001)[&label=77]:0.005129,Lithophragma_tenellum:0.015868)[&label=61]:0.003602,((((Lithophragma_bolanderi_strain_Richardson_Springs_A:1.0E-6,(Lithophragma_bolanderi_strain_Tuolumne_2n_21:1.0E-6,Lithophragma_bolanderi_strain_Tuolumne_2n_20:1.0E-6)[&label=84]:0.001512)[&label=59]:0.001511,(Lithophragma_bolanderi_strain_Oroville_A:1.0E-6,Lithophragma_bolanderi:0.00151)[&label=26]:1.0E-6)[&label=83]:0.003938,Lithophragma_bolanderi_strain_Sequoia_A:0.006763)[&label=90]:0.005418,((Lithophragma_cymbalaria:0.004701,Lithophragma_heterophyllum:0.004546)[&label=100]:0.016639,(((Tellima_grandiflora:0.005959,(((Mitella_pauciflora:0.006283,(Mitella_acerina:1.0E-6,Mitella_furusei:1.0E-6)[&label=100]:0.009111)[&label=100]:0.023405,(Mitella_japonica:0.006619,Mitella_yoshinagae:0.013237)[&label=100]:0.019256)[&label=99]:0.010156,(Bensoniella_oregona:0.029094,((Heuchera_maxima:1.0E-6,Heuchera_chlorantha:0.002999)[&label=100]:0.009136,(Heuchera_rubescens:0.005848,Heuchera_americana:0.001709)[&label=59]:0.003027)[&label=74]:0.003066)[&label=89]:0.004784)[&label=69]:0.001614)[&label=99]:0.017367,Lithophragma_maximum:0.02508)[&label=43]:0.002561,Lithophragma_campanulatum:0.01306)[&label=56]:0.003416)[&label=59]:0.005293)[&label=82]:0.00435)[&label=98]:0.009546,Lithophragma_affine:0.005278)[&label=92]:0.002332,(Lithophragma_trifoliatum:0.004629,'Lithophragma_affine_subsp._mixtum':0.001493)[&label=93]:0.003075,Lithophragma_parviflorum:0.00304);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="label";
+	set branchLabels.fontName="Arial";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=true;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute=null;
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="Node ages";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set nodeShape.colourAttribute=null;
+	set nodeShape.isShown=false;
+	set nodeShape.minSize=10.0;
+	set nodeShape.scaleType=Width;
+	set nodeShape.shapeType=Circle;
+	set nodeShape.size=4.0;
+	set nodeShape.sizeAttribute=null;
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="Arial";
+	set tipLabels.fontSize=10;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=true;
+	set trees.orderType="increasing";
+	set trees.rooting=true;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+
