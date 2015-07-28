@@ -1,0 +1,161 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=67;
+	taxlabels
+	Amblyopappus_pusillus_isolate_ambl
+	Eriophyllum_congdonii_isolate_erioC
+	Lasthenia_burkei_isolate_burk20
+	Lasthenia_burkei_isolate_burk30
+	Lasthenia_burkei_isolate_burk83
+	'Lasthenia_californica_subsp._bakeri_isolate_macb137'
+	'Lasthenia_californica_subsp._bakeri_isolate_macb53'
+	'Lasthenia_californica_subsp._californica_isolate_cali117d'
+	'Lasthenia_californica_subsp._californica_isolate_cali121d'
+	'Lasthenia_californica_subsp._californica_isolate_cali50t'
+	'Lasthenia_californica_subsp._macrantha_isolate_macm08'
+	'Lasthenia_californica_subsp._macrantha_isolate_macm135'
+	'Lasthenia_californica_subsp._macrantha_isolate_macm80'
+	'Lasthenia_californica_subsp._macrantha_isolate_macm81'
+	Lasthenia_chrysantha_isolate_chry138
+	Lasthenia_chrysantha_isolate_chry16
+	Lasthenia_chrysantha_isolate_chry57
+	Lasthenia_conjugens_isolate_conj09
+	Lasthenia_conjugens_isolate_conj134
+	Lasthenia_conjugens_isolate_conj19
+	Lasthenia_conjugens_isolate_conj24
+	Lasthenia_coronaria_isolate_coro111
+	Lasthenia_coronaria_isolate_coro31
+	Lasthenia_coronaria_isolate_coro63
+	Lasthenia_coronaria_isolate_coro93
+	Lasthenia_debilis_isolate_debi54
+	Lasthenia_debilis_isolate_debi55
+	Lasthenia_debilis_isolate_debi91
+	Lasthenia_ferrisiae_isolate_ferr04
+	Lasthenia_ferrisiae_isolate_ferr18
+	Lasthenia_ferrisiae_isolate_ferr25
+	Lasthenia_fremontii_isolate_frem01
+	Lasthenia_fremontii_isolate_frem13
+	Lasthenia_fremontii_isolate_frem17
+	Lasthenia_glaberrima_isolate_glbb05
+	Lasthenia_glaberrima_isolate_glbb15
+	Lasthenia_glaberrima_isolate_glbb23
+	'Lasthenia_glabrata_subsp._coulteri_isolate_glac36'
+	'Lasthenia_glabrata_subsp._coulteri_isolate_glac41'
+	'Lasthenia_glabrata_subsp._coulteri_isolate_glac42'
+	'Lasthenia_glabrata_subsp._glabrata_isolate_glag119'
+	'Lasthenia_glabrata_subsp._glabrata_isolate_glag49'
+	'Lasthenia_glabrata_subsp._glabrata_isolate_glag78'
+	Lasthenia_gracilis_isolate_cali101d
+	Lasthenia_gracilis_isolate_cali103d
+	Lasthenia_gracilis_isolate_cali89t
+	Lasthenia_kunthii_isolate_kunt34
+	Lasthenia_kunthii_isolate_kunt35
+	Lasthenia_kunthii_isolate_kunt51
+	Lasthenia_leptalea_isolate_lept22
+	Lasthenia_leptalea_isolate_lept46
+	Lasthenia_leptalea_isolate_lept79
+	Lasthenia_maritima_isolate_mari129
+	Lasthenia_maritima_isolate_mari21
+	Lasthenia_maritima_isolate_mari29
+	Lasthenia_microglossa_isolate_micr114
+	Lasthenia_microglossa_isolate_micr52
+	Lasthenia_microglossa_isolate_micr87
+	Lasthenia_minor_isolate_mino06
+	Lasthenia_minor_isolate_mino123
+	Lasthenia_minor_isolate_mino128
+	Lasthenia_ornduffii_isolate_macp127
+	Lasthenia_ornduffii_isolate_macp33
+	Lasthenia_ornduffii_isolate_macp85
+	Lasthenia_platycarpha_isolate_plat02
+	Lasthenia_platycarpha_isolate_plat10
+	Lasthenia_platycarpha_isolate_plat139
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] (Lasthenia_platycarpha_isolate_plat02:0.004778,(Lasthenia_platycarpha_isolate_plat139:6.56E-4,((((Lasthenia_kunthii_isolate_kunt51:6.48E-4,(Lasthenia_kunthii_isolate_kunt34:6.51E-4,Lasthenia_kunthii_isolate_kunt35:1.0E-6)[&label=96]:0.001314)[&label=99]:0.003242,(Lasthenia_glaberrima_isolate_glbb23:1.0E-6,(Lasthenia_glaberrima_isolate_glbb15:0.001306,Lasthenia_glaberrima_isolate_glbb05:0.001959)[&label=24]:1.0E-6)[&label=48]:5.2E-5)[&label=100]:0.090722,(((('Lasthenia_glabrata_subsp._glabrata_isolate_glag78':1.0E-6,(((Lasthenia_chrysantha_isolate_chry57:1.0E-6,((('Lasthenia_glabrata_subsp._glabrata_isolate_glag49':0.001345,('Lasthenia_glabrata_subsp._glabrata_isolate_glag119':1.0E-6,Lasthenia_chrysantha_isolate_chry16:1.0E-6)[&label=53]:6.71E-4)[&label=12]:1.0E-6,Lasthenia_ferrisiae_isolate_ferr25:1.0E-6)[&label=4]:1.0E-6,Lasthenia_ferrisiae_isolate_ferr18:6.73E-4)[&label=41]:6.7E-4)[&label=45]:1.0E-6,Lasthenia_ferrisiae_isolate_ferr04:1.0E-6)[&label=13]:1.0E-6,(('Lasthenia_glabrata_subsp._coulteri_isolate_glac42':6.71E-4,('Lasthenia_glabrata_subsp._coulteri_isolate_glac41':0.001341,'Lasthenia_glabrata_subsp._coulteri_isolate_glac36':1.0E-6)[&label=77]:0.001341)[&label=24]:1.0E-6,Lasthenia_chrysantha_isolate_chry138:0.001341)[&label=70]:0.001348)[&label=50]:6.71E-4)[&label=100]:0.033562,((Lasthenia_microglossa_isolate_micr87:0.001448,(Lasthenia_microglossa_isolate_micr114:0.003344,Lasthenia_microglossa_isolate_micr52:1.0E-6)[&label=49]:0.001353)[&label=100]:0.007862,(Lasthenia_debilis_isolate_debi54:1.0E-6,(Lasthenia_debilis_isolate_debi55:0.002374,Lasthenia_debilis_isolate_debi91:0.002687)[&label=80]:0.00158)[&label=90]:0.004491)[&label=100]:0.032045)[&label=100]:0.046319,((Lasthenia_conjugens_isolate_conj134:0.004146,(Lasthenia_conjugens_isolate_conj09:6.86E-4,(Lasthenia_conjugens_isolate_conj19:1.0E-6,Lasthenia_conjugens_isolate_conj24:0.001373)[&label=66]:1.0E-6)[&label=91]:0.001385)[&label=100]:0.007759,((Lasthenia_fremontii_isolate_frem01:0.002062,(Lasthenia_fremontii_isolate_frem13:1.0E-6,Lasthenia_fremontii_isolate_frem17:1.0E-6)[&label=95]:1.0E-6)[&label=100]:0.015918,(Lasthenia_burkei_isolate_burk30:0.002431,(Lasthenia_burkei_isolate_burk83:0.002057,Lasthenia_burkei_isolate_burk20:1.0E-6)[&label=57]:1.0E-6)[&label=100]:0.009053)[&label=90]:0.002791)[&label=100]:0.054808)[&label=99]:0.020755,(((Lasthenia_maritima_isolate_mari29:1.0E-6,(Lasthenia_minor_isolate_mino06:6.82E-4,(Lasthenia_minor_isolate_mino128:6.81E-4,Lasthenia_minor_isolate_mino123:6.83E-4)[&label=36]:1.0E-6)[&label=60]:1.0E-6)[&label=88]:0.001237,(Lasthenia_maritima_isolate_mari129:0.001368,Lasthenia_maritima_isolate_mari21:0.00205)[&label=81]:8.15E-4)[&label=100]:0.059316,((Lasthenia_coronaria_isolate_coro63:0.003795,Lasthenia_coronaria_isolate_coro31:0.006103)[&label=100]:0.009695,(Lasthenia_coronaria_isolate_coro111:0.0013,Lasthenia_coronaria_isolate_coro93:6.94E-4)[&label=100]:0.01291)[&label=100]:0.044603)[&label=97]:0.012497)[&label=62]:0.005093)[&label=96]:0.012457,(((((Lasthenia_ornduffii_isolate_macp85:6.92E-4,Lasthenia_ornduffii_isolate_macp33:6.91E-4)[&label=54]:1.0E-6,Lasthenia_ornduffii_isolate_macp127:0.002068)[&label=100]:0.024923,(('Lasthenia_californica_subsp._bakeri_isolate_macb137':1.0E-6,'Lasthenia_californica_subsp._macrantha_isolate_macm135':0.001388)[&label=98]:0.002781,('Lasthenia_californica_subsp._californica_isolate_cali117d':6.94E-4,('Lasthenia_californica_subsp._californica_isolate_cali50t':0.00139,((('Lasthenia_californica_subsp._bakeri_isolate_macb53':6.89E-4,('Lasthenia_californica_subsp._macrantha_isolate_macm81':0.002785,'Lasthenia_californica_subsp._macrantha_isolate_macm80':6.9E-4)[&label=19]:1.0E-6)[&label=55]:6.9E-4,'Lasthenia_californica_subsp._macrantha_isolate_macm08':1.0E-6)[&label=52]:6.89E-4,'Lasthenia_californica_subsp._californica_isolate_cali121d':1.0E-6)[&label=57]:6.94E-4)[&label=65]:6.93E-4)[&label=61]:1.0E-6)[&label=100]:0.020379)[&label=100]:0.018282,((Lasthenia_gracilis_isolate_cali89t:0.00209,(Lasthenia_gracilis_isolate_cali103d:0.002797,Lasthenia_gracilis_isolate_cali101d:0.002106)[&label=81]:0.001422)[&label=100]:0.01648,(Lasthenia_leptalea_isolate_lept22:6.75E-4,(Lasthenia_leptalea_isolate_lept79:6.63E-4,Lasthenia_leptalea_isolate_lept46:0.003311)[&label=89]:0.001303)[&label=100]:0.040076)[&label=70]:0.0026)[&label=100]:0.047971,(Amblyopappus_pusillus_isolate_ambl:0.064753,Eriophyllum_congdonii_isolate_erioC:0.128234)[&label=100]:0.045998)[&label=53]:0.002699)[&label=100]:0.077417)[&label=37]:7.02E-4,Lasthenia_platycarpha_isolate_plat10:1.0E-6);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="label";
+	set branchLabels.fontName="Arial";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=true;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=168;
+	set legend.attribute=null;
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="Node ages";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set nodeShape.colourAttribute=null;
+	set nodeShape.isShown=false;
+	set nodeShape.minSize=10.0;
+	set nodeShape.scaleType=Width;
+	set nodeShape.shapeType=Circle;
+	set nodeShape.size=4.0;
+	set nodeShape.sizeAttribute=null;
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="Arial";
+	set tipLabels.fontSize=10;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=true;
+	set trees.orderType="increasing";
+	set trees.rooting=true;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+

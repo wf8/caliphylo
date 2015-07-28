@@ -1,0 +1,4 @@
+1438055814 Mon Jul 27 20:56:54 PDT 2015
+Mon Jul 27 20:56:54 2015
+             JOBID PARTITION     NAME     USER    STATE       TIME TIME_LIMI  NODES NODELIST(REASON)
+            723289   compute NGBW-JOB   cipres  RUNNING       0:34 4-04:00:00      2 comet-23-[43,45]
