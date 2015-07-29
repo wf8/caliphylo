@@ -1,0 +1,14 @@
+Task\ label=lupinus raxml
+Task\ ID=717683
+Tool=RAXMLHPC2BB
+created\ on=2015-07-27 16:42:24.0
+JobHandle=NGBW-JOB-RAXMLHPC2BB-C7A0A8582CC843B693F5DE9683E4D061
+resource=comet
+User\ ID=68621
+User\ Name=freyman@berkeley.edu
+email=freyman@berkeley.edu
+
+Output=(raxml_outputfiles,RAXML_*,UNKNOWN,UNKNOWN,UNKNOWN),(all_outputfiles,*,UNKNOWN,UNKNOWN,UNKNOWN)
+ChargeFactor=1.000000
+cores=48
+JOBID=723333

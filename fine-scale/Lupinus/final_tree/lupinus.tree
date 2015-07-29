@@ -1,0 +1,192 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=98;
+	taxlabels
+	Argyrolobium_uniflorum
+	Chamaecytisus_albidus
+	Genista_tinctoria
+	Laburnum_anagyroides
+	Lupinus_albicaulis_A
+	Lupinus_albicaulis_B
+	Lupinus_albifrons
+	Lupinus_albus
+	Lupinus_angustifolius
+	Lupinus_arboreus
+	Lupinus_argenteus_A
+	Lupinus_argenteus_B
+	Lupinus_arizonicus_A
+	Lupinus_arizonicus_B
+	Lupinus_atlanticus
+	Lupinus_ballianus
+	Lupinus_bandelierae
+	Lupinus_benthamii
+	Lupinus_bicolor_A
+	Lupinus_bicolor_B
+	Lupinus_brevicaulis
+	Lupinus_cervinus
+	Lupinus_chachas
+	Lupinus_chamissonis
+	Lupinus_chrysanthus
+	Lupinus_citrinus
+	Lupinus_concinnus
+	Lupinus_cosentinii
+	Lupinus_cumulicola
+	Lupinus_digitatus
+	Lupinus_elegans
+	Lupinus_formosus
+	Lupinus_grayi
+	Lupinus_guadalupensis
+	Lupinus_havardii
+	Lupinus_hirsutissimus
+	Lupinus_hispanicus
+	Lupinus_huaronensis
+	Lupinus_latifolius
+	Lupinus_lepidus_A
+	Lupinus_lepidus_B
+	Lupinus_luteolus_A
+	Lupinus_luteolus_B
+	Lupinus_luteus
+	Lupinus_mantaroensis
+	Lupinus_mexicanus_A
+	Lupinus_mexicanus_B
+	Lupinus_microcarpus_A
+	Lupinus_microcarpus_B
+	Lupinus_microcarpus_C
+	Lupinus_microcarpus_D
+	Lupinus_microcarpus_E
+	Lupinus_microcarpus_F
+	Lupinus_microcarpus_G
+	Lupinus_microcarpus_H
+	Lupinus_microcarpus_I
+	Lupinus_microcarpus_J
+	Lupinus_microcarpus_K
+	Lupinus_microcarpus_L
+	Lupinus_microcarpus_M
+	Lupinus_microcarpus_N
+	Lupinus_microcarpus_O
+	Lupinus_microcarpus_P
+	Lupinus_microcarpus_Q
+	Lupinus_multiflorus
+	Lupinus_mutabilis_A
+	Lupinus_mutabilis_B
+	Lupinus_nanus_A
+	Lupinus_nanus_B
+	Lupinus_nevadensis
+	Lupinus_odoratus
+	Lupinus_pachylobus
+	Lupinus_palaestinus
+	Lupinus_perennis_A
+	Lupinus_perennis_B
+	Lupinus_pilosus
+	Lupinus_piurensis
+	Lupinus_polyphyllus_A
+	Lupinus_polyphyllus_B
+	Lupinus_polyphyllus_C
+	Lupinus_prostratus
+	Lupinus_semperflorens
+	Lupinus_shockleyi
+	'Lupinus_sp.h_A'
+	'Lupinus_sp.h_B'
+	Lupinus_sparsiflorus
+	Lupinus_stiversii
+	Lupinus_succulentus_A
+	Lupinus_succulentus_B
+	Lupinus_tegeticulatus
+	Lupinus_texensis_A
+	Lupinus_texensis_B
+	Lupinus_truncatus
+	Lupinus_uncialis
+	Lupinus_villosus_A
+	Lupinus_villosus_B
+	Lupinus_weberbaueri
+	Spartium_junceum
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] (Spartium_junceum:0.009471,((Chamaecytisus_albidus:0.008184,Laburnum_anagyroides:0.001164)[&label=99]:0.003373,(Argyrolobium_uniflorum:0.067569,((((Lupinus_albus:0.008947,(Lupinus_cumulicola:1.0E-6,(Lupinus_villosus_A:1.0E-6,Lupinus_villosus_B:1.0E-6)[&label=100]:0.003577)[&label=98]:0.003566)[&label=28]:1.0E-6,((Lupinus_atlanticus:1.0E-6,Lupinus_cosentinii:0.001665)[&label=73]:1.0E-6,((Lupinus_palaestinus:5.54E-4,Lupinus_digitatus:1.0E-6)[&label=60]:1.0E-6,Lupinus_pilosus:5.51E-4)[&label=85]:0.001105)[&label=100]:0.007258)[&label=39]:5.87E-4,(Lupinus_luteus:0.005821,Lupinus_hispanicus:0.003269)[&label=100]:0.006379)[&label=13]:1.0E-6,((Lupinus_multiflorus:0.001734,(Lupinus_bandelierae:0.001442,(Lupinus_havardii:0.046703,(Lupinus_texensis_A:0.001117,Lupinus_texensis_B:6.28E-4)[&label=99]:0.00267)[&label=56]:0.001198)[&label=56]:0.001356)[&label=94]:0.003385,(Lupinus_angustifolius:0.008342,(((Lupinus_uncialis:0.005673,(((((Lupinus_microcarpus_A:5.63E-4,((Lupinus_microcarpus_L:0.001112,Lupinus_microcarpus_J:1.0E-6)[&label=4]:1.0E-6,Lupinus_microcarpus_O:1.0E-6)[&label=9]:1.0E-6)[&label=96]:0.001685,((Lupinus_luteolus_A:0.001683,Lupinus_luteolus_B:0.001122)[&label=100]:0.008656,Lupinus_microcarpus_B:0.00225)[&label=46]:6.05E-4)[&label=11]:1.0E-6,(Lupinus_microcarpus_D:1.0E-6,(Lupinus_microcarpus_E:5.58E-4,Lupinus_microcarpus_F:1.0E-6)[&label=95]:0.001674)[&label=100]:0.014784)[&label=88]:0.001823,((((Lupinus_microcarpus_Q:1.0E-6,Lupinus_microcarpus_G:5.57E-4)[&label=66]:5.56E-4,(Lupinus_microcarpus_I:5.57E-4,Lupinus_microcarpus_K:5.56E-4)[&label=12]:1.0E-6)[&label=39]:1.0E-6,(Lupinus_microcarpus_P:5.56E-4,Lupinus_microcarpus_M:5.59E-4)[&label=90]:0.001111)[&label=99]:0.002223,(Lupinus_microcarpus_C:1.0E-6,(Lupinus_microcarpus_H:6.4E-4,Lupinus_microcarpus_N:0.001118)[&label=75]:6.38E-4)[&label=96]:0.003189)[&label=67]:5.5E-4)[&label=96]:0.001989,(Lupinus_odoratus:0.002262,Lupinus_shockleyi:0.001085)[&label=93]:0.002239)[&label=100]:0.002754)[&label=100]:0.012019,Lupinus_brevicaulis:0.009153)[&label=90]:0.002206,((Lupinus_citrinus:0.007759,Lupinus_hirsutissimus:0.009141)[&label=93]:0.002318,((Lupinus_stiversii:0.004899,(Lupinus_guadalupensis:0.011058,((((((Lupinus_cervinus:5.62E-4,((Lupinus_arboreus:0.001679,Lupinus_chamissonis:5.57E-4)[&label=78]:0.001115,((Lupinus_lepidus_B:1.0E-6,Lupinus_albicaulis_B:5.59E-4)[&label=40]:1.0E-6,(Lupinus_argenteus_B:0.00112,(Lupinus_nevadensis:0.001133,((((Lupinus_grayi:0.001123,(Lupinus_polyphyllus_B:1.0E-6,Lupinus_polyphyllus_C:1.0E-6)[&label=93]:5.61E-4)[&label=91]:0.001683,(Lupinus_latifolius:1.0E-6,Lupinus_polyphyllus_A:1.0E-6)[&label=95]:0.001682)[&label=34]:1.0E-6,Lupinus_albifrons:5.62E-4)[&label=24]:1.0E-6,(Lupinus_formosus:0.001123,Lupinus_argenteus_A:1.0E-6)[&label=61]:5.58E-4)[&label=37]:1.0E-6)[&label=59]:5.58E-4)[&label=60]:5.57E-4)[&label=36]:1.0E-6)[&label=16]:1.0E-6)[&label=4]:1.0E-6,Lupinus_albicaulis_A:5.63E-4)[&label=12]:1.0E-6,Lupinus_tegeticulatus:0.001121)[&label=62]:5.48E-4,Lupinus_lepidus_A:0.001121)[&label=99]:0.003551,((Lupinus_nanus_A:5.53E-4,(Lupinus_bicolor_B:1.0E-6,Lupinus_nanus_B:1.0E-6)[&label=56]:1.0E-6)[&label=98]:0.001675,(Lupinus_pachylobus:5.57E-4,Lupinus_bicolor_A:0.001118)[&label=59]:1.0E-6)[&label=100]:0.008453)[&label=100]:0.003215,(((((Lupinus_elegans:0.001693,Lupinus_weberbaueri:5.6E-4)[&label=32]:1.0E-6,((Lupinus_mexicanus_A:1.0E-6,Lupinus_mexicanus_B:1.0E-6)[&label=63]:5.61E-4,Lupinus_chrysanthus:1.0E-6)[&label=21]:1.0E-6)[&label=27]:1.0E-6,((Lupinus_semperflorens:1.0E-6,Lupinus_mutabilis_B:1.0E-6)[&label=16]:1.0E-6,((((Lupinus_ballianus:1.0E-6,(Lupinus_chachas:0.001134,Lupinus_mutabilis_A:5.65E-4)[&label=89]:1.0E-6)[&label=4]:1.0E-6,(Lupinus_piurensis:5.65E-4,'Lupinus_sp.h_B':5.63E-4)[&label=18]:1.0E-6)[&label=3]:1.0E-6,'Lupinus_sp.h_A':1.0E-6)[&label=14]:1.0E-6,Lupinus_mantaroensis:5.63E-4)[&label=84]:5.63E-4)[&label=77]:1.0E-6)[&label=51]:1.0E-6,(Lupinus_perennis_A:5.6E-4,Lupinus_perennis_B:1.0E-6)[&label=100]:0.003367)[&label=76]:5.65E-4,(Lupinus_huaronensis:5.62E-4,Lupinus_prostratus:5.62E-4)[&label=86]:0.001116)[&label=99]:0.002816)[&label=99]:0.002568)[&label=83]:0.001651)[&label=99]:0.002194,((Lupinus_succulentus_A:5.8E-4,Lupinus_succulentus_B:5.8E-4)[&label=100]:0.005179,((Lupinus_concinnus:0.007569,Lupinus_truncatus:0.006023)[&label=100]:0.003597,((Lupinus_arizonicus_B:1.0E-6,Lupinus_arizonicus_A:0.00111)[&label=100]:0.004659,(Lupinus_sparsiflorus:0.004688,Lupinus_benthamii:0.003965)[&label=67]:5.55E-4)[&label=100]:0.003537)[&label=92]:0.002787)[&label=13]:9.6E-4)[&label=71]:0.001989)[&label=96]:0.003518)[&label=49]:6.27E-4)[&label=3]:1.0E-6)[&label=10]:5.65E-4)[&label=100]:0.026817)[&label=89]:0.006224)[&label=99]:0.003426,Genista_tinctoria:0.026521);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="label";
+	set branchLabels.fontName="Arial";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=true;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=446;
+	set legend.attribute=null;
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="Node ages";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set nodeShape.colourAttribute=null;
+	set nodeShape.isShown=false;
+	set nodeShape.minSize=10.0;
+	set nodeShape.scaleType=Width;
+	set nodeShape.shapeType=Circle;
+	set nodeShape.size=4.0;
+	set nodeShape.sizeAttribute=null;
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="Arial";
+	set tipLabels.fontSize=10;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=true;
+	set trees.orderType="increasing";
+	set trees.rooting=true;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+
