@@ -16,7 +16,7 @@ atpA_accessions = []
 rbcL_accessions = []
 
 print('Reading in csv file...')
-with open('myriopteris_accessions.csv', 'rb') as csvfile:
+with open('myriopteris_accessions_corrected.csv', 'rb') as csvfile:
     csvreader = csv.reader(csvfile)
     for row in csvreader:
         if row[0] != 'taxon':

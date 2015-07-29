@@ -1,0 +1,363 @@
+Reading in csv file...
+Reading in alignments...
+
+Argyrochosma_microphylla
+gi|340026342|gb|HQ846476.1| Argyrochosma microphylla voucher R. D. Worthington 34623 (DUKE) tRNA-Gly (trnG) gene and trnG-trnR intergenic spacer, partial sequence; chloroplast
+gi|346328652|gb|HQ846374.1| Argyrochosma microphylla voucher R. D. Worthington (DUKE) ATP synthase CFO B chain (atpF) gene, partial cds; atpF-atpA intergenic spacer, ATP synthase alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete sequence
+gi|340026252|gb|HQ846423.1| Argyrochosma microphylla voucher R. D. Worthington (DUKE) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Astrolepis_windhamii
+gi|354548899|gb|JF929936.1| Astrolepis windhamii isolate 3138 tRNA-Gly (trnG) gene and trnG-trnR intergenic spacer, partial sequence; plastid
+gi|662570117|gb|KF961705.1| Astrolepis windhamii voucher Schuettpelz 431 (DUKE) ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete seque
+gi|662570185|gb|KF961768.1| Astrolepis windhamii voucher Schuettpelz 431 (DUKE) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Myriopteris_aemula—1
+gi|662570298|gb|KF961828.1| UNVERIFIED: Myriopteris aemula voucher Beck 1037 (DUKE) tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|662570113|gb|KF961701.1| Myriopteris aemula voucher Beck 1037 (DUKE) ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete sequence; and
+gi|662570177|gb|KF961764.1| Myriopteris aemula voucher Beck 1037 (DUKE) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Myriopteris_aemula—2
+gi|662570297|gb|KF961827.1| UNVERIFIED: Myriopteris aemula voucher Yatskievych & Gastony 89222 (IND) tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|662570112|gb|KF961700.1| Myriopteris aemula voucher Yatskievych & Gastony 89222 (IND) ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, compl
+gi|662570175|gb|KF961763.1| Myriopteris aemula voucher Yatskievych & Gastony 89222 (IND) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Myriopteris_alabamensis—1
+gi|662570299|gb|KF961829.1| UNVERIFIED: Myriopteris alabamensis voucher Schuettpelz 468 (DUKE) tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|662570114|gb|KF961702.1| Myriopteris alabamensis voucher Schuettpelz 468 (DUKE) ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete se
+gi|662570179|gb|KF961765.1| Myriopteris alabamensis voucher Schuettpelz 468 (DUKE) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Myriopteris_alabamensis—2
+gi|662570300|gb|KF961830.1| UNVERIFIED: Myriopteris alabamensis voucher Windham 3450 (DUKE) tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|662570115|gb|KF961703.1| Myriopteris alabamensis voucher Windham 3450 (DUKE) ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete seque
+gi|662570181|gb|KF961766.1| Myriopteris alabamensis voucher Windham 3450 (DUKE) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Myriopteris_allosuroides—1
+gi|662570301|gb|KF961831.1| UNVERIFIED: Myriopteris allosuroides voucher Yatskievych & Gastony 89237 (IND) tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|662570116|gb|KF961704.1| Myriopteris allosuroides voucher Yatskievych & Gastony 89237 (IND) ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer,
+gi|662570183|gb|KF961767.1| Myriopteris allosuroides voucher Yatskievych & Gastony 89237 (IND) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Myriopteris_aurea—1
+gi|662570306|gb|KF961836.1| UNVERIFIED: Myriopteris aurea voucher Rothfels 3591 (DUKE) tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|662570122|gb|KF961710.1| Myriopteris aurea voucher Rothfels 3591 (DUKE) ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete sequence;
+gi|662570195|gb|KF961773.1| Myriopteris aurea voucher Rothfels 3591 (DUKE) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Myriopteris_aurea—2
+gi|662570305|gb|KF961835.1| UNVERIFIED: Myriopteris aurea voucher Beck 1192 (DUKE) tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|662570121|gb|KF961709.1| Myriopteris aurea voucher Beck 1192 (DUKE) ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete sequence; and
+gi|662570193|gb|KF961772.1| Myriopteris aurea voucher Beck 1192 (DUKE) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Myriopteris_aurea—3
+gi|662570302|gb|KF961832.1| UNVERIFIED: Myriopteris aurea voucher Schuettpelz 466 (DUKE) tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|662570118|gb|KF961706.1| Myriopteris aurea voucher Schuettpelz 466 (DUKE) ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete sequence
+gi|662570187|gb|KF961769.1| Myriopteris aurea voucher Schuettpelz 466 (DUKE) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Myriopteris_aurea—4
+gi|662570303|gb|KF961833.1| UNVERIFIED: Myriopteris aurea voucher Schuettpelz 991 (DUKE) tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|662570119|gb|KF961707.1| Myriopteris aurea voucher Schuettpelz 991 (DUKE) ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete sequence
+gi|662570189|gb|KF961770.1| Myriopteris aurea voucher Schuettpelz 991 (DUKE) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Myriopteris_aurea—5
+gi|662570304|gb|KF961834.1| UNVERIFIED: Myriopteris aurea voucher Beck 1038 (DUKE) tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|662570120|gb|KF961708.1| Myriopteris aurea voucher Beck 1038 (DUKE) ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete sequence; and
+gi|662570191|gb|KF961771.1| Myriopteris aurea voucher Beck 1038 (DUKE) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Myriopteris_chipinquensis—1
+gi|662570309|gb|KF961839.1| UNVERIFIED: Myriopteris chipinquensis voucher Knobloch 1996B (IND) tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|662570126|gb|KF961714.1| Myriopteris clevelandii voucher Metzgar 180 (DUKE) ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete sequen
+gi|662570201|gb|KF961776.1| Myriopteris chipinquensis voucher Knobloch 1996B (IND) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Myriopteris_clevelandii—1
+gi|662570310|gb|KF961840.1| UNVERIFIED: Myriopteris clevelandii voucher Metzgar 180 (DUKE) tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|662570127|gb|KF961715.1| Myriopteris covillei voucher Windham 3436 (DUKE) ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete sequence
+gi|662570203|gb|KF961777.1| Myriopteris clevelandii voucher Metzgar 180 (DUKE) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Myriopteris_cooperae—1
+gi|662570311|gb|KF961841.1| UNVERIFIED: Myriopteris cooperae voucher Taylor 15925 (UC) tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|662570129|gb|KF961717.1| Myriopteris cucullans voucher Beck 1137 (DUKE) ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete sequence;
+gi|662570205|gb|KF961778.1| Myriopteris cooperae voucher Taylor 15925 (UC) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Myriopteris_covillei—1
+gi|166716440|gb|EU268733.1| Myriopteris covillei ATP synthase CFO B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene,
+gi|166716440|gb|EU268733.1| Myriopteris covillei ATP synthase CFO B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene,
+gi|340026252|gb|HQ846423.1| Argyrochosma microphylla voucher R. D. Worthington (DUKE) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Myriopteris_covillei—2
+gi|226446515|gb|FJ870774.1| Cheilanthes covillei voucher Windham 3436 (DUKE) tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|662570130|gb|KF961718.1| Myriopteris rufa voucher Metzgar 161 (DUKE) ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete sequence; and
+gi|662570207|gb|KF961779.1| Myriopteris covillei voucher Windham 3436 (DUKE) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Myriopteris_cucullans—1
+gi|662570312|gb|KF961842.1| UNVERIFIED: Myriopteris cucullans voucher Beck 1137 (DUKE) tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|662570131|gb|KF961719.1| Myriopteris rufa voucher Rothfels 2493 (DUKE) ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete sequence; a
+gi|662570209|gb|KF961780.1| Myriopteris cucullans voucher Beck 1137 (DUKE) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Myriopteris_fendleri—1
+gi|226446517|gb|FJ870776.1| Cheilanthes fendleri voucher Schuettpelz 470 (DUKE) tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|662862583|gb|KJ000204.1| UNVERIFIED: Myriopteris fendleri voucher Schuettpelz 470 (DUKE) ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, co
+gi|662862581|gb|KJ000203.1| Myriopteris fendleri voucher Schuettpelz 470 (DUKE) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Myriopteris_fimbriata—1
+gi|662570316|gb|KF961846.1| UNVERIFIED: Myriopteris fimbriata voucher Hallberg 1656 (NY) tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|662570135|gb|KF961723.1| Myriopteris gracillima voucher Schuettpelz 1356A (DUKE) ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete s
+gi|662570217|gb|KF961784.1| UNVERIFIED: Myriopteris fimbriata voucher Hallberg 1656 (NY) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit-like (rbcL) gene, partial sequence; chloroplast
+
+Myriopteris_gracilis—1
+gi|662570315|gb|KF961845.1| UNVERIFIED: Myriopteris gracilis voucher Schuettpelz 416 (DUKE) tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|662570134|gb|KF961722.1| Myriopteris gracillima voucher Pryer 0603 (DUKE) ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete sequence
+gi|662570215|gb|KF961783.1| Myriopteris gracilis voucher Schuettpelz 416 (DUKE) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Myriopteris_gracillima—1
+gi|662570319|gb|KF961849.1| UNVERIFIED: Myriopteris gracillima voucher Windham 3630 (DUKE) tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|662570138|gb|KF961726.1| Myriopteris scabra voucher Beck 1036 (DUKE) ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete sequence; and
+gi|662570222|gb|KF961787.1| Myriopteris gracillima voucher Windham 3630 (DUKE) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Myriopteris_gracillima—2
+gi|662570318|gb|KF961848.1| UNVERIFIED: Myriopteris gracillima voucher Schuettpelz 1356A (DUKE) tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|662570137|gb|KF961725.1| Myriopteris scabra voucher Gastony 90101 (IND) ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete sequence;
+gi|662570220|gb|KF961786.1| Myriopteris gracillima voucher Schuettpelz 1356A (DUKE) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Myriopteris_gracillima—3
+gi|662570317|gb|KF961847.1| UNVERIFIED: Myriopteris gracillima voucher Pryer 0603 (DUKE) tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|662570136|gb|KF961724.1| Myriopteris gracillima voucher Windham 3630 (DUKE) ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete sequen
+gi|662570218|gb|KF961785.1| Myriopteris gracillima voucher Pryer 0603 (DUKE) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Myriopteris_intertexta—1
+gi|662570322|gb|KF961852.1| UNVERIFIED: Myriopteris intertexta voucher Greenhouse 5086 (JEPS) tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|662570141|gb|KF961729.1| Myriopteris lanosa voucher Hegeman s.n. (IND) ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete sequence; a
+gi|662570228|gb|KF961790.1| Myriopteris intertexta voucher Greenhouse 5086 (JEPS) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Myriopteris_jamaicensis—1
+gi|662570323|gb|KF961853.1| UNVERIFIED: Myriopteris jamaicensis voucher Clase 3856 tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|662570142|gb|KF961730.1| Myriopteris lanosa voucher Schuettpelz 1224A (DUKE) ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete seque
+gi|662570230|gb|KF961791.1| Myriopteris jamaicensis voucher Clase 3856 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Myriopteris_lanosa—1
+gi|662570325|gb|KF961855.1| UNVERIFIED: Myriopteris lanosa voucher Schuettpelz 1224A (DUKE) tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|662570144|gb|KF961732.1| Myriopteris lendigera voucher Yatskievych 89-432 (IND) ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete se
+gi|662570234|gb|KF961793.1| Myriopteris lanosa voucher Schuettpelz 1224A (DUKE) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Myriopteris_lanosa—2
+gi|662570326|gb|KF961856.1| UNVERIFIED: Myriopteris lanosa voucher Rothfels 2717 (DUKE) tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|662570145|gb|KF961733.1| Myriopteris lendigera voucher Grusz 110 (DUKE) ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete sequence;
+gi|662570236|gb|KF961794.1| Myriopteris lanosa voucher Rothfels 2717 (DUKE) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Myriopteris_lanosa—3
+gi|662570324|gb|KF961854.1| UNVERIFIED: Myriopteris lanosa voucher Hegeman s.n. (IND) tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|662570143|gb|KF961731.1| Myriopteris lanosa voucher Rothfels 2717 (DUKE) ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete sequence;
+gi|662570232|gb|KF961792.1| Myriopteris lanosa voucher Hegeman s.n. (IND) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Myriopteris_lendigera—1
+gi|662570328|gb|KF961858.1| UNVERIFIED: Myriopteris lendigera voucher Grusz 110 (DUKE) tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|662570147|gb|KF961735.1| Myriopteris lindheimeri voucher Schuettpelz 450 (DUKE) ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete se
+gi|662570240|gb|KF961796.1| Myriopteris lendigera voucher Grusz 110 (DUKE) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Myriopteris_lendigera—2
+gi|662570329|gb|KF961859.1| UNVERIFIED: Myriopteris lendigera voucher Beck 1226 (DUKE) tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|662570148|gb|KF961736.1| Myriopteris lindheimeri voucher Schuettpelz 471 (DUKE) ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete se
+gi|662570242|gb|KF961797.1| Myriopteris lendigera voucher Beck 1226 (DUKE) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Myriopteris_lendigera—3
+gi|662570327|gb|KF961857.1| UNVERIFIED: Myriopteris lendigera voucher Yatskievych 89-432 (IND) tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|662570146|gb|KF961734.1| Myriopteris lendigera voucher Beck 1226 (DUKE) ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete sequence;
+gi|662570238|gb|KF961795.1| Myriopteris lendigera voucher Yatskievych 89-432 (IND) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Myriopteris_lendigera—4
+gi|166716388|gb|EU268681.1| Myriopteris lendigera tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|166716442|gb|EU268735.1| Myriopteris lendigera ATP synthase CFO B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene,
+gi|166919412|gb|EU268784.1| Myriopteris lendigera ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Myriopteris_lindheimeri—1
+gi|226446520|gb|FJ870779.1| Cheilanthes lindheimeri voucher Schuettpelz 450 (DUKE) tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|662570149|gb|KF961737.1| Myriopteris lindheimeri voucher Rothfels 2490 (DUKE) ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete sequ
+gi|662570244|gb|KF961798.1| Myriopteris lindheimeri voucher Schuettpelz 450 (DUKE) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Myriopteris_lindheimeri—2
+gi|662570331|gb|KF961861.1| UNVERIFIED: Myriopteris lindheimeri voucher Rothfels 2490 (DUKE) tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|662570151|gb|KF961739.1| Myriopteris marsupianthes voucher Jankiewicz 13 (UC) ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete sequ
+gi|662570248|gb|KF961800.1| Myriopteris lindheimeri voucher Rothfels 2490 (DUKE) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Myriopteris_lindheimeri—3
+gi|662570330|gb|KF961860.1| UNVERIFIED: Myriopteris lindheimeri voucher Schuettpelz 471 (DUKE) tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|662570150|gb|KF961738.1| Myriopteris microphylla voucher Proctor 39365 ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete sequence; a
+gi|662570330|gb|KF961860.1| UNVERIFIED: Myriopteris lindheimeri voucher Schuettpelz 471 (DUKE) tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+
+Myriopteris_longipila—1
+gi|662570332|gb|KF961862.1| UNVERIFIED: Myriopteris longipila voucher Mickel 6317 (NY) tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|346328652|gb|HQ846374.1| Argyrochosma microphylla voucher R. D. Worthington (DUKE) ATP synthase CFO B chain (atpF) gene, partial cds; atpF-atpA intergenic spacer, ATP synthase alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete sequence
+gi|662570250|gb|KF961801.1| UNVERIFIED: Myriopteris longipila voucher Mickel 6317 (NY) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit-like (rbcL) gene, partial sequence; chloroplast
+
+Myriopteris_marsupianthes—1
+gi|662570334|gb|KF961864.1| UNVERIFIED: Myriopteris marsupianthes voucher Jankiewicz 13 (UC) tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|662570153|gb|KF961741.1| Myriopteris mickelii voucher Sales 1848 (NY) ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete sequence; an
+gi|662570252|gb|KF961803.1| UNVERIFIED: Myriopteris marsupianthes voucher Jankiewicz 13 (UC) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit-like (rbcL) gene, partial sequence; chloroplast
+
+Myriopteris_mexicana—1
+gi|662570335|gb|KF961865.1| UNVERIFIED: Myriopteris mexicana voucher Beck 1151 (DUKE) tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|662570154|gb|KF961742.1| Myriopteris microphylla voucher Schuettpelz 994 (DUKE) ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete se
+gi|662570253|gb|KF961804.1| Myriopteris mexicana voucher Beck 1151 (DUKE) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Myriopteris_mickelii—1
+gi|662570336|gb|KF961866.1| UNVERIFIED: Myriopteris mickelii voucher Sales 1848 (NY) tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|662570155|gb|KF961743.1| Myriopteris microphylla voucher Kessler 9568 (UC) ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete sequenc
+gi|662570255|gb|KF961805.1| UNVERIFIED: Myriopteris mickelii voucher Sales 1848 (NY) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit-like (rbcL) gene, partial sequence; chloroplast
+
+Myriopteris_microphylla—1
+gi|662570337|gb|KF961867.1| UNVERIFIED: Myriopteris microphylla voucher Schuettpelz 994 (DUKE) tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|662570156|gb|KF961744.1| Myriopteris moritziana voucher Rothfels 3589 (DUKE) ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete seque
+gi|662570256|gb|KF961806.1| Myriopteris microphylla voucher Schuettpelz 994 (DUKE) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Myriopteris_microphylla—2
+gi|662570338|gb|KF961868.1| UNVERIFIED: Myriopteris microphylla voucher Kessler 9568 (UC) tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|662570157|gb|KF961745.1| Myriopteris myriophylla voucher Schuettpelz 989 (DUKE) ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete se
+gi|662570258|gb|KF961807.1| Myriopteris microphylla voucher Kessler 9568 (UC) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Myriopteris_microphylla—3
+gi|662570333|gb|KF961863.1| UNVERIFIED: Myriopteris microphylla voucher Proctor 39365 tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|662570152|gb|KF961740.1| Myriopteris mexicana voucher Beck 1151 (DUKE) ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete sequence; a
+gi|662570251|gb|KF961802.1| UNVERIFIED: Myriopteris microphylla voucher Proctor 39365 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit-like (rbcL) gene, partial sequence; chloroplast
+
+Myriopteris_moritziana—1
+gi|662570339|gb|KF961869.1| UNVERIFIED: Myriopteris moritziana voucher Rothfels 3589 (DUKE) tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|662570158|gb|KF961746.1| Myriopteris myriophylla voucher Rothfels 3082 (DUKE) ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete sequ
+gi|662570260|gb|KF961808.1| Myriopteris moritziana voucher Rothfels 3589 (DUKE) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Myriopteris_myriophylla—1
+gi|662570340|gb|KF961870.1| UNVERIFIED: Myriopteris myriophylla voucher Schuettpelz 989 (DUKE) tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|662570159|gb|KF961747.1| Myriopteris myriophylla voucher Rothfels 3281 (DUKE) ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete sequ
+gi|662570262|gb|KF961809.1| Myriopteris myriophylla voucher Schuettpelz 989 (DUKE) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Myriopteris_myriophylla—2
+gi|662570341|gb|KF961871.1| UNVERIFIED: Myriopteris myriophylla voucher Rothfels 3082 (DUKE) tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|662570160|gb|KF961748.1| Myriopteris notholaenoides voucher Windham 481 (DUKE) ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete seq
+gi|662570264|gb|KF961810.1| Myriopteris myriophylla voucher Rothfels 3082 (DUKE) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Myriopteris_myriophylla—3
+gi|662570342|gb|KF961872.1| UNVERIFIED: Myriopteris myriophylla voucher Rothfels 3281 (DUKE) tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|662570161|gb|KF961749.1| Myriopteris notholaenoides voucher Grusz 08020 (DUKE) ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete seq
+gi|662570266|gb|KF961811.1| Myriopteris myriophylla voucher Rothfels 3281 (DUKE) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Myriopteris_myriophylla—4
+gi|166716391|gb|EU268684.1| Myriopteris myriophylla tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|166716444|gb|EU268737.1| Myriopteris myriophylla ATP synthase CFO B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gen
+gi|166919416|gb|EU268786.1| Myriopteris myriophylla ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Myriopteris_newberryi—1
+gi|166716392|gb|EU268685.1| Myriopteris newberryi tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|166716445|gb|EU268738.1| Myriopteris newberryi ATP synthase CFO B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene,
+gi|166919418|gb|EU268787.1| Myriopteris newberryi ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Myriopteris_notholaenoides—1
+gi|662570343|gb|KF961873.1| UNVERIFIED: Myriopteris notholaenoides voucher Windham 481 (DUKE) tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|662570162|gb|KF961750.1| Pellaea atropurpurea voucher Schuettpelz 312 (DUKE) ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete seque
+gi|662570268|gb|KF961812.1| UNVERIFIED: Myriopteris notholaenoides voucher Windham 481 (DUKE) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit-like (rbcL) gene, partial sequence; chloroplast
+
+Myriopteris_notholaenoides—2
+gi|662570344|gb|KF961874.1| UNVERIFIED: Myriopteris notholaenoides voucher Grusz 08020 (DUKE) tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|662570163|gb|KF961751.1| Myriopteris parryi voucher Metzgar 149 (DUKE) ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete sequence; a
+gi|662570269|gb|KF961813.1| Myriopteris notholaenoides voucher Grusz 08020 (DUKE) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Myriopteris_parryi—1
+gi|662570345|gb|KF961875.1| UNVERIFIED: Myriopteris parryi voucher Metzgar 149 (DUKE) tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|662570165|gb|KF961753.1| Paragymnopteris marantae voucher Yatskievych 0235 (MO) ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete se
+gi|662570273|gb|KF961815.1| Myriopteris parryi voucher Metzgar 149 (DUKE) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Myriopteris_peninsularis—1
+gi|662570346|gb|KF961876.1| UNVERIFIED: Myriopteris peninsularis voucher de la Luz 9764 (MO) tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|662570166|gb|KF961754.1| Myriopteris rawsonii voucher Smook 11325 (MO) ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete sequence; a
+gi|662570275|gb|KF961816.1| Myriopteris peninsularis voucher de la Luz 9764 (MO) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Myriopteris_pringlei—1
+gi|310770203|gb|HM003035.1| Cheilanthes pringlei tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; tRNA-Arg (trnR-TCT) gene, partial sequence
+gi|310878205|gb|HM003027.1| Cheilanthes pringlei ATP synthase CF0 B chain (atpF) gene, partial cds; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, parti
+gi|310770197|gb|HM003031.1| Cheilanthes pringlei ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid
+
+Myriopteris_rawsonii—1
+gi|662570347|gb|KF961877.1| UNVERIFIED: Myriopteris rawsonii voucher Smook 11325 (MO) tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|662570168|gb|KF961756.1| Myriopteris windhamii voucher Beck 1050 (DUKE) ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete sequence;
+gi|662570279|gb|KF961818.1| Myriopteris rawsonii voucher Smook 11325 (MO) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Myriopteris_rufa—1
+gi|662570307|gb|KF961837.1| UNVERIFIED: Myriopteris rufa voucher Rothfels 2515 (DUKE) tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|662570123|gb|KF961711.1| Myriopteris rufa voucher Rothfels 2515 (DUKE) ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete sequence; a
+gi|662570197|gb|KF961774.1| Myriopteris rufa voucher Rothfels 2515 (DUKE) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Myriopteris_rufa—2
+gi|662570314|gb|KF961844.1| UNVERIFIED: Myriopteris rufa voucher Rothfels 2493 (DUKE) tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|662570133|gb|KF961721.1| Myriopteris fimbriata voucher Hallberg 1656 (NY) ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete sequence
+gi|662570213|gb|KF961782.1| Myriopteris rufa voucher Rothfels 2493 (DUKE) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Myriopteris_rufa—3
+gi|662570308|gb|KF961838.1| UNVERIFIED: Myriopteris rufa voucher Windham 3545 (DUKE) tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|662570125|gb|KF961713.1| Myriopteris chipinquensis voucher Knobloch 1996B (IND) ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete se
+gi|662570199|gb|KF961775.1| Myriopteris rufa voucher Windham 3545 (DUKE) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Myriopteris_rufa—4
+gi|386371033|gb|JQ855901.1| Cheilanthes eatonii tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|149798126|gb|EF452084.1| Cheilanthes eatonii ATP synthase alpha chain-like (atpA) gene, partial sequence; chloroplast
+gi|149798782|gb|EF452144.1| Cheilanthes eatonii ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Myriopteris_rufa—5
+gi|662570313|gb|KF961843.1| UNVERIFIED: Myriopteris rufa voucher Metzgar 161 (DUKE) tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|662570132|gb|KF961720.1| Myriopteris gracilis voucher Schuettpelz 416 (DUKE) ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete seque
+gi|662570211|gb|KF961781.1| Myriopteris rufa voucher Metzgar 161 (DUKE) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Myriopteris_scabra—1
+gi|662570320|gb|KF961850.1| UNVERIFIED: Myriopteris scabra voucher Gastony 90101 (IND) tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|662570139|gb|KF961727.1| Myriopteris intertexta voucher Greenhouse 5086 (JEPS) ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete seq
+gi|662570224|gb|KF961788.1| Myriopteris scabra voucher Gastony 90101 (IND) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Myriopteris_scabra—2
+gi|662570321|gb|KF961851.1| UNVERIFIED: Myriopteris scabra voucher Beck 1036 (DUKE) tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|662570140|gb|KF961728.1| Myriopteris jamaicensis voucher Clase 3856 ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete sequence; and
+gi|662570226|gb|KF961789.1| Myriopteris scabra voucher Beck 1036 (DUKE) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Myriopteris_tomentosa—1
+gi|662570348|gb|KF961878.1| UNVERIFIED: Myriopteris tomentosa voucher Christenhusz 3823 (DUKE) tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|662570169|gb|KF961757.1| Myriopteris viscida voucher Metzgar 169 (DUKE) ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete sequence;
+gi|662570281|gb|KF961819.1| Myriopteris tomentosa voucher Christenhusz 3823 (DUKE) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Myriopteris_viscida—1
+gi|662570350|gb|KF961880.1| UNVERIFIED: Myriopteris viscida voucher Metzgar 169 (DUKE) tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|662570171|gb|KF961759.1| Myriopteris wootonii voucher Schuettpelz 488 (DUKE) ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete seque
+gi|662570285|gb|KF961821.1| Myriopteris viscida voucher Metzgar 169 (DUKE) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Myriopteris_windhamii—1
+gi|662570351|gb|KF961881.1| UNVERIFIED: Myriopteris windhamii voucher Windham 458 (DUKE) tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|662570172|gb|KF961760.1| Myriopteris wrightii voucher Schuettpelz 441 (DUKE) ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete seque
+gi|662570287|gb|KF961822.1| Myriopteris windhamii voucher Windham 458 (DUKE) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Myriopteris_windhamii—2
+gi|662570349|gb|KF961879.1| UNVERIFIED: Myriopteris windhamii voucher Beck 1050 (DUKE) tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|662570170|gb|KF961758.1| Myriopteris windhamii voucher Windham 458 (DUKE) ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete sequence
+gi|662570283|gb|KF961820.1| Myriopteris windhamii voucher Beck 1050 (DUKE) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Myriopteris_wootonii—1
+gi|226446525|gb|FJ870784.1| Cheilanthes wootonii voucher Schuettpelz 488 (DUKE) tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|662570173|gb|KF961761.1| Myriopteris yatskievychiana voucher Burquez 96302 (MO) ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete se
+gi|662570289|gb|KF961823.1| Myriopteris wootonii voucher Schuettpelz 488 (DUKE) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Myriopteris_wrightii—1
+gi|310770202|gb|HM003034.1| Cheilanthes wrightii tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; tRNA-Arg (trnR-TCT) gene, partial sequence
+gi|310878203|gb|HM003026.1| Cheilanthes wrightii ATP synthase CF0 B chain (atpF) gene, partial cds; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, parti
+gi|310770195|gb|HM003030.1| Cheilanthes wrightii ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid
+
+Myriopteris_yatskievychiana—1
+gi|662570354|gb|KF961884.1| UNVERIFIED: Myriopteris yatskievychiana voucher Burquez 96302 (MO) tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|662570124|gb|KF961712.1| Myriopteris rufa voucher Windham 3545 (DUKE) ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete sequence; an
+gi|662570293|gb|KF961825.1| Myriopteris yatskievychiana voucher Burquez 96302 (MO) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Myriopteris_yavapensis—1
+gi|226446530|gb|FJ870789.1| Cheilanthes yavapensis voucher Schuettpelz 415 (DUKE) tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|662570128|gb|KF961716.1| Myriopteris cooperae voucher Taylor 15925 (UC) ATP synthase CF0 B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete sequence;
+gi|662570295|gb|KF961826.1| Myriopteris yavapensis voucher Schuettpelz 415 (DUKE) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Paragymnopteris_marantae
+gi|166716418|gb|EU268711.1| Paragymnopteris marantae tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|166716470|gb|EU268763.1| Paragymnopteris marantae ATP synthase CFO B chain (atpF) gene, partial sequence; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) ge
+gi|149798816|gb|EF452161.1| Paragymnopteris marantae ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+
+Pellaea_atropurpurea
+gi|386371045|gb|JQ855913.1| Pellaea atropurpurea tRNA-Gly (trnG) gene, partial sequence; trnG-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, partial sequence; chloroplast
+gi|386371068|gb|JQ855925.1| Pellaea atropurpurea ATP synthase CFO B chain (atpF) gene, partial cds; atpF-atpA intergenic spacer, ATP synthase CF1 alpha chain (atpA) gene, and atpA-trnR intergenic spacer, complete sequence; and tRNA-Arg (trnR) gene, parti
+gi|149798818|gb|EF452162.1| Pellaea atropurpurea ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Done.
