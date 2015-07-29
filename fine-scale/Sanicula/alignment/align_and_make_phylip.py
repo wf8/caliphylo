@@ -22,12 +22,21 @@ ITS_records = []
 Entrez.email = 'freyman@berkeley.edu'
 
 print('Downloading accessions...')
+n = 1
 for accession in ITS_accessions:
     if accession.strip() != '':
         handle = Entrez.efetch(db='nucleotide', rettype='fasta', retmode='text', id=accession)
-        ITS_records.append(SeqIO.read(handle, 'fasta'))
+        record = SeqIO.read(handle, 'fasta')
+        # >gi|2895483|gb|AF032007.1| Sanicula tracyi internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+        names = record.description.split('|')
+        end = names[-1].find('internal')
+        name = names[-1][1:end] + str(n)
+        record.description = ''
+        record.id = name.replace(' ', '_')
+        ITS_records.append(record)
         handle.close()
         sleep(0.02)
+        n += 1
 SeqIO.write(ITS_records, "ITS_unaligned.fasta", "fasta")
 
 print("Aligning ITS with MAFFT...")
