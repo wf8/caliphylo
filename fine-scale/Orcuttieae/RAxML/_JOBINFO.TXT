@@ -1,0 +1,14 @@
+Task\ label=orcuttieae raxml
+Task\ ID=719112
+Tool=RAXMLHPC2BB
+created\ on=2015-07-29 15:51:34.0
+JobHandle=NGBW-JOB-RAXMLHPC2BB-F93229782D61411686F87AEF326E1271
+resource=comet
+User\ ID=68621
+User\ Name=freyman@berkeley.edu
+email=freyman@berkeley.edu
+
+Output=(raxml_outputfiles,RAXML_*,UNKNOWN,UNKNOWN,UNKNOWN),(all_outputfiles,*,UNKNOWN,UNKNOWN,UNKNOWN)
+ChargeFactor=1.000000
+cores=48
+JOBID=729963

@@ -1,0 +1,14 @@
+Task\ label=myriopteris raxml 2
+Task\ ID=719107
+Tool=RAXMLHPC2BB
+created\ on=2015-07-29 15:50:29.0
+JobHandle=NGBW-JOB-RAXMLHPC2BB-0D3FD3C060264431A91F091AEE9A7790
+resource=comet
+User\ ID=68621
+User\ Name=freyman@berkeley.edu
+email=freyman@berkeley.edu
+
+Output=(raxml_outputfiles,RAXML_*,UNKNOWN,UNKNOWN,UNKNOWN),(all_outputfiles,*,UNKNOWN,UNKNOWN,UNKNOWN)
+ChargeFactor=1.000000
+cores=48
+JOBID=729893

@@ -1,0 +1,134 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=40;
+	taxlabels
+	Calandrinia_ciliata
+	Claytonia_acutifolia
+	Claytonia_arctica
+	Claytonia_arenicola
+	Claytonia_caroliniana_MA
+	Claytonia_caroliniana_NH
+	Claytonia_cordifolia
+	Claytonia_exigua_subsp_exigua
+	Claytonia_gypsophiloides
+	Claytonia_joanneana
+	Claytonia_lanceolata
+	Claytonia_megarhiza_subsp_megarhiza
+	Claytonia_nevadensis
+	Claytonia_ogilviensis
+	Claytonia_palustris
+	Claytonia_parviflora_subsp_grandiflora
+	Claytonia_perfoliata
+	Claytonia_rubra
+	Claytonia_sarmentosa
+	Claytonia_saxosa
+	Claytonia_scammaniana
+	Claytonia_sibirica_subsp_sibirica
+	Claytonia_tuberosa_AK
+	Claytonia_umbellata_CA
+	Claytonia_umbellata_OR
+	Claytonia_virginica
+	Claytonia_washingtoniana
+	Lewisia_columbiana
+	Lewisia_rediviva
+	Montia_bostockii
+	Montia_chamissoi
+	Montia_dichotoma
+	Montia_diffusa
+	Montia_fontana_Josephine_Co_OR
+	Montia_fontana_Umatilla_Co_OR
+	Montia_howellii
+	Montia_linearis
+	Montia_parvifolia
+	Neopaxia_erythrophylla
+	Neopaxia_racemosa
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] (Lewisia_columbiana:0.003569,(Calandrinia_ciliata:0.025429,(((Montia_bostockii:0.003314,(Montia_linearis:0.004734,Montia_dichotoma:0.009503)[&label=100]:0.010724)[&label=100]:0.040768,((Montia_diffusa:0.02241,(Montia_parvifolia:0.02085,(Montia_chamissoi:0.00633,(Montia_fontana_Umatilla_Co_OR:5.66E-4,Montia_fontana_Josephine_Co_OR:1.0E-6)[&label=100]:0.011794)[&label=100]:0.019844)[&label=100]:0.007514)[&label=99]:0.004182,((Neopaxia_racemosa:0.002207,Neopaxia_erythrophylla:0.002172)[&label=100]:0.011887,Montia_howellii:0.0341)[&label=100]:0.010409)[&label=66]:9.27E-4)[&label=100]:0.008872,(((Claytonia_palustris:0.004991,Claytonia_sibirica_subsp_sibirica:0.003261)[&label=100]:0.032649,((Claytonia_rubra:0.003312,(Claytonia_perfoliata:0.001083,(Claytonia_parviflora_subsp_grandiflora:0.00164,Claytonia_washingtoniana:0.007207)[&label=93]:0.001079)[&label=97]:0.001606)[&label=100]:0.010786,(Claytonia_saxosa:0.025182,(Claytonia_gypsophiloides:0.001111,Claytonia_exigua_subsp_exigua:5.43E-4)[&label=100]:0.017769)[&label=100]:0.012048)[&label=63]:0.002226)[&label=100]:0.009718,((Claytonia_acutifolia:0.004509,((Claytonia_umbellata_OR:0.003268,Claytonia_ogilviensis:0.002174)[&label=97]:0.003249,((Claytonia_lanceolata:0.00765,((Claytonia_caroliniana_NH:1.0E-6,Claytonia_caroliniana_MA:5.42E-4)[&label=100]:0.011547,(Claytonia_tuberosa_AK:0.007682,Claytonia_virginica:0.013127)[&label=53]:5.61E-4)[&label=36]:1.0E-6)[&label=67]:0.001081,(Claytonia_umbellata_CA:0.007712,Claytonia_megarhiza_subsp_megarhiza:0.002742)[&label=76]:4.9E-4)[&label=53]:0.001072)[&label=84]:1.0E-6)[&label=99]:0.00261,((Claytonia_nevadensis:0.007219,(((Claytonia_arctica:0.003285,(Claytonia_joanneana:0.005146,Claytonia_sarmentosa:0.001342)[&label=49]:0.001348)[&label=44]:1.0E-6,Claytonia_scammaniana:0.004324)[&label=91]:0.001082,Claytonia_cordifolia:0.002695)[&label=100]:0.012839)[&label=100]:0.002051,Claytonia_arenicola:0.032151)[&label=89]:0.00217)[&label=76]:5.95E-4)[&label=100]:0.016961)[&label=100]:0.013995)[&label=100]:0.028008,Lewisia_rediviva:0.008653);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="label";
+	set branchLabels.fontName="Arial";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=true;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute=null;
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="Node ages";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set nodeShape.colourAttribute=null;
+	set nodeShape.isShown=false;
+	set nodeShape.minSize=10.0;
+	set nodeShape.scaleType=Width;
+	set nodeShape.shapeType=Circle;
+	set nodeShape.size=4.0;
+	set nodeShape.sizeAttribute=null;
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="Arial";
+	set tipLabels.fontSize=10;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=true;
+	set trees.orderType="increasing";
+	set trees.rooting=true;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+

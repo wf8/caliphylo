@@ -1,0 +1,148 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=54;
+	taxlabels
+	'Astrantia_major_specimen-voucher_J.L._Benito_s.n._JACA_5'
+	Eryngium_cervantesii_specimen-voucher_Lincoln_Constance_2443_UC_3
+	Eryngium_mexicanum_specimen-voucher_Lincoln_Constance_2428_UC_4
+	'Sanicula_arctopoides_specimen-voucher_P._Vargas_1-96_JEPS_14'
+	'Sanicula_arctopoides_specimen-voucher_P._Vargas_34-96_JEPS_16'
+	'Sanicula_arctopoides_specimen-voucher_P._Vargas_7-96_JEPS_15'
+	'Sanicula_arguta_specimen-voucher_P._Vargas_19-96_JEPS_18'
+	'Sanicula_arguta_specimen-voucher_P._Vargas_26-96_JEPS_19'
+	'Sanicula_arguta_specimen-voucher_S._Boyd_4435_RSA_17'
+	'Sanicula_bipinnata_specimen-voucher_P._Vargas_12-96_JEPS_23'
+	'Sanicula_bipinnata_specimen-voucher_P._Vargas_28-96_JEPS_24'
+	'Sanicula_bipinnatifida_specimen-voucher_P._Vargas_14-96_JEPS_20'
+	'Sanicula_bipinnatifida_specimen-voucher_P._Vargas_25-96_JEPS_21'
+	'Sanicula_bipinnatifida_specimen-voucher_P._Vargas_38-96_JEPS_22'
+	'Sanicula_canadensis_specimen-voucher_B.G._Baldwin_919b_UC_9'
+	'Sanicula_chinensis_specimen-voucher_S.N._Kobayashi_s.n._MAK_6'
+	'Sanicula_crassicaulis_5.8S_rRNA_gene_and_47'
+	'Sanicula_crassicaulis_specimen-voucher_D.M._Moore_225_UC_27'
+	'Sanicula_crassicaulis_specimen-voucher_P._Vargas_16-96_JEPS_29'
+	'Sanicula_crassicaulis_specimen-voucher_P._Vargas_17-96_JEPS_25'
+	'Sanicula_crassicaulis_specimen-voucher_P._Vargas_18-96_JEPS_30'
+	'Sanicula_crassicaulis_specimen-voucher_P._Vargas_29-96_JEPS_28'
+	'Sanicula_crassicaulis_specimen-voucher_P._Vargas_47-96_JEPS_26'
+	'Sanicula_deserticola_specimen-voucher_R._Moran_19353_UC_31'
+	'Sanicula_elata_specimen-voucher_J.H._Beaman_9108_UC_7'
+	'Sanicula_europaea_specimen-voucher_P._Catalan_1896_JACA_8'
+	'Sanicula_graveolens_specimen-voucher_M.L._DeVore_1144_UC_33'
+	'Sanicula_graveolens_specimen-voucher_P._Vargas_23-96_JEPS_34'
+	'Sanicula_graveolens_specimen-voucher_P._Vargas_45-96_JEPS_32'
+	'Sanicula_hoffmannii_specimen-voucher_P._Vargas_20-96_JEPS_35'
+	'Sanicula_hoffmannii_specimen-voucher_P._Vargas_21-96_JEPS_36'
+	'Sanicula_hoffmannii_specimen-voucher_P._Vargas_27-96_JEPS_37'
+	'Sanicula_laciniata_specimen-voucher_P._Vargas_13-96_JEPS_40'
+	'Sanicula_laciniata_specimen-voucher_P._Vargas_31-96_JEPS_39'
+	'Sanicula_laciniata_specimen-voucher_P._Vargas_9-96_JEPS_38'
+	'Sanicula_lamelligera_partial_5.8S_rRNA_and_48'
+	'Sanicula_maritima_5.8S_ribosomal_RNA_gene_partial_sequence|_and_46'
+	'Sanicula_mariversa_specimen-voucher_K.M._Nagata_3171_UC_10'
+	Sanicula_moranii_50
+	'Sanicula_orthacantha_specimen-voucher_B._Bartolomew_et_al._s.n._UC_49'
+	Sanicula_peckiana_51
+	Sanicula_peckiana_52
+	'Sanicula_purpurea_specimen-voucher_S._Meidell_113_UC_11'
+	'Sanicula_sandwicensis_specimen-voucher_J._Henrickson_&_R._Vogl_3635_UC_12'
+	'Sanicula_sandwicensis_specimen-voucher_R._Gustafson_2408_RSA_13'
+	Sanicula_saxatilis_53
+	Sanicula_saxatilis_54
+	Sanicula_tracyi_1
+	Sanicula_tracyi_2
+	Sanicula_tuberosa_18S-26S_nuclear_rDNA_43
+	Sanicula_tuberosa_41
+	Sanicula_tuberosa_42
+	Sanicula_tuberosa_44
+	Sanicula_tuberosa_45
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] (Sanicula_tracyi_1:1.0E-6,(('Sanicula_graveolens_specimen-voucher_P._Vargas_23-96_JEPS_34':0.006941,((((Sanicula_moranii_50:0.007025,'Sanicula_deserticola_specimen-voucher_R._Moran_19353_UC_31':0.016343)[&label=100]:0.012602,((((Sanicula_peckiana_51:0.007702,('Sanicula_bipinnatifida_specimen-voucher_P._Vargas_25-96_JEPS_21':0.006976,('Sanicula_bipinnatifida_specimen-voucher_P._Vargas_38-96_JEPS_22':0.001561,'Sanicula_bipinnatifida_specimen-voucher_P._Vargas_14-96_JEPS_20':1.0E-6)[&label=91]:1.52E-4)[&label=49]:1.0E-6)[&label=67]:0.004099,Sanicula_peckiana_52:0.003843)[&label=78]:0.004768,'Sanicula_maritima_5.8S_ribosomal_RNA_gene_partial_sequence|_and_46':0.092827)[&label=55]:0.003384,('Sanicula_hoffmannii_specimen-voucher_P._Vargas_27-96_JEPS_37':0.001696,('Sanicula_hoffmannii_specimen-voucher_P._Vargas_20-96_JEPS_35':1.0E-6,'Sanicula_hoffmannii_specimen-voucher_P._Vargas_21-96_JEPS_36':1.0E-6)[&label=91]:1.0E-6)[&label=99]:0.015782)[&label=49]:1.0E-6)[&label=96]:0.019349,(((('Sanicula_arctopoides_specimen-voucher_P._Vargas_1-96_JEPS_14':1.0E-6,('Sanicula_arctopoides_specimen-voucher_P._Vargas_7-96_JEPS_15':1.0E-6,'Sanicula_arctopoides_specimen-voucher_P._Vargas_34-96_JEPS_16':1.0E-6)[&label=98]:0.00732)[&label=100]:0.026084,((('Sanicula_mariversa_specimen-voucher_K.M._Nagata_3171_UC_10':0.003679,('Sanicula_sandwicensis_specimen-voucher_J._Henrickson_&_R._Vogl_3635_UC_12':1.0E-6,'Sanicula_sandwicensis_specimen-voucher_R._Gustafson_2408_RSA_13':1.0E-6)[&label=81]:1.0E-6)[&label=67]:1.0E-6,'Sanicula_purpurea_specimen-voucher_S._Meidell_113_UC_11':0.003671)[&label=99]:0.018321,((('Sanicula_laciniata_specimen-voucher_P._Vargas_31-96_JEPS_39':1.0E-6,'Sanicula_laciniata_specimen-voucher_P._Vargas_13-96_JEPS_40':1.0E-6)[&label=96]:0.00209,'Sanicula_laciniata_specimen-voucher_P._Vargas_9-96_JEPS_38':0.001828)[&label=100]:0.014213,('Sanicula_arguta_specimen-voucher_S._Boyd_4435_RSA_17':1.0E-6,('Sanicula_arguta_specimen-voucher_P._Vargas_26-96_JEPS_19':0.001882,'Sanicula_arguta_specimen-voucher_P._Vargas_19-96_JEPS_18':1.0E-6)[&label=66]:0.001874)[&label=100]:0.014829)[&label=91]:0.006402)[&label=46]:0.001749)[&label=58]:0.003906,((('Sanicula_crassicaulis_specimen-voucher_P._Vargas_29-96_JEPS_28':0.00171,('Sanicula_crassicaulis_specimen-voucher_P._Vargas_18-96_JEPS_30':1.0E-6,'Sanicula_crassicaulis_specimen-voucher_P._Vargas_16-96_JEPS_29':1.0E-6)[&label=100]:0.007045)[&label=57]:1.0E-6,(('Sanicula_crassicaulis_specimen-voucher_P._Vargas_47-96_JEPS_26':1.0E-6,('Sanicula_crassicaulis_5.8S_rRNA_gene_and_47':0.001723,'Sanicula_crassicaulis_specimen-voucher_P._Vargas_17-96_JEPS_25':0.003451)[&label=64]:0.001709)[&label=63]:0.001708,'Sanicula_crassicaulis_specimen-voucher_D.M._Moore_225_UC_27':0.001726)[&label=69]:0.001699)[&label=100]:0.028169,('Sanicula_bipinnata_specimen-voucher_P._Vargas_28-96_JEPS_24':1.0E-6,'Sanicula_bipinnata_specimen-voucher_P._Vargas_12-96_JEPS_23':1.0E-6)[&label=100]:0.012173)[&label=64]:0.003547)[&label=95]:0.008477,(('Sanicula_orthacantha_specimen-voucher_B._Bartolomew_et_al._s.n._UC_49':0.012781,'Sanicula_lamelligera_partial_5.8S_rRNA_and_48':0.006924)[&label=91]:0.006614,(('Sanicula_elata_specimen-voucher_J.H._Beaman_9108_UC_7':0.029315,('Sanicula_chinensis_specimen-voucher_S.N._Kobayashi_s.n._MAK_6':0.009663,('Astrantia_major_specimen-voucher_J.L._Benito_s.n._JACA_5':0.291579,(Eryngium_mexicanum_specimen-voucher_Lincoln_Constance_2428_UC_4:0.009565,Eryngium_cervantesii_specimen-voucher_Lincoln_Constance_2443_UC_3:0.038766)[&label=83]:0.034532)[&label=100]:0.090118)[&label=65]:0.003294)[&label=8]:3.66E-4,('Sanicula_canadensis_specimen-voucher_B.G._Baldwin_919b_UC_9':0.020012,'Sanicula_europaea_specimen-voucher_P._Catalan_1896_JACA_8':0.014717)[&label=21]:0.002134)[&label=45]:0.001905)[&label=83]:0.008515)[&label=63]:0.004393)[&label=98]:0.033585,(((Sanicula_tuberosa_42:0.003396,Sanicula_tuberosa_44:0.005125)[&label=26]:1.0E-6,Sanicula_tuberosa_41:1.0E-6)[&label=97]:0.005186,(Sanicula_tuberosa_45:0.001716,Sanicula_tuberosa_18S-26S_nuclear_rDNA_43:0.001678)[&label=100]:0.00702)[&label=78]:0.00168)[&label=36]:1.0E-6)[&label=53]:0.001715,((Sanicula_saxatilis_54:1.0E-6,Sanicula_saxatilis_53:1.0E-6)[&label=100]:0.006902,('Sanicula_graveolens_specimen-voucher_P._Vargas_45-96_JEPS_32':0.008171,'Sanicula_graveolens_specimen-voucher_M.L._DeVore_1144_UC_33':0.00257)[&label=98]:0.010126)[&label=37]:1.0E-6)[&label=96]:0.003434,Sanicula_tracyi_2:1.0E-6);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="label";
+	set branchLabels.fontName="Arial";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=true;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute=null;
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="Node ages";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set nodeShape.colourAttribute=null;
+	set nodeShape.isShown=false;
+	set nodeShape.minSize=10.0;
+	set nodeShape.scaleType=Width;
+	set nodeShape.shapeType=Circle;
+	set nodeShape.size=4.0;
+	set nodeShape.sizeAttribute=null;
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="Arial";
+	set tipLabels.fontSize=10;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=true;
+	set trees.orderType="increasing";
+	set trees.rooting=true;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+

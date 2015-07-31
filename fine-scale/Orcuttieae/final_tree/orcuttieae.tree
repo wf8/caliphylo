@@ -1,0 +1,135 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=41;
+	taxlabels
+	Neostapfia_colusana_1
+	Neostapfia_colusana_2
+	Neostapfia_colusana_3
+	Neostapfia_colusana_4
+	Orcuttia_californica_1
+	Orcuttia_californica_2
+	Orcuttia_inaequalis_1
+	Orcuttia_inaequalis_2
+	Orcuttia_inaequalis_3
+	Orcuttia_pilosa_1
+	Orcuttia_pilosa_2
+	Orcuttia_pilosa_3
+	Orcuttia_pilosa_4
+	Orcuttia_pilosa_5
+	Orcuttia_pilosa_6
+	Orcuttia_pilosa_7
+	Orcuttia_pilosa_8
+	Orcuttia_tenuis_1
+	Orcuttia_tenuis_2
+	Orcuttia_tenuis_3
+	Orcuttia_tenuis_4
+	Orcuttia_tenuis_5
+	Orcuttia_viscida_1
+	Orcuttia_viscida_2
+	Orcuttia_viscida_3
+	Orcuttia_viscida_4
+	Tuctoria_fragilis_1
+	Tuctoria_fragilis_2
+	Tuctoria_greenei_1
+	Tuctoria_greenei_10
+	Tuctoria_greenei_11
+	Tuctoria_greenei_2
+	Tuctoria_greenei_3
+	Tuctoria_greenei_4
+	Tuctoria_greenei_5
+	Tuctoria_greenei_6
+	Tuctoria_greenei_7
+	Tuctoria_greenei_8
+	Tuctoria_greenei_9
+	Tuctoria_mucronata_1
+	Tuctoria_mucronata_2
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] (Neostapfia_colusana_1:4.0E-6,((((Tuctoria_fragilis_1:0.054526,((((Tuctoria_greenei_8:0.017779,(Tuctoria_greenei_4:1.0E-6,(Tuctoria_greenei_7:1.0E-6,(Tuctoria_greenei_11:1.0E-6,((Tuctoria_greenei_10:0.001801,Tuctoria_greenei_5:0.052304)[&label=39]:0.001568,(Tuctoria_greenei_1:0.00502,(Tuctoria_greenei_2:0.004465,Tuctoria_greenei_9:1.0E-6)[&label=88]:0.007578)[&label=56]:0.004302)[&label=3]:1.0E-6)[&label=3]:1.0E-6)[&label=4]:1.0E-6)[&label=5]:1.0E-6)[&label=9]:0.001008,Tuctoria_greenei_6:0.008704)[&label=39]:0.002523,Tuctoria_greenei_3:0.030428)[&label=94]:0.021408,((Orcuttia_tenuis_1:0.004058,(Orcuttia_tenuis_4:0.001781,((Orcuttia_tenuis_5:0.015802,Orcuttia_tenuis_2:1.0E-6)[&label=50]:1.0E-6,Orcuttia_tenuis_3:0.003532)[&label=45]:0.011371)[&label=16]:9.72E-4)[&label=44]:0.020751,(Orcuttia_californica_1:0.029582,((Orcuttia_viscida_4:1.0E-6,(Orcuttia_viscida_2:0.030301,(Orcuttia_viscida_1:0.01144,Orcuttia_viscida_3:0.006981)[&label=51]:0.00125)[&label=59]:1.0E-6)[&label=69]:0.014414,(((Orcuttia_pilosa_3:0.005197,((Orcuttia_californica_2:1.0E-6,(Orcuttia_pilosa_5:0.02224,(Orcuttia_pilosa_4:0.043985,Orcuttia_pilosa_6:0.020976)[&label=56]:0.001064)[&label=43]:1.05E-4)[&label=7]:1.0E-6,Orcuttia_pilosa_7:1.0E-6)[&label=11]:0.00148)[&label=8]:1.0E-6,(Orcuttia_pilosa_8:0.001458,(Orcuttia_pilosa_2:0.035262,Orcuttia_pilosa_1:0.031926)[&label=33]:0.001724)[&label=45]:0.001216)[&label=57]:0.00887,((Orcuttia_inaequalis_2:0.001823,Orcuttia_inaequalis_1:0.025887)[&label=94]:0.01175,Orcuttia_inaequalis_3:0.001992)[&label=91]:0.010401)[&label=56]:0.003409)[&label=22]:0.001617)[&label=18]:0.002008)[&label=93]:0.023186)[&label=59]:0.005793)[&label=46]:0.005801,(Tuctoria_mucronata_2:0.014688,Tuctoria_mucronata_1:0.007937)[&label=100]:0.042906)[&label=58]:0.004916,Tuctoria_fragilis_2:0.006838)[&label=99]:0.052215,(Neostapfia_colusana_2:1.0E-6,Neostapfia_colusana_4:0.009745)[&label=85]:1.0E-6)[&label=60]:9.38E-4,Neostapfia_colusana_3:0.014487);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="label";
+	set branchLabels.fontName="Arial";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=true;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute=null;
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="Node ages";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set nodeShape.colourAttribute=null;
+	set nodeShape.isShown=false;
+	set nodeShape.minSize=10.0;
+	set nodeShape.scaleType=Width;
+	set nodeShape.shapeType=Circle;
+	set nodeShape.size=4.0;
+	set nodeShape.sizeAttribute=null;
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="Arial";
+	set tipLabels.fontSize=10;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=true;
+	set trees.orderType="increasing";
+	set trees.rooting=true;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+

@@ -1,0 +1,165 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=71;
+	taxlabels
+	Argyrochosma_microphylla
+	Astrolepis_windhamii
+	Myriopteris_aemula1
+	Myriopteris_aemula2
+	Myriopteris_alabamensis1
+	Myriopteris_alabamensis2
+	Myriopteris_allosuroides1
+	Myriopteris_aurea1
+	Myriopteris_aurea2
+	Myriopteris_aurea3
+	Myriopteris_aurea4
+	Myriopteris_aurea5
+	Myriopteris_chipinquensis1
+	Myriopteris_clevelandii1
+	Myriopteris_cooperae1
+	Myriopteris_covillei2
+	Myriopteris_cucullans1
+	Myriopteris_fendleri1
+	Myriopteris_fimbriata1
+	Myriopteris_gracilis1
+	Myriopteris_gracillima1
+	Myriopteris_gracillima2
+	Myriopteris_gracillima3
+	Myriopteris_intertexta1
+	Myriopteris_jamaicensis1
+	Myriopteris_lanosa1
+	Myriopteris_lanosa2
+	Myriopteris_lanosa3
+	Myriopteris_lendigera1
+	Myriopteris_lendigera2
+	Myriopteris_lendigera3
+	Myriopteris_lendigera4
+	Myriopteris_lindheimeri1
+	Myriopteris_lindheimeri2
+	Myriopteris_lindheimeri3
+	Myriopteris_longipila1
+	Myriopteris_marsupianthes1
+	Myriopteris_mexicana1
+	Myriopteris_mickelii1
+	Myriopteris_microphylla1
+	Myriopteris_microphylla2
+	Myriopteris_microphylla3
+	Myriopteris_moritziana1
+	Myriopteris_myriophylla1
+	Myriopteris_myriophylla2
+	Myriopteris_myriophylla3
+	Myriopteris_myriophylla4
+	Myriopteris_newberryi1
+	Myriopteris_notholaenoides1
+	Myriopteris_notholaenoides2
+	Myriopteris_parryi1
+	Myriopteris_peninsularis1
+	Myriopteris_pringlei1
+	Myriopteris_rawsonii1
+	Myriopteris_rufa1
+	Myriopteris_rufa2
+	Myriopteris_rufa3
+	Myriopteris_rufa4
+	Myriopteris_rufa5
+	Myriopteris_scabra1
+	Myriopteris_scabra2
+	Myriopteris_tomentosa1
+	Myriopteris_viscida1
+	Myriopteris_windhamii1
+	Myriopteris_windhamii2
+	Myriopteris_wootonii1
+	Myriopteris_wrightii1
+	Myriopteris_yatskievychiana1
+	Myriopteris_yavapensis1
+	Paragymnopteris_marantae
+	Pellaea_atropurpurea
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] ((((Myriopteris_cucullans1:0.002123,(Myriopteris_notholaenoides1:0.001008,Myriopteris_notholaenoides2:0.001319)[&label=91]:0.001263)[&label=100]:0.009927,((Myriopteris_alabamensis2:5.11E-4,Myriopteris_alabamensis1:2.62E-4)[&label=100]:0.009157,(((Myriopteris_microphylla1:2.5E-4,(Myriopteris_moritziana1:1.0E-6,Myriopteris_microphylla2:1.0E-6)[&label=37]:1.0E-6)[&label=81]:1.0E-6,Myriopteris_microphylla3:1.0E-6)[&label=100]:0.007063,((Myriopteris_aemula1:5.77E-4,Myriopteris_aemula2:1.0E-6)[&label=100]:0.006045,(Myriopteris_fimbriata1:9.94E-4,(Myriopteris_scabra1:1.0E-6,Myriopteris_scabra2:1.0E-6)[&label=100]:0.001038)[&label=100]:0.008718)[&label=56]:0.001106)[&label=97]:0.002096)[&label=81]:8.86E-4)[&label=100]:0.007662,(Myriopteris_allosuroides1:0.008652,(Myriopteris_mickelii1:0.013325,(Myriopteris_pringlei1:8.74E-4,Myriopteris_peninsularis1:0.001931)[&label=100]:0.004649)[&label=65]:9.29E-4)[&label=96]:0.002432)[&label=67]:4.15E-4,(((Myriopteris_viscida1:0.010901,(Myriopteris_cooperae1:0.014726,((Myriopteris_longipila1:0.013202,(Myriopteris_gracilis1:0.00854,((Myriopteris_lanosa1:1.0E-6,Myriopteris_lanosa3:2.69E-4)[&label=91]:1.0E-6,Myriopteris_lanosa2:1.0E-6)[&label=100]:0.015006)[&label=59]:0.001482)[&label=99]:0.002913,(Myriopteris_rawsonii1:0.006202,Myriopteris_parryi1:0.002494)[&label=100]:0.007778)[&label=100]:0.00395)[&label=86]:0.002317)[&label=100]:0.008449,((Myriopteris_newberryi1:0.016118,((((Myriopteris_lindheimeri3:0.116501,Myriopteris_fendleri1:0.228003)[&label=98]:0.087521,(Myriopteris_yavapensis1:3.57E-4,(Myriopteris_lindheimeri1:1.0E-6,Myriopteris_lindheimeri2:1.0E-6)[&label=99]:1.0E-6)[&label=99]:1.0E-6)[&label=98]:0.006964,(Myriopteris_wootonii1:0.006736,(((Myriopteris_gracillima3:2.45E-4,(Myriopteris_gracillima2:1.0E-6,Myriopteris_gracillima1:1.0E-6)[&label=92]:1.0E-6)[&label=79]:1.0E-6,Myriopteris_intertexta1:0.001003)[&label=100]:0.006107,(Myriopteris_covillei2:0.004326,Myriopteris_clevelandii1:0.004626)[&label=100]:0.001786)[&label=62]:5.17E-4)[&label=96]:0.001645)[&label=91]:0.001067,((Myriopteris_marsupianthes1:0.003035,((Myriopteris_lendigera3:1.0E-6,Myriopteris_lendigera4:1.0E-6)[&label=100]:0.005051,(Myriopteris_mexicana1:5.01E-4,(Myriopteris_lendigera1:1.0E-6,Myriopteris_lendigera2:1.0E-6)[&label=64]:2.45E-4)[&label=99]:0.001134)[&label=79]:0.00125)[&label=100]:0.006315,(((Myriopteris_chipinquensis1:1.0E-6,Myriopteris_tomentosa1:1.0E-6)[&label=100]:0.001921,(((Myriopteris_rufa4:1.0E-6,Myriopteris_rufa5:1.0E-6)[&label=60]:2.43E-4,(Myriopteris_rufa2:1.0E-6,(Myriopteris_rufa3:1.0E-6,Myriopteris_rufa1:4.99E-4)[&label=87]:1.0E-6)[&label=87]:2.47E-4)[&label=79]:7.33E-4,((Myriopteris_windhamii1:1.0E-6,Myriopteris_windhamii2:1.0E-6)[&label=97]:9.95E-4,Myriopteris_jamaicensis1:7.45E-4)[&label=78]:4.87E-4)[&label=56]:2.35E-4)[&label=100]:0.002758,(Myriopteris_myriophylla4:0.002056,(Myriopteris_myriophylla3:7.52E-4,(Myriopteris_myriophylla1:1.0E-6,Myriopteris_myriophylla2:4.99E-4)[&label=67]:2.45E-4)[&label=90]:4.91E-4)[&label=100]:0.002201)[&label=100]:0.009841)[&label=60]:3.0E-4)[&label=90]:0.002221)[&label=100]:0.003278,(((Myriopteris_aurea5:9.6E-4,Myriopteris_aurea4:5.05E-4)[&label=100]:0.00391,(Myriopteris_aurea2:2.5E-4,(Myriopteris_aurea3:2.5E-4,Myriopteris_aurea1:1.0E-6)[&label=58]:1.0E-6)[&label=100]:0.005853)[&label=100]:0.009172,Myriopteris_yatskievychiana1:0.006112)[&label=100]:0.004765)[&label=100]:0.003963)[&label=84]:7.0E-4,(Argyrochosma_microphylla:0.02602,(Paragymnopteris_marantae:0.013928,(Pellaea_atropurpurea:0.018177,Astrolepis_windhamii:0.031684)[&label=89]:0.00172)[&label=97]:0.005298)[&label=100]:0.016304)[&label=100]:0.015866,Myriopteris_wrightii1:0.012582);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="label";
+	set branchLabels.fontName="Arial";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=true;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=178;
+	set legend.attribute=null;
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="Node ages";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set nodeShape.colourAttribute=null;
+	set nodeShape.isShown=false;
+	set nodeShape.minSize=10.0;
+	set nodeShape.scaleType=Width;
+	set nodeShape.shapeType=Circle;
+	set nodeShape.size=4.0;
+	set nodeShape.sizeAttribute=null;
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="Arial";
+	set tipLabels.fontSize=10;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=true;
+	set trees.orderType="increasing";
+	set trees.rooting=true;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+
