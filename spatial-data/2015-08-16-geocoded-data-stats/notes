@@ -1,3 +1,6 @@
+
+1) added clade names to the spatial data, found many records that could not be assigned clades:
+
 Reading Californian_Clade_Masterlist.csv...
 Adding clade name to records in file 0.txt...
 Number of records that could not be placed in a clade and were assigned '?': 2211/396478
@@ -8,3 +11,5 @@ Number of records that could not be placed in a clade and were assigned '?': 460
 Adding clade name to records in file 3.txt...
 Number of records that could not be placed in a clade and were assigned '?': 2264/235413
 Done.
+
+2) computed % geocoded total and in each county for each clade, genera, and species

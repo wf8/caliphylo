@@ -1,6 +1,6 @@
 #! /usr/bin/python
 """
-script to break up the 1419330 CCH records into smaller files organized by genus
+script to add clades name from the Californian_Clade_Masterlist to the spatial data
 """
 
 import csv
