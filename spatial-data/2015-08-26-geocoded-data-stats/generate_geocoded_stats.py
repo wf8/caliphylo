@@ -8,7 +8,7 @@ import codecs
 
 
 org_files = ["output/CCH_with_clades_Part_1.csv","output/CCH_with_clades_Part_2.csv",
-            "output/CCH_with_clades_Part_3.csv","output/CCH_with_clades_Part_4.csv", "output/CCH_with_clades_Part_5.txt"]
+            "output/CCH_with_clades_Part_3.csv","output/CCH_with_clades_Part_4.csv", "output/CCH_with_clades_Part_5.csv"]
 
 
 def get_genus(row):
@@ -97,10 +97,7 @@ all_counties = []
 print("Counting geocoded records for all taxa...")
 for rfile in org_files:
     with open(rfile, 'rb') as csvfile:
-        if rfile == "output/CCH_with_clades_Part_5.txt":
-            csvreader = csv.reader(csvfile, delimiter="\t", quoting=csv.QUOTE_NONE)
-        else:
-            csvreader = csv.reader(csvfile, delimiter=",")
+        csvreader = csv.reader(csvfile, delimiter=",")
         for i, row in enumerate(csvreader):
             if i != 0:
                 if row[11] not in all_counties:
