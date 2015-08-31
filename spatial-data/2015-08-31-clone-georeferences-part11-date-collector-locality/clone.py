@@ -73,16 +73,16 @@ def convert_date(date):
         return [words[2], months[words[0].title()], words[1]]
 
 # column indexes
-lon = 18
-lat = 19
-locality = 16
+lon = 19
+lat = 20
+locality = 17
 collector = 5
 #year = 40
 #month = 41
 #day = 42
 date = 10
 
-print("Reading in CH_clades_by_counties_Part_11.csv...")
+print("Reading in CCH_clades_by_counties_Part_11.csv...")
 complete_records = []
 num_records = 0
 with open(org_files[0], 'rb') as csvfile:
