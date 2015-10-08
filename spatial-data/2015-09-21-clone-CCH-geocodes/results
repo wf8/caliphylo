@@ -1,0 +1,108 @@
+Processing file CCH_clades_by_counties_Part_10.csv...
+Total number of records: 144019
+Initial number of geocoded records: 102837
+Initial number of geocoded records with dates and locality: 101435
+Cloning geocodes...
+Number of newly cloned records: 105
+New total number of geocoded records: 102942
+Percent of ungeocoded records newly cloned: 0.25
+
+Processing file CCH_clades_by_counties_Part_07.csv...
+Total number of records: 114346
+Initial number of geocoded records: 89415
+Initial number of geocoded records with dates and locality: 88678
+Cloning geocodes...
+Number of newly cloned records: 41
+New total number of geocoded records: 89456
+Percent of ungeocoded records newly cloned: 0.16
+
+Processing file CCH_clades_by_counties_Part_01.csv...
+Total number of records: 197332
+Initial number of geocoded records: 144386
+Initial number of geocoded records with dates and locality: 142454
+Cloning geocodes...
+Number of newly cloned records: 115
+New total number of geocoded records: 144501
+Percent of ungeocoded records newly cloned: 0.22
+
+Processing file CCH_clades_by_counties_Part_02.csv...
+Total number of records: 198795
+Initial number of geocoded records: 170596
+Initial number of geocoded records with dates and locality: 169001
+Cloning geocodes...
+Number of newly cloned records: 91
+New total number of geocoded records: 170687
+Percent of ungeocoded records newly cloned: 0.32
+
+Processing file CCH_clades_by_counties_Part_05.csv...
+Total number of records: 172110
+Initial number of geocoded records: 136714
+Initial number of geocoded records with dates and locality: 134875
+Cloning geocodes...
+Number of newly cloned records: 113
+New total number of geocoded records: 136827
+Percent of ungeocoded records newly cloned: 0.32
+
+Processing file CCH_clades_by_counties_Part_04.csv...
+Total number of records: 182530
+Initial number of geocoded records: 153396
+Initial number of geocoded records with dates and locality: 151212
+Cloning geocodes...
+Number of newly cloned records: 168
+New total number of geocoded records: 153564
+Percent of ungeocoded records newly cloned: 0.58
+
+Processing file CCH_clades_by_counties_Part_09.csv...
+Total number of records: 170636
+Initial number of geocoded records: 124429
+Initial number of geocoded records with dates and locality: 122984
+Cloning geocodes...
+Number of newly cloned records: 159
+New total number of geocoded records: 124588
+Percent of ungeocoded records newly cloned: 0.34
+
+Processing file CCH_clades_by_counties_Part_06.csv...
+Total number of records: 162178
+Initial number of geocoded records: 131139
+Initial number of geocoded records with dates and locality: 130103
+Cloning geocodes...
+Number of newly cloned records: 91
+New total number of geocoded records: 131230
+Percent of ungeocoded records newly cloned: 0.29
+
+Processing file CCH_clades_by_counties_Part_03.csv...
+Total number of records: 194342
+Initial number of geocoded records: 165273
+Initial number of geocoded records with dates and locality: 163742
+Cloning geocodes...
+Number of newly cloned records: 247
+New total number of geocoded records: 165520
+Percent of ungeocoded records newly cloned: 0.85
+
+Processing file CCH_clades_by_counties_Part_08.csv...
+Total number of records: 181114
+Initial number of geocoded records: 168628
+Initial number of geocoded records with dates and locality: 167483
+Cloning geocodes...
+Number of newly cloned records: 22
+New total number of geocoded records: 168650
+Percent of ungeocoded records newly cloned: 0.18
+
+Processing file CCH_clades_by_counties_Part_11.csv...
+Total number of records: 80526
+Initial number of geocoded records: 65228
+Initial number of geocoded records with dates and locality: 64781
+Cloning geocodes...
+Number of newly cloned records: 76
+New total number of geocoded records: 65304
+Percent of ungeocoded records newly cloned: 0.5
+
+========================================================
+Overall results:
+Total number of records: 1797928
+Initial number of geocoded records: 1452041
+Initial number of geocoded records with dates and locality: 1436748
+Number of newly cloned records: 1228
+New total number of geocoded records: 1453269
+Percent of ungeocoded records newly cloned: 0.36
+Done.
