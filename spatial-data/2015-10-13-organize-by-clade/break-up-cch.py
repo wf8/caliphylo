@@ -10,7 +10,7 @@ from os.path import isfile, join
 
 input_dir = "input/"
 output_dir = "output/"
-clade_column = 30
+clade_column = 29
 max_records_per_file = 460000
 data = [ f for f in listdir(input_dir) if isfile(join(input_dir,f)) ]
 
