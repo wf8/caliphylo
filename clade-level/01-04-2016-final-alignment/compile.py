@@ -153,17 +153,17 @@ for i in range(7):
     SeqIO.write(records, output_handle, "fasta")
 
 
-#print("Aligning each gene...")
-#unaligned = [ f for f in listdir("unaligned/") if isfile(join("unaligned/",f)) ]
-#for f in unaligned:
-#    # align using MAFFT
-#    mafft_cline = MafftCommandline(input="unaligned/" + f)
-#    mafft_cline.set_parameter("--auto", True)
-#    mafft_cline.set_parameter("--adjustdirection", True)
-#    print(str(mafft_cline))
-#    stdout, stderr = mafft_cline()
-#    with open("aligned/" + f, "w") as handle:
-#        handle.write(stdout)
+print("Aligning each gene...")
+unaligned = [ f for f in listdir("unaligned/") if isfile(join("unaligned/",f)) ]
+for f in unaligned:
+    # align using MAFFT
+    mafft_cline = MafftCommandline(input="unaligned/" + f)
+    mafft_cline.set_parameter("--auto", True)
+    mafft_cline.set_parameter("--adjustdirection", True)
+    print(str(mafft_cline))
+    stdout, stderr = mafft_cline()
+    with open("aligned/" + f, "w") as handle:
+        handle.write(stdout)
 
 raw_input("If necessary, you should now manually trim each alignment and then press enter to continue...")
 
