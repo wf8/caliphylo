@@ -1,0 +1,13 @@
+ITS,include,ITS,Its,its,internal transcribed spacer
+ITS,exclude,ETS
+matK,include,matK,matk,Matk,MATK,maturase K
+matR,include,matR,matR,MATR,matr,MatR
+ndhF,include,ndhF,Ndhf,ndhf,Ndhf
+rbcL,include,rbcL,Rbcl,rbcl,RBCL
+rbcl,exclude,atpB,atpb,ATPB,Atpb
+trnF,include,trnF,trnf,Trnf,TRNF
+trnL,include,trnL,trnl,Trnl,TRNL
+trnL,exclude,trnF
+18S,include,18S,18s
+18S,exclude,5.8S,ITS
+atpB,include,atpB,Atpb,atpb,ATPB
