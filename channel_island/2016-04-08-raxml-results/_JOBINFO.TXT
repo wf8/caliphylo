@@ -1,0 +1,14 @@
+Task\ label=RAxML channel island 1
+Task\ ID=880098
+Tool=RAXMLHPC2_TGB
+created\ on=2016-04-07 15:26:46.0
+JobHandle=NGBW-JOB-RAXMLHPC2_TGB-FE4DF4D9B29E4BD593F259E8CE2BB17E
+resource=comet
+User\ ID=68621
+User\ Name=freyman@berkeley.edu
+email=freyman@berkeley.edu
+
+Output=(all_outputfiles,*,UNKNOWN,UNKNOWN,UNKNOWN)
+ChargeFactor=1.000000
+cores=48
+JOBID=2103160

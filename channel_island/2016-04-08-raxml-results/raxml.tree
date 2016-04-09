@@ -1,0 +1,840 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=746;
+	taxlabels
+	Abronia_umbellata
+	Acacia_cyclops
+	Acacia_dealbata
+	Acacia_decurrens
+	Acacia_melanoxylon
+	Acer_macrophyllum
+	Achillea_millefolium
+	Achyrachaena_mollis
+	'Acmispon_americanus_var._americanus'
+	Acmispon_brachycarpus
+	'Acmispon_dendroideus_var._dendroideus'
+	'Acmispon_maritimus_var._maritimus'
+	Acmispon_parviflorus
+	Acmispon_strigosus
+	Acmispon_wrangelianus
+	Acourtia_microcephala
+	Adiantum_aleuticum
+	Adiantum_capillus-veneris
+	Adiantum_jordanii
+	Aegilops_cylindrica
+	Agave_americana
+	Agoseris_grandiflora
+	Agoseris_heterophylla
+	Agrostis_exarata
+	Agrostis_pallens
+	Agrostis_stolonifera
+	Albizia_lophantha
+	Alcea_rosea
+	Allium_praecox
+	Allophyllum_glutinosum
+	Amaranthus_albus
+	Amaranthus_blitoides
+	Amaranthus_deflexus
+	Amaranthus_powellii
+	Amaryllis_belladonna
+	Amblyopappus_pusillus
+	Ambrosia_psilostachya
+	Ammannia_robusta
+	Ammophila_arenaria
+	Amsinckia_menziesii
+	Anemopsis_californica
+	Anthemis_cotula
+	Antirrhinum_kelloggii
+	Antirrhinum_multiflorum
+	Aphanisma_blitoides
+	Apium_graveolens
+	Arbutus_menziesii
+	Arctium_minus
+	Arctostaphylos_catalinae
+	Arctostaphylos_confertiflora
+	'Arctostaphylos_crustacea_ssp._insulicola'
+	'Arctostaphylos_crustacea_ssp._subcordata'
+	Arctostaphylos_insularis
+	Arctostaphylos_viridissima
+	Argyranthemum_frutescens
+	Aristida_adscensionis
+	'Aristida_ternipes_var._gentilis'
+	'Armeria_maritima_ssp._californica'
+	Artemisia_californica
+	Artemisia_douglasiana
+	Artemisia_dracunculus
+	Artemisia_nesiotica
+	Arthrocnemum_subterminale
+	Arundo_donax
+	Asclepias_fascicularis
+	Asparagus_asparagoides
+	Asparagus_officinalis
+	Asphodelus_fistulosus
+	Aspidotis_californica
+	'Astragalus_didymocarpus_var._didymocarpus'
+	'Astragalus_trichopodus_var._trichopodus'
+	Athysanus_pusillus
+	Atriplex_lentiformis
+	Atriplex_leucophylla
+	Atriplex_patula
+	Atriplex_prostrata
+	Atriplex_rosea
+	Atriplex_semibaccata
+	'Atriplex_serenana_var._serenana'
+	Atriplex_watsonii
+	Avena_barbata
+	Avena_fatua
+	Avena_sativa
+	Azolla_filiculoides
+	Baccharis_salicifolia
+	Bahiopsis_laciniata
+	Bassia_hyssopifolia
+	Batis_maritima
+	Bergerocactus_emoryi
+	Berula_erecta
+	'Beta_vulgaris_ssp._maritima'
+	'Bolboschoenus_maritimus_ssp._paludosus'
+	Bothriochloa_barbinodis
+	Bowlesia_incana
+	Brachypodium_distachyon
+	Brassica_nigra
+	Brassica_rapa
+	Brassica_tournefortii
+	Brickellia_californica
+	Briza_minor
+	Brodiaea_jolonensis
+	Bromus_berteroanus
+	Bromus_catharticus
+	Bromus_diandrus
+	Bromus_hordeaceus
+	Bromus_laevipes
+	Bromus_madritensis
+	Caesalpinia_spinosa
+	Cakile_edentula
+	Cakile_maritima
+	Calamagrostis_rubescens
+	Calandrinia_breweri
+	Calandrinia_menziesii
+	Calendula_officinalis
+	Calibrachoa_parviflora
+	California_macrophylla
+	Callitriche_marginata
+	Calochortus_albus
+	Calochortus_catalinae
+	Calochortus_luteus
+	Calochortus_splendens
+	'Calystegia_macrostegia_ssp._cyclostegia'
+	'Calystegia_malacophylla_ssp._pedicellata'
+	Calystegia_soldanella
+	Camissonia_strigulosa
+	Camissoniopsis_hirtella
+	Camissoniopsis_micrantha
+	Capsella_bursa-pastoris
+	Cardamine_californica
+	Cardamine_oligosperma
+	Cardionema_ramosissimum
+	Carduus_pycnocephalus
+	Carex_barbarae
+	Carex_globosa
+	Carex_gracilior
+	Carex_harfordii
+	Carex_pansa
+	Carex_praegracilis
+	Carex_senta
+	Carex_subbracteata
+	Carex_tumulicola
+	Carpobrotus_edulis
+	'Castilleja_affinis_ssp._affinis'
+	Castilleja_attenuata
+	Castilleja_densiflora
+	Castilleja_exserta
+	Caulanthus_lasiophyllus
+	Ceanothus_arboreus
+	'Ceanothus_megacarpus_var._insularis'
+	'Ceanothus_megacarpus_var._megacarpus'
+	Centaurea_benedicta
+	Centaurea_melitensis
+	Centaurea_solstitialis
+	Centranthus_ruber
+	Cerastium_glomeratum
+	Chenopodium_berlandieri
+	Chenopodium_californicum
+	Chenopodium_murale
+	Chloris_virgata
+	Chlorogalum_pomeridianum
+	Chorizanthe_staticoides
+	Cichorium_intybus
+	Cirsium_brevistylum
+	'Cirsium_occidentale_var._venustum'
+	Cirsium_ochrocentrum
+	Cirsium_undulatum
+	Cirsium_vulgare
+	Cistanthe_maritima
+	Clarkia_epilobioides
+	Clarkia_unguiculata
+	'Claytonia_parviflora_ssp._parviflora'
+	'Claytonia_perfoliata_ssp._mexicana'
+	Clematis_lasiantha
+	Clematis_ligusticifolia
+	Clinopodium_douglasii
+	'Collinsia_heterophylla_var._heterophylla'
+	Conium_maculatum
+	Constancea_nevinii
+	Convolvulus_arvensis
+	Convolvulus_simulans
+	Corethrogyne_filaginifolia
+	Cornus_glabrata
+	Coronilla_valentina
+	Cortaderia_selloana
+	Cotoneaster_pannosus
+	Cotula_australis
+	Cotula_coronopifolia
+	Crepis_setosa
+	Cressa_truxillensis
+	Crossosoma_californicum
+	Croton_setigerus
+	Crypsis_alopecuroides
+	Crypsis_vaginiflora
+	Cryptantha_leiocarpa
+	Cryptantha_maritima
+	Cryptantha_traskiae
+	Cucurbita_foetidissima
+	Cuscuta_californica
+	Cuscuta_campestris
+	Cuscuta_occidentalis
+	'Cuscuta_pacifica_var._pacifica'
+	Cylindropuntia_prolifera
+	Cynara_cardunculus
+	Cynodon_dactylon
+	Cyperus_eragrostis
+	Cyperus_esculentus
+	Cyperus_involucratus
+	Cyperus_odoratus
+	Cystopteris_fragilis
+	Dactylis_glomerata
+	Danthonia_californica
+	Datura_wrightii
+	Daucus_carota
+	Daucus_pusillus
+	Deinandra_clementina
+	Deinandra_fasciculata
+	'Deinandra_increscens_ssp._increscens'
+	Delairea_odorata
+	Dendromecon_harfordii
+	Deschampsia_danthonioides
+	Descurainia_pinnata
+	Desmazeria_rigida
+	'Dichelostemma_capitatum_ssp._capitatum'
+	Dichondra_occidentalis
+	Digitaria_sanguinalis
+	Diplacus_aurantiacus
+	Diplacus_brevipes
+	Diplacus_longiflorus
+	Diplacus_parviflorus
+	Diplacus_puniceus
+	Dissanthelium_californicum
+	Distichlis_littoralis
+	Distichlis_spicata
+	Dithyrea_maritima
+	Draba_cuneifolia
+	Drymocallis_glandulosa
+	Dryopteris_arguta
+	'Dudleya_blochmaniae_ssp._blochmaniae'
+	'Dudleya_blochmaniae_ssp._insularis'
+	Dudleya_candelabrum
+	Dudleya_gnoma
+	Dudleya_greenei
+	Dudleya_nesiotica
+	Dudleya_traskiae
+	'Dudleya_virens_ssp._hassei'
+	'Dudleya_virens_ssp._insularis'
+	'Dudleya_virens_ssp._virens'
+	Dysphania_ambrosioides
+	Dysphania_multifida
+	Echinochloa_crus-galli
+	Ehrendorferia_ochroleuca
+	Ehrharta_calycina
+	Ehrharta_erecta
+	Eleocharis_macrostachya
+	Elymus_condensatus
+	Elymus_repens
+	Elymus_triticoides
+	'Emmenanthe_penduliflora_var._penduliflora'
+	Encelia_californica
+	Epilobium_brachycarpum
+	'Equisetum_hyemale_ssp._affine'
+	Equisetum_laevigatum
+	'Equisetum_telmateia_ssp._braunii'
+	Eremalche_exilis
+	Eriastrum_filifolium
+	Ericameria_ericoides
+	Erigeron_bonariensis
+	Erigeron_canadensis
+	Erigeron_glaucus
+	Eriogonum_arborescens
+	Eriogonum_cinereum
+	'Eriogonum_fasciculatum_var._polifolium'
+	'Eriogonum_grande_var._grande'
+	Eriophyllum_staechadifolium
+	Erodium_botrys
+	Erodium_brachycarpum
+	Erodium_cicutarium
+	Erodium_moschatum
+	Erodium_texanum
+	Erysimum_cheiri
+	Erythranthe_cardinalis
+	Erythranthe_floribundus
+	Erythranthe_guttatus
+	Eschscholzia_californica
+	Eschscholzia_ramosa
+	Eucalyptus_camaldulensis
+	Eucalyptus_cladocalyx
+	Eucalyptus_globulus
+	Eucalyptus_polyanthemos
+	Eucalyptus_sideroxylon
+	Eucalyptus_tereticornis
+	Eulobus_californicus
+	Euphorbia_crenulata
+	Euphorbia_maculata
+	Euphorbia_misera
+	Euphorbia_peplus
+	Euphorbia_serpens
+	Euphorbia_serpyllifolia
+	Euphorbia_spathulata
+	Eurybia_radulina
+	Euthamia_occidentalis
+	Extriplex_californica
+	Festuca_arundinacea
+	Festuca_bromoides
+	Festuca_microstachys
+	Festuca_myuros
+	Festuca_octoflora
+	Festuca_perennis
+	Festuca_temulenta
+	Ficus_carica
+	Foeniculum_vulgare
+	Frankenia_salina
+	'Galium_angustifolium_ssp._angustifolium'
+	Galium_aparine
+	'Galium_californicum_ssp._flaccidum'
+	'Galium_catalinense_ssp._acrispum'
+	Galium_parisiense
+	Gambelia_speciosa
+	Gamochaeta_ustulata
+	Garrya_veatchii
+	Genista_linifolia
+	Genista_monspessulana
+	Geranium_carolinianum
+	Geranium_dissectum
+	Geranium_molle
+	'Gilia_achilleifolia_ssp._multicaulis'
+	Gilia_angelensis
+	'Gilia_capitata_ssp._abrotanifolia'
+	Gilia_clivorum
+	Gilia_nevinii
+	Glebionis_coronaria
+	Gnaphalium_palustre
+	Grindelia_camporum
+	Grindelia_hirsutula
+	'Grindelia_stricta_var._platyphylla'
+	Hainardia_cylindrica
+	Harpagonella_palmeri
+	Hazardia_cana
+	Hazardia_detonsa
+	'Hazardia_squarrosa_var._grindelioides'
+	Hedypnois_cretica
+	Helianthus_annuus
+	'Heliotropium_curassavicum_var._oculatum'
+	Helminthotheca_echioides
+	'Herniaria_hirsuta_var._cinerea'
+	Hesperocnide_tenella
+	Hesperocyparis_macrocarpa
+	Hesperolinon_micranthum
+	Heteromeles_arbutifolia
+	Heuchera_maxima
+	Hieracium_argutum
+	Hirschfeldia_incana
+	Holodiscus_discolor
+	'Hordeum_brachyantherum_ssp._californicum'
+	Hordeum_depressum
+	Hordeum_intercedens
+	'Hordeum_marinum_ssp._gussoneanum'
+	'Hordeum_murinum_ssp._glaucum'
+	'Hordeum_murinum_ssp._leporinum'
+	Hordeum_vulgare
+	Hornungia_procumbens
+	Hypochaeris_glabra
+	Hypochaeris_radicata
+	Ipomoea_cairica
+	'Isocoma_menziesii_var._vernonioides'
+	Isolepis_cernua
+	Jaumea_carnosa
+	Johnstonella_micromeres
+	Juglans_californica
+	Juglans_regia
+	'Juncus_balticus_ssp._ater'
+	Juncus_bufonius
+	Juncus_mexicanus
+	Juncus_xiphioides
+	Keckiella_cordifolia
+	Kickxia_elatine
+	Koeleria_macrantha
+	Kopsiopsis_strobilacea
+	Lactuca_saligna
+	Lactuca_serriola
+	Lamarckia_aurea
+	Lamium_amplexicaule
+	Lastarriaea_coriacea
+	'Lasthenia_glabrata_ssp._coulteri'
+	Lasthenia_gracilis
+	Lathyrus_odoratus
+	Lathyrus_tingitanus
+	Lemna_minor
+	Lepechinia_fragrans
+	Lepidium_didymum
+	Lepidium_draba
+	Lepidium_lasiocarpum
+	Lepidium_latipes
+	Lepidium_nitidum
+	Lepidium_oblongum
+	Leptosiphon_bicolor
+	Leptosiphon_parviflorus
+	Leptosyne_gigantea
+	'Lilium_humboldtii_ssp._ocellatum'
+	Limonium_sinuatum
+	Linanthus_dianthiflorus
+	Linaria_bipartita
+	Lithophragma_affine
+	Lithophragma_cymbalaria
+	Lithophragma_maximum
+	Lobelia_dunnii
+	Lobularia_maritima
+	Loeflingia_squarrosa
+	Logfia_arizonica
+	Logfia_filaginoides
+	Logfia_gallica
+	Lonicera_hispidula
+	Lotus_corniculatus
+	'Ludwigia_peploides_ssp._peploides'
+	Lupinus_arboreus
+	Lupinus_bicolor
+	Lupinus_chamissonis
+	Lupinus_concinnus
+	Lupinus_hirsutissimus
+	Lupinus_microcarpus
+	Lupinus_succulentus
+	Lupinus_truncatus
+	Luzula_subsessilis
+	Lycium_brevipes
+	Lycium_californicum
+	Lycium_fremontii
+	Lycopersicum_esculentum
+	Lysimachia_arvensis
+	Lysimachia_minima
+	Lythrum_hyssopifolia
+	Madia_elegans
+	Madia_sativa
+	Malacothrix_clevelandii
+	Malacothrix_coulteri
+	'Malacothrix_foliosa_ssp._crispifolia'
+	'Malacothrix_foliosa_ssp._foliosa'
+	'Malacothrix_foliosa_ssp._philbrickii'
+	'Malacothrix_foliosa_ssp._polycephala'
+	Malacothrix_incana
+	Malacothrix_indecora
+	Malacothrix_junakii
+	'Malacothrix_saxatilis_var._implicata'
+	'Malacothrix_saxatilis_var._tenuifolia'
+	Malacothrix_similis
+	Malacothrix_squalida
+	Malosma_laurina
+	Malva_assurgentiflora
+	Malva_nicaeensis
+	Malva_parviflora
+	Malva_pseudolavatera
+	Malvella_leprosa
+	Marah_fabacea
+	Marah_macrocarpa
+	Marrubium_vulgare
+	Matricaria_discoidea
+	Medicago_polymorpha
+	Medicago_sativa
+	Melica_imperfecta
+	Melilotus_albus
+	Melilotus_indicus
+	Mentha_aquatica
+	Mentha_spicata
+	Mentzelia_micrantha
+	Mesembryanthemum_crystallinum
+	Mesembryanthemum_nodiflorum
+	Micranthes_californica
+	Microseris_elegans
+	Minuartia_douglasii
+	Monolepis_nuttalliana
+	Montia_fontana
+	Muhlenbergia_appressa
+	Muhlenbergia_microsperma
+	Munzothamnus_blairii
+	Myoporum_laetum
+	Myriopteris_clevelandii
+	Myriopteris_cooperae
+	Myriopteris_newberryi
+	Nama_stenocarpum
+	Narcissus_tazetta
+	Nasturtium_officinale
+	Navarretia_atractyloides
+	'Navarretia_hamata_ssp._leptantha'
+	Nemophila_menziesii
+	Nepeta_cataria
+	Nicotiana_clevelandii
+	Nicotiana_glauca
+	Nicotiana_quadrivalvis
+	Nuttallanthus_texanus
+	Oenothera_sinuosa
+	Oenothera_xenogaura
+	Olea_europaea
+	Oligomeris_linifolia
+	Opuntia_ficus-indica
+	Opuntia_littoralis
+	Opuntia_oricola
+	Orobanche_fasciculata
+	Orobanche_uniflora
+	'Oxalis_articulata_ssp._rubra'
+	Oxalis_corniculata
+	Oxalis_pes-caprae
+	Papaver_californicum
+	Papaver_heterophyllum
+	Papaver_somniferum
+	Parapholis_incurva
+	Paspalum_dilatatum
+	Paspalum_distichum
+	Pectocarya_penicillata
+	Pelargonium_peltatum
+	Pellaea_andromedifolia
+	'Pellaea_mucronata_var._mucronata'
+	Pennisetum_clandestinum
+	Pennisetum_setaceum
+	Pentachaeta_lyonii
+	Peritoma_arborea
+	Perityle_emoryi
+	Persicaria_amphibia
+	Persicaria_lapathifolia
+	'Phacelia_cicutaria_var._hispida'
+	Phacelia_distans
+	Phacelia_grandiflora
+	Phacelia_hubbyi
+	'Phacelia_insularis_var._insularis'
+	Phacelia_ramosissima
+	Phacelia_viscida
+	Phalaris_aquatica
+	Phalaris_canariensis
+	Phalaris_caroliniana
+	Phalaris_lemmonii
+	Phalaris_minor
+	Phalaris_paradoxa
+	Phyla_nodiflora
+	Phyllospadix_scouleri
+	Phyllospadix_torreyi
+	'Pickeringia_montana_var._montana'
+	Pinus_pinea
+	Pinus_radiata
+	'Pinus_torreyana_ssp._insularis'
+	Pisum_sativum
+	Pittosporum_undulatum
+	Plantago_coronopus
+	Plantago_elongata
+	Plantago_erecta
+	Plantago_lanceolata
+	Plantago_major
+	Plantago_maritima
+	Plantago_subnuda
+	Platanus_racemosa
+	Platystemon_californicus
+	Pluchea_odorata
+	Pluchea_sericea
+	Poa_annua
+	Poa_howellii
+	Poa_palustris
+	'Poa_secunda_ssp._secunda'
+	Polycarpon_tetraphyllum
+	Polygala_californica
+	Polygonum_argyrocoleon
+	'Polygonum_aviculare_ssp._depressum'
+	Polypodium_californicum
+	Polypodium_scouleri
+	Polypogon_monspeliensis
+	Polypogon_viridis
+	Polystichum_munitum
+	Populus_trichocarpa
+	Portulaca_oleracea
+	Potamogeton_crispus
+	Poterium_sanguisorba
+	'Primula_clevelandii_ssp._insularis'
+	'Prunus_ilicifolia_ssp._lyonii'
+	Pseudognaphalium_beneolens
+	Pseudognaphalium_biolettii
+	Pseudognaphalium_californicum
+	Pseudognaphalium_luteoalbum
+	Pseudognaphalium_microcephalum
+	Pseudognaphalium_ramosissimum
+	Pterostegia_drymarioides
+	Quercus_chrysolepis
+	Quercus_douglasii
+	Quercus_engelmannii
+	Quercus_kelloggii
+	Quercus_lobata
+	Quercus_tomentella
+	Rafinesquia_californica
+	Ranunculus_californicus
+	Raphanus_raphanistrum
+	Raphanus_sativus
+	Reseda_odorata
+	Rhus_integrifolia
+	Rhus_ovata
+	'Ribes_malvaceum_var._malvaceum'
+	Ribes_thacherianum
+	Ribes_viburnifolium
+	Ricinus_communis
+	Robinia_pseudoacacia
+	Romneya_coulteri
+	Rosa_californica
+	Rubus_ursinus
+	Rumex_acetosella
+	Rumex_conglomeratus
+	Rumex_crispus
+	Rumex_fueginus
+	Rumex_obtusifolius
+	Rumex_pulcher
+	Rumex_salicifolius
+	Ruppia_maritima
+	Ruta_chalepensis
+	Sagina_apetala
+	Salicornia_depressa
+	Salicornia_pacifica
+	Salix_exigua
+	Salix_gooddingii
+	Salix_laevigata
+	'Salix_lasiandra_var._lasiandra'
+	Salix_lasiolepis
+	Salsola_australis
+	Salsola_tragus
+	Salvia_apiana
+	Salvia_brandegeei
+	Salvia_columbariae
+	Salvia_leucophylla
+	Salvia_mellifera
+	'Sambucus_nigra_ssp._caerulea'
+	Samolus_parviflorus
+	Sanicula_arguta
+	Sanicula_crassicaulis
+	Sanicula_hoffmannii
+	Schinus_molle
+	Schismus_arabicus
+	Schismus_barbatus
+	Schoenoplectus_americanus
+	Schoenoplectus_californicus
+	'Schoenoplectus_pungens_var._longispicatus'
+	Scrophularia_californica
+	Scrophularia_villosa
+	Selaginella_bigelovii
+	Senecio_aphanactis
+	'Senecio_flaccidus_var._douglasii'
+	Senecio_glomeratus
+	Senecio_vulgaris
+	Sesuvium_verrucosum
+	'Sidalcea_malviflora_ssp._malviflora'
+	Silene_antirrhina
+	Silene_coniflora
+	Silene_gallica
+	'Silene_laciniata_ssp._laciniata'
+	Silybum_marianum
+	Sinapis_arvensis
+	Sisymbrium_altissimum
+	Sisymbrium_irio
+	Sisymbrium_officinale
+	Sisymbrium_orientale
+	Sisyrinchium_bellum
+	Solanum_americanum
+	Solanum_elaeagnifolium
+	Solanum_wallacei
+	Soleirolia_soleirolii
+	Sonchus_asper
+	Sonchus_oleraceus
+	Sonchus_tenerrimus
+	Spartium_junceum
+	Spergula_arvensis
+	Spergularia_marina
+	Sphaeropteris_cooperi
+	Stachys_bullata
+	'Stachys_rigida_var._rigida'
+	Stebbinsoseris_heterocarpa
+	Stellaria_media
+	Stellaria_nitens
+	Stenotaphrum_secundatum
+	Stephanomeria_cichoriacea
+	Stephanomeria_diegensis
+	'Stephanomeria_exigua_ssp._coronaria'
+	'Stephanomeria_virgata_ssp._virgata'
+	Stipa_diegoensis
+	Stipa_lepida
+	'Stipa_miliacea_var._miliacea'
+	Stipa_pulchra
+	Stuckenia_pectinata
+	Suaeda_calceoliformis
+	Suaeda_taxifolia
+	Symphoricarpos_mollis
+	Symphyotrichum_subulatum
+	Tamarix_aphylla
+	Tamarix_chinensis
+	Tamarix_parviflora
+	Tamarix_ramosissima
+	Taraxacum_erythrospermum
+	Taraxacum_officinale
+	Tetragonia_tetragonioides
+	Thelesperma_megapotamicum
+	Thysanocarpus_conchuliferus
+	Thysanocarpus_curvipes
+	Thysanocarpus_laciniatus
+	Torilis_arvensis
+	Torilis_nodosa
+	Toxicodendron_diversilobum
+	Toxicoscordion_fremontii
+	Tragopogon_porrifolius
+	Tribulus_terrestris
+	Trichostema_lanceolatum
+	Trifolium_albopurpureum
+	Trifolium_barbigerum
+	Trifolium_ciliolatum
+	Trifolium_fucatum
+	Trifolium_gracilentum
+	Trifolium_hirtum
+	Trifolium_macraei
+	Trifolium_microcephalum
+	Trifolium_microdon
+	Trifolium_palmeri
+	Trifolium_repens
+	Trifolium_willdenovii
+	Triteleia_hyacinthina
+	Triticum_aestivum
+	Tropaeolum_majus
+	Tropidocarpum_gracile
+	Turritis_glabra
+	Typha_angustifolia
+	Typha_domingensis
+	Typha_latifolia
+	Uropappus_lindleyi
+	'Urtica_dioica_ssp._holosericea'
+	Urtica_urens
+	Vaccinium_ovatum
+	Venegasia_carpesioides
+	Verbascum_thapsus
+	Verbena_bracteata
+	Veronica_anagallis-aquatica
+	Vicia_americana
+	Vicia_benghalensis
+	'Vicia_sativa_ssp._nigra'
+	'Vicia_sativa_ssp._sativa'
+	Vicia_villosa
+	Vinca_major
+	Vitis_girdiana
+	Washingtonia_filifera
+	Woodwardia_fimbriata
+	Xanthium_spinosum
+	Xanthium_strumarium
+	Xylococcus_bicolor
+	Yabea_microcarpa
+	Zannichellia_palustris
+	Zantedeschia_aethiopica
+	Zeltnera_venusta
+	Zostera_marina
+	Zostera_pacifica
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] ((((((Zantedeschia_aethiopica:0.07059,Lemna_minor:0.147049)[&label=99]:0.066828,(Ruppia_maritima:0.146454,((Zannichellia_palustris:0.06748,(Stuckenia_pectinata:0.045136,Potamogeton_crispus:0.040576)[&label=73]:0.013124)[&label=100]:0.078835,((Zostera_marina:0.006507,Zostera_pacifica:0.028226)[&label=100]:0.063369,(Phyllospadix_scouleri:5.54E-4,Phyllospadix_torreyi:0.229076)[&label=100]:0.05306)[&label=100]:0.064861)[&label=99]:0.03424)[&label=100]:0.124567)[&label=95]:0.01555,((('Lilium_humboldtii_ssp._ocellatum':0.112556,(((Calochortus_splendens:3.57E-4,Calochortus_catalinae:0.00355)[&label=95]:0.001053,Calochortus_luteus:0.004192)[&label=73]:0.006685,Calochortus_albus:0.019061)[&label=100]:0.039192)[&label=98]:0.060461,Toxicoscordion_fremontii:0.158646)[&label=93]:0.026694,(((((Amaryllis_belladonna:0.024846,Narcissus_tazetta:0.028974)[&label=99]:0.041281,((Asparagus_officinalis:0.008409,Asparagus_asparagoides:0.011436)[&label=100]:0.057392,((Triteleia_hyacinthina:0.045332,(Brodiaea_jolonensis:0.025853,'Dichelostemma_capitatum_ssp._capitatum':0.027025)[&label=100]:0.034273)[&label=100]:0.031765,(Chlorogalum_pomeridianum:0.017141,Agave_americana:0.01893)[&label=100]:0.0433)[&label=67]:0.00626)[&label=50]:0.004991)[&label=76]:0.018911,Asphodelus_fistulosus:0.144648)[&label=48]:0.012987,(Allium_praecox:0.236635,Sisyrinchium_bellum:0.198128)[&label=62]:0.032158)[&label=100]:0.040751,((((Typha_latifolia:0.008788,Typha_domingensis:0.002717)[&label=100]:0.016337,Typha_angustifolia:0.01783)[&label=100]:0.074588,(((Juncus_xiphioides:0.136425,(Luzula_subsessilis:0.161249,(('Juncus_balticus_ssp._ater':0.013169,Juncus_bufonius:0.041161)[&label=96]:0.026414,Juncus_mexicanus:0.075957)[&label=98]:0.046091)[&label=38]:1.0E-6)[&label=100]:0.140872,(((((Carex_pansa:0.01083,Carex_praegracilis:0.00189)[&label=100]:0.00847,(Carex_harfordii:0.002951,(Carex_subbracteata:0.001959,Carex_gracilior:0.001963)[&label=66]:1.0E-6)[&label=100]:0.009644)[&label=92]:0.007111,Carex_tumulicola:0.054906)[&label=84]:0.012434,(Carex_globosa:0.018972,(Carex_barbarae:0.007378,Carex_senta:0.017878)[&label=60]:0.007696)[&label=93]:0.019355)[&label=100]:0.039795,('Bolboschoenus_maritimus_ssp._paludosus':0.039964,(((Schoenoplectus_americanus:0.009317,('Schoenoplectus_pungens_var._longispicatus':0.00969,Schoenoplectus_californicus:0.013333)[&label=74]:0.001468)[&label=100]:0.049151,(Isolepis_cernua:0.075771,((Cyperus_odoratus:0.003068,Cyperus_esculentus:0.010549)[&label=100]:0.035051,(Cyperus_eragrostis:0.026452,Cyperus_involucratus:0.034978)[&label=62]:0.008798)[&label=100]:0.025286)[&label=93]:0.022654)[&label=40]:0.006128,Eleocharis_macrostachya:0.110303)[&label=35]:0.007151)[&label=62]:0.040461)[&label=100]:0.170968)[&label=100]:0.087842,((Melica_imperfecta:0.062003,((Brachypodium_distachyon:0.209319,(((Bromus_diandrus:0.007411,Bromus_madritensis:0.00507)[&label=98]:0.027591,(((Hordeum_vulgare:0.015344,(((((Bromus_berteroanus:0.003987,Bromus_catharticus:0.006364)[&label=96]:0.012858,(Bromus_laevipes:0.004038,Bromus_hordeaceus:0.024811)[&label=78]:0.002572)[&label=96]:0.123715,((Hordeum_depressum:0.010687,'Hordeum_murinum_ssp._leporinum':0.012803)[&label=66]:9.67E-4,(Schismus_arabicus:0.157146,Avena_barbata:0.070214)[&label=90]:0.039172)[&label=90]:0.056322)[&label=75]:0.085333,'Hordeum_murinum_ssp._glaucum':0.022308)[&label=63]:0.006998,('Hordeum_marinum_ssp._gussoneanum':0.005282,('Hordeum_brachyantherum_ssp._californicum':0.002939,Hordeum_intercedens:0.003747)[&label=92]:0.0059)[&label=86]:0.00218)[&label=74]:0.018526)[&label=75]:0.010297,Elymus_triticoides:0.007553)[&label=74]:0.002963,((Elymus_condensatus:0.00201,(Triticum_aestivum:0.003741,Aegilops_cylindrica:0.00958)[&label=100]:0.005065)[&label=95]:9.97E-4,Elymus_repens:0.004856)[&label=99]:0.004642)[&label=74]:0.007092)[&label=89]:0.03306,(((((Phalaris_caroliniana:0.004098,Phalaris_lemmonii:0.006081)[&label=100]:0.012599,((Phalaris_aquatica:0.008962,(Phalaris_paradoxa:0.005685,Phalaris_minor:0.011018)[&label=91]:0.005642)[&label=95]:0.003244,Phalaris_canariensis:0.027882)[&label=58]:0.001929)[&label=100]:0.012057,((Briza_minor:0.030631,(((Agrostis_exarata:0.005461,(Calamagrostis_rubescens:1.0E-6,(Agrostis_pallens:0.007429,Agrostis_stolonifera:0.033118)[&label=100]:0.023574)[&label=58]:0.015827)[&label=54]:0.020803,(Polypogon_monspeliensis:0.001847,Polypogon_viridis:0.003865)[&label=100]:0.006727)[&label=97]:0.008324,Ammophila_arenaria:0.014037)[&label=93]:0.00471)[&label=53]:0.002157,(Koeleria_macrantha:0.021573,(Avena_fatua:6.9E-4,Avena_sativa:0.001682)[&label=100]:0.022031)[&label=100]:0.010671)[&label=36]:9.75E-4)[&label=82]:0.008399,Deschampsia_danthonioides:0.016361)[&label=87]:0.006014,(((((Festuca_octoflora:0.008246,Festuca_microstachys:0.007866)[&label=100]:0.005363,(Festuca_myuros:0.010661,Festuca_bromoides:0.013061)[&label=97]:0.003196)[&label=100]:0.016307,(Festuca_perennis:0.030505,(Festuca_arundinacea:0.002041,Festuca_temulenta:0.009983)[&label=100]:0.009562)[&label=94]:0.016051)[&label=92]:0.005104,((Dactylis_glomerata:0.008303,Lamarckia_aurea:0.009873)[&label=100]:0.022426,(Desmazeria_rigida:0.009167,(Parapholis_incurva:0.001753,Hainardia_cylindrica:0.001552)[&label=100]:0.006766)[&label=100]:0.021866)[&label=83]:0.002366)[&label=93]:0.005508,(Poa_annua:0.034653,((Poa_howellii:0.001026,Dissanthelium_californicum:0.005076)[&label=100]:0.005427,('Poa_secunda_ssp._secunda':0.005984,Poa_palustris:6.68E-4)[&label=100]:0.013812)[&label=93]:0.004323)[&label=100]:0.013278)[&label=86]:0.012227)[&label=93]:0.014353)[&label=89]:0.00926)[&label=89]:0.010022,(Stipa_lepida:0.009767,('Stipa_miliacea_var._miliacea':0.016078,(Stipa_diegoensis:0.008149,Stipa_pulchra:0.003409)[&label=90]:0.004103)[&label=98]:0.011994)[&label=87]:0.014639)[&label=68]:0.005401)[&label=89]:0.024918,((Ehrharta_calycina:0.008549,Ehrharta_erecta:0.00613)[&label=100]:0.086296,((((Aristida_adscensionis:0.022139,'Aristida_ternipes_var._gentilis':0.018986)[&label=100]:0.039095,Arundo_donax:0.029785)[&label=61]:0.005216,((((Crypsis_vaginiflora:1.0E-6,Crypsis_alopecuroides:0.001884)[&label=100]:0.128123,((Chloris_virgata:0.03217,Cynodon_dactylon:0.021224)[&label=100]:0.020792,((Distichlis_littoralis:0.01467,Distichlis_spicata:0.011987)[&label=100]:0.011186,(Muhlenbergia_microsperma:0.00304,Muhlenbergia_appressa:0.005961)[&label=100]:0.032724)[&label=96]:0.004546)[&label=76]:0.006943)[&label=100]:0.031683,(Cortaderia_selloana:0.007258,(Danthonia_californica:0.016594,Schismus_barbatus:0.04398)[&label=74]:0.00362)[&label=91]:0.053859)[&label=64]:0.006396,((Paspalum_distichum:0.007886,Paspalum_dilatatum:0.010559)[&label=100]:0.045213,(Digitaria_sanguinalis:0.03347,(Echinochloa_crus-galli:0.032334,(Stenotaphrum_secundatum:0.018492,(Pennisetum_setaceum:0.009138,Pennisetum_clandestinum:0.008113)[&label=100]:0.006113)[&label=100]:0.015496)[&label=81]:0.003351)[&label=79]:0.005434)[&label=81]:0.018334)[&label=17]:0.001448)[&label=9]:3.43E-4,Bothriochloa_barbinodis:0.057366)[&label=91]:0.033366)[&label=43]:0.004148)[&label=98]:0.295077)[&label=98]:0.042858)[&label=98]:0.027608,Washingtonia_filifera:0.066752)[&label=97]:0.014644)[&label=75]:0.009027)[&label=90]:0.046591)[&label=89]:0.039981,(((((((((Sesuvium_verrucosum:0.111804,(Tetragonia_tetragonioides:0.052046,(Carpobrotus_edulis:0.060185,(Mesembryanthemum_nodiflorum:0.003063,Mesembryanthemum_crystallinum:0.016062)[&label=100]:0.024338)[&label=100]:0.027824)[&label=99]:0.018781)[&label=100]:0.016902,(((Montia_fontana:0.045429,('Claytonia_perfoliata_ssp._mexicana':0.00108,'Claytonia_parviflora_ssp._parviflora':0.001426)[&label=100]:0.04349)[&label=84]:0.011313,((Calandrinia_breweri:1.0E-6,Calandrinia_menziesii:1.0E-6)[&label=100]:0.024998,Cistanthe_maritima:0.007126)[&label=87]:0.011379)[&label=99]:0.025491,((((Cylindropuntia_prolifera:0.018585,(Opuntia_littoralis:0.004511,(Opuntia_oricola:0.006267,Opuntia_ficus-indica:0.003368)[&label=100]:0.00656)[&label=99]:0.006394)[&label=100]:0.022938,((((Salsola_tragus:0.015787,Salsola_australis:0.005217)[&label=100]:0.07914,Bassia_hyssopifolia:0.072037)[&label=48]:0.023084,(Arthrocnemum_subterminale:0.033852,(Salicornia_depressa:1.0E-6,Salicornia_pacifica:1.0E-6)[&label=100]:0.038042)[&label=98]:0.040077)[&label=56]:0.048132,(Amaranthus_powellii:0.024021,Amaranthus_albus:0.008329)[&label=100]:0.108896)[&label=55]:0.104033)[&label=56]:0.167266,Bergerocactus_emoryi:0.066732)[&label=48]:0.006823,Portulaca_oleracea:0.103459)[&label=27]:0.00298)[&label=55]:0.039697)[&label=55]:0.009389,(((Loeflingia_squarrosa:0.08623,Polycarpon_tetraphyllum:0.148871)[&label=69]:0.016731,((((Cerastium_glomeratum:0.045036,(Stellaria_nitens:0.04062,Stellaria_media:0.022028)[&label=91]:0.014482)[&label=100]:0.070171,(Silene_gallica:0.679268,(('Silene_laciniata_ssp._laciniata':0.028373,Silene_coniflora:0.033667)[&label=94]:0.010257,Silene_antirrhina:0.024717)[&label=99]:0.019927)[&label=85]:0.030168)[&label=33]:0.005292,((Spergularia_marina:0.139426,Spergula_arvensis:0.06161)[&label=99]:0.022202,(Minuartia_douglasii:0.105601,Sagina_apetala:0.064076)[&label=100]:0.051444)[&label=26]:0.003188)[&label=95]:0.029572,(Cardionema_ramosissimum:0.064599,'Herniaria_hirsuta_var._cinerea':0.094676)[&label=68]:0.016923)[&label=68]:0.01792)[&label=100]:0.043923,((Amaranthus_blitoides:0.00155,Amaranthus_deflexus:0.004577)[&label=100]:0.121433,(((Suaeda_calceoliformis:0.082853,Suaeda_taxifolia:0.052349)[&label=65]:0.050523,('Beta_vulgaris_ssp._maritima':0.047345,Aphanisma_blitoides:0.039374)[&label=100]:0.022483)[&label=39]:0.007779,((Abronia_umbellata:0.232746,(Dysphania_ambrosioides:0.006639,Dysphania_multifida:0.00223)[&label=99]:0.019983)[&label=93]:0.066028,((((Chenopodium_berlandieri:0.032999,((Atriplex_rosea:0.003131,Atriplex_semibaccata:0.00669)[&label=100]:0.009105,((Atriplex_patula:0.007616,Atriplex_prostrata:0.00637)[&label=74]:0.005905,(((Atriplex_watsonii:0.002131,Atriplex_leucophylla:1.0E-6)[&label=100]:0.007071,'Atriplex_serenana_var._serenana':0.009628)[&label=99]:0.006672,Atriplex_lentiformis:0.006356)[&label=61]:0.001419)[&label=29]:0.002612)[&label=100]:0.02391)[&label=44]:0.002404,Extriplex_californica:0.02566)[&label=100]:0.018884,Chenopodium_murale:0.044477)[&label=100]:0.027337,(Chenopodium_californicum:0.01145,Monolepis_nuttalliana:0.016586)[&label=100]:0.037185)[&label=63]:0.005446)[&label=93]:0.026166)[&label=41]:0.012571)[&label=52]:0.034294)[&label=52]:0.011959)[&label=90]:0.071916,((Limonium_sinuatum:0.178141,(((('Polygonum_aviculare_ssp._depressum':0.010354,Polygonum_argyrocoleon:0.009667)[&label=100]:0.074114,(Rumex_acetosella:0.043672,(((Ranunculus_californicus:0.190055,(Clematis_ligusticifolia:0.00394,Clematis_lasiantha:1.0E-6)[&label=100]:0.128261)[&label=94]:0.457625,(Rumex_crispus:0.023672,Rumex_obtusifolius:1.0E-6)[&label=100]:0.037835)[&label=94]:0.206276,(Rumex_salicifolius:0.008672,(Rumex_conglomeratus:0.004906,(Rumex_fueginus:1.0E-6,Rumex_pulcher:1.0E-6)[&label=77]:0.005749)[&label=37]:0.001854)[&label=37]:0.001132)[&label=77]:0.006708)[&label=93]:0.024147)[&label=93]:0.013092,(Persicaria_lapathifolia:0.017233,Persicaria_amphibia:0.005712)[&label=100]:0.072074)[&label=94]:0.030461,(Pterostegia_drymarioides:0.031947,(Lastarriaea_coriacea:0.020095,('Eriogonum_grande_var._grande':0.020935,(Chorizanthe_staticoides:0.009101,('Eriogonum_fasciculatum_var._polifolium':0.003928,(Eriogonum_cinereum:0.002507,Eriogonum_arborescens:0.001869)[&label=100]:0.003625)[&label=96]:0.003155)[&label=82]:0.005242)[&label=100]:0.012074)[&label=100]:0.038454)[&label=100]:0.067551)[&label=93]:0.06773)[&label=88]:0.058728,('Armeria_maritima_ssp._californica':0.224984,(Frankenia_salina:0.020017,((Tamarix_chinensis:0.002923,(Tamarix_ramosissima:1.0E-6,Tamarix_aphylla:0.008541)[&label=78]:0.001562)[&label=77]:0.00336,Tamarix_parviflora:1.0E-6)[&label=100]:0.101745)[&label=92]:0.039016)[&label=36]:0.033776)[&label=32]:0.012287)[&label=48]:0.060473,((((((Acourtia_microcephala:0.069624,(((Arctium_minus:0.013815,(Centaurea_benedicta:0.026098,(Centaurea_melitensis:7.99E-4,Centaurea_solstitialis:0.001831)[&label=100]:0.011737)[&label=100]:0.014837)[&label=85]:0.004033,(Cynara_cardunculus:0.01195,((('Cirsium_occidentale_var._venustum':0.006221,Cirsium_brevistylum:0.004605)[&label=13]:0.001357,(Cirsium_undulatum:0.00448,Cirsium_ochrocentrum:0.003227)[&label=16]:6.19E-4)[&label=20]:0.002697,((Silybum_marianum:0.041762,Carduus_pycnocephalus:0.0177)[&label=31]:0.010719,Cirsium_vulgare:0.003624)[&label=42]:0.018633)[&label=56]:0.00652)[&label=54]:0.005685)[&label=100]:0.019965,(((Delairea_odorata:0.019459,((Senecio_vulgaris:0.005967,(Senecio_aphanactis:0.004606,'Senecio_flaccidus_var._douglasii':0.009689)[&label=99]:0.00899)[&label=46]:0.002302,Senecio_glomeratus:0.011944)[&label=100]:0.015043)[&label=100]:0.041065,(((Pluchea_sericea:0.015246,Pluchea_odorata:0.004684)[&label=100]:0.075398,(((Thelesperma_megapotamicum:0.032025,Leptosyne_gigantea:0.024654)[&label=100]:0.017899,((Bahiopsis_laciniata:0.01991,Helianthus_annuus:0.015169)[&label=95]:0.008278,(((Xanthium_spinosum:0.014545,Xanthium_strumarium:0.010683)[&label=95]:0.012047,Ambrosia_psilostachya:0.017437)[&label=62]:0.004154,Encelia_californica:0.016954)[&label=52]:0.0022)[&label=99]:0.005155)[&label=61]:0.004096,((Perityle_emoryi:0.031826,(Venegasia_carpesioides:0.013475,((Constancea_nevinii:0.010528,(((Lasthenia_gracilis:0.033721,'Lasthenia_glabrata_ssp._coulteri':0.033408)[&label=100]:0.02342,Amblyopappus_pusillus:0.016372)[&label=90]:0.007464,Eriophyllum_staechadifolium:0.026328)[&label=58]:0.002908)[&label=71]:0.00309,(Brickellia_californica:0.058089,((Madia_elegans:0.021176,Madia_sativa:0.006105)[&label=100]:0.017952,((Deinandra_fasciculata:0.013339,('Deinandra_increscens_ssp._increscens':0.004591,Deinandra_clementina:0.008271)[&label=100]:0.014788)[&label=67]:0.003796,Achyrachaena_mollis:0.054334)[&label=67]:0.005618)[&label=100]:0.018574)[&label=17]:0.00428)[&label=25]:0.002353)[&label=13]:0.0011)[&label=82]:0.003622,Jaumea_carnosa:0.039612)[&label=68]:0.001916)[&label=100]:0.022012)[&label=90]:0.006346,((((Cotula_coronopifolia:0.029129,Cotula_australis:0.024026)[&label=100]:0.037126,((Matricaria_discoidea:0.015313,(Anthemis_cotula:0.015961,Achillea_millefolium:0.009652)[&label=50]:0.001216)[&label=92]:0.002677,((Artemisia_dracunculus:0.011991,(Artemisia_douglasiana:0.013196,(Artemisia_nesiotica:1.0E-6,Artemisia_californica:1.0E-6)[&label=100]:0.009696)[&label=94]:0.005055)[&label=100]:0.010952,(Glebionis_coronaria:0.007779,Argyranthemum_frutescens:0.003971)[&label=100]:0.016086)[&label=67]:0.002823)[&label=100]:0.032877)[&label=100]:0.011783,(((Gnaphalium_palustre:0.030022,(Gamochaeta_ustulata:0.012433,(Logfia_gallica:0.004567,(Logfia_filaginoides:0.002356,Logfia_arizonica:0.002967)[&label=100]:0.004135)[&label=98]:0.00598)[&label=57]:0.001464)[&label=71]:0.002376,(Pseudognaphalium_luteoalbum:0.004516,(Pseudognaphalium_microcephalum:0.013256,((Pseudognaphalium_beneolens:1.0E-6,(Pseudognaphalium_biolettii:0.001576,Pseudognaphalium_ramosissimum:5.5E-4)[&label=35]:1.0E-6)[&label=45]:1.0E-6,Pseudognaphalium_californicum:1.0E-6)[&label=63]:6.13E-4)[&label=96]:0.003262)[&label=100]:0.018132)[&label=100]:0.039933,(Baccharis_salicifolia:0.019645,(((Ericameria_ericoides:0.007319,Pentachaeta_lyonii:0.039094)[&label=98]:0.012338,(Symphyotrichum_subulatum:0.01532,(Eurybia_radulina:0.005028,('Isocoma_menziesii_var._vernonioides':0.013574,((Corethrogyne_filaginifolia:0.005284,('Hazardia_squarrosa_var._grindelioides':0.001757,(Hazardia_detonsa:8.77E-4,Hazardia_cana:1.0E-6)[&label=98]:0.001756)[&label=75]:0.001757)[&label=65]:9.01E-4,(Grindelia_camporum:8.74E-4,('Grindelia_stricta_var._platyphylla':1.0E-6,Grindelia_hirsutula:1.0E-6)[&label=64]:1.0E-6)[&label=100]:0.007998)[&label=45]:1.0E-6)[&label=95]:0.005249)[&label=95]:0.003878)[&label=98]:0.007019)[&label=23]:0.002595,((Erigeron_glaucus:0.009677,(Erigeron_canadensis:0.007361,Erigeron_bonariensis:0.012495)[&label=49]:0.001733)[&label=100]:0.025255,Euthamia_occidentalis:0.021454)[&label=26]:1.0E-6)[&label=54]:0.008196)[&label=100]:0.048645)[&label=47]:0.005644)[&label=60]:0.003803,Calendula_officinalis:0.061453)[&label=82]:0.004095)[&label=44]:0.00119)[&label=99]:0.008915,((Hieracium_argutum:0.041215,(((((((((Malacothrix_indecora:0.0017,'Malacothrix_foliosa_ssp._foliosa':8.5E-4)[&label=20]:1.0E-6,('Malacothrix_foliosa_ssp._polycephala':0.0017,Malacothrix_incana:0.003408)[&label=19]:1.0E-6)[&label=63]:8.62E-4,(Malacothrix_junakii:1.0E-6,('Malacothrix_foliosa_ssp._philbrickii':1.0E-6,'Malacothrix_foliosa_ssp._crispifolia':8.49E-4)[&label=89]:0.001698)[&label=92]:0.001691)[&label=91]:0.004118,(Malacothrix_clevelandii:0.002549,Malacothrix_similis:1.0E-6)[&label=100]:0.009928)[&label=100]:0.023968,(Malacothrix_coulteri:1.0E-6,Malacothrix_squalida:1.0E-6)[&label=100]:0.034066)[&label=99]:0.014758,(((Stephanomeria_cichoriacea:0.01651,('Stephanomeria_exigua_ssp._coronaria':0.001739,Stephanomeria_diegensis:0.004243)[&label=58]:0.005823)[&label=31]:0.002954,Rafinesquia_californica:0.013656)[&label=28]:0.002766,Munzothamnus_blairii:0.003778)[&label=38]:0.008523)[&label=28]:0.004289,(('Malacothrix_saxatilis_var._implicata':0.00174,'Malacothrix_saxatilis_var._tenuifolia':1.0E-6)[&label=100]:0.018004,(((Microseris_elegans:0.011049,Stebbinsoseris_heterocarpa:0.007636)[&label=100]:0.013075,Uropappus_lindleyi:0.011396)[&label=98]:0.009716,(Agoseris_heterophylla:0.046669,Agoseris_grandiflora:0.00462)[&label=100]:0.025138)[&label=100]:0.012875)[&label=52]:0.001737)[&label=38]:0.010938,Cichorium_intybus:0.022243)[&label=38]:0.008649,((((Sonchus_oleraceus:0.001379,Sonchus_asper:2.76E-4)[&label=100]:0.006497,Sonchus_tenerrimus:0.007555)[&label=100]:0.032256,((Taraxacum_erythrospermum:0.025426,Taraxacum_officinale:0.027408)[&label=100]:0.024128,Crepis_setosa:0.040384)[&label=63]:0.007161)[&label=47]:0.004495,((Hypochaeris_radicata:0.03149,(Hypochaeris_glabra:0.022532,(Hedypnois_cretica:0.017154,Helminthotheca_echioides:0.014919)[&label=98]:0.004753)[&label=82]:0.007111)[&label=100]:0.013779,(Lactuca_saligna:0.012134,Lactuca_serriola:0.00499)[&label=99]:0.02275)[&label=25]:0.003156)[&label=69]:0.010092)[&label=11]:1.0E-6)[&label=37]:0.008285,Tragopogon_porrifolius:0.044241)[&label=38]:0.013552)[&label=35]:0.005514)[&label=32]:0.007994)[&label=38]:0.095304,((Bowlesia_incana:0.120576,((Conium_maculatum:0.020281,(Foeniculum_vulgare:0.015404,Apium_graveolens:0.012737)[&label=100]:0.011026)[&label=100]:0.012469,(Berula_erecta:0.04128,((Daucus_carota:0.13412,Daucus_pusillus:0.008149)[&label=100]:0.151074,(Yabea_microcarpa:0.027966,(Torilis_arvensis:0.010584,Torilis_nodosa:0.009568)[&label=96]:0.011603)[&label=88]:1.0E-6)[&label=100]:0.101141)[&label=100]:0.030047)[&label=100]:0.049837)[&label=72]:0.013074,Pittosporum_undulatum:0.092328)[&label=73]:0.025836)[&label=28]:0.008646,((Centranthus_ruber:0.16754,Symphoricarpos_mollis:0.061809)[&label=100]:0.057709,'Sambucus_nigra_ssp._caerulea':0.071206)[&label=97]:0.021467)[&label=30]:0.021462,(((Asclepias_fascicularis:0.247226,((((Lobelia_dunnii:0.389408,'Collinsia_heterophylla_var._heterophylla':0.104955)[&label=99]:0.233564,Keckiella_cordifolia:0.012545)[&label=83]:0.06167,((((Gambelia_speciosa:0.026394,(Antirrhinum_multiflorum:0.038324,Antirrhinum_kelloggii:0.010862)[&label=87]:0.009404)[&label=99]:0.021709,(Nuttallanthus_texanus:0.042149,Linaria_bipartita:0.037017)[&label=100]:0.067525)[&label=100]:0.017405,Kickxia_elatine:0.058863)[&label=99]:0.015049,(Callitriche_marginata:0.067101,(Veronica_anagallis-aquatica:0.06464,((Plantago_lanceolata:0.05617,Plantago_erecta:0.032449)[&label=100]:0.025268,((Plantago_major:0.016428,Plantago_elongata:0.038961)[&label=92]:5.85E-4,((Plantago_subnuda:1.0E-6,Plantago_coronopus:0.020983)[&label=100]:0.185602,Plantago_maritima:0.07529)[&label=100]:0.128036)[&label=100]:0.151069)[&label=100]:0.076214)[&label=84]:0.02658)[&label=96]:0.018067)[&label=77]:0.009052)[&label=81]:0.010938,(((Myoporum_laetum:0.059497,(Verbena_bracteata:0.042354,Phyla_nodiflora:0.059729)[&label=100]:0.021433)[&label=96]:0.013939,((((Clinopodium_douglasii:0.010114,(Mentha_spicata:0.012396,Mentha_aquatica:0.009627)[&label=87]:0.004123)[&label=100]:0.024609,(Nepeta_cataria:0.037229,(Lepechinia_fragrans:0.006207,(Salvia_brandegeei:0.010214,Salvia_columbariae:0.014669)[&label=82]:0.02958)[&label=45]:0.001522)[&label=48]:0.002689)[&label=82]:0.060396,(Trichostema_lanceolatum:0.07485,(Marrubium_vulgare:0.056606,(('Stachys_rigida_var._rigida':1.0E-6,Stachys_bullata:1.0E-6)[&label=100]:0.040085,Lamium_amplexicaule:0.022643)[&label=100]:0.021222)[&label=99]:0.036993)[&label=98]:0.012282)[&label=81]:0.020147,(((Kopsiopsis_strobilacea:0.07234,(Orobanche_uniflora:0.029227,Orobanche_fasciculata:0.034179)[&label=100]:0.10301)[&label=100]:0.032083,(Castilleja_exserta:0.014575,('Castilleja_affinis_ssp._affinis':0.012997,(Castilleja_densiflora:5.46E-4,Castilleja_attenuata:0.001905)[&label=100]:0.015623)[&label=84]:0.00414)[&label=100]:0.063495)[&label=100]:0.020336,((Diplacus_brevipes:0.042094,(Diplacus_aurantiacus:1.05E-4,(Diplacus_longiflorus:1.0E-6,(Diplacus_parviflorus:0.002626,Diplacus_puniceus:0.002611)[&label=52]:1.0E-6)[&label=95]:0.001854)[&label=100]:0.010176)[&label=100]:0.037554,((Erythranthe_guttatus:0.019616,Erythranthe_floribundus:0.016372)[&label=99]:0.010251,Erythranthe_cardinalis:0.042231)[&label=100]:0.034852)[&label=100]:0.013522)[&label=89]:0.003349)[&label=55]:0.002976)[&label=78]:0.006875,((Scrophularia_villosa:0.005691,Scrophularia_californica:0.002368)[&label=100]:0.020762,Verbascum_thapsus:0.020993)[&label=100]:0.036541)[&label=55]:0.004678)[&label=69]:0.05259)[&label=14]:0.008085,((((Sanicula_hoffmannii:0.008228,(Sanicula_crassicaulis:0.022475,Sanicula_arguta:0.008896)[&label=99]:0.020881)[&label=100]:0.192956,((Cuscuta_campestris:0.059638,('Cuscuta_pacifica_var._pacifica':0.037376,(Cuscuta_californica:0.005394,Cuscuta_occidentalis:4.19E-4)[&label=100]:0.041666)[&label=99]:0.042969)[&label=100]:0.357202,((Ipomoea_cairica:0.030182,((('Calystegia_malacophylla_ssp._pedicellata':0.005066,(Calystegia_soldanella:0.004537,'Calystegia_macrostegia_ssp._cyclostegia':1.0E-6)[&label=10]:1.0E-6)[&label=97]:0.013378,Convolvulus_arvensis:0.02167)[&label=90]:0.010099,Convolvulus_simulans:0.024654)[&label=98]:0.022223)[&label=81]:0.01039,(Dichondra_occidentalis:0.047281,Cressa_truxillensis:0.066099)[&label=22]:0.004111)[&label=38]:0.021939)[&label=98]:0.087802)[&label=36]:0.024886,((Nicotiana_glauca:0.011807,(Nicotiana_quadrivalvis:0.00616,Nicotiana_clevelandii:0.003635)[&label=100]:0.01123)[&label=100]:0.013059,(Solanum_americanum:0.035042,(((Datura_wrightii:0.029365,((Solanum_wallacei:0.01482,(Solanum_elaeagnifolium:0.039785,Lycopersicum_esculentum:0.033771)[&label=94]:0.008864)[&label=87]:0.015024,(((Eucalyptus_globulus:0.002985,(Eucalyptus_tereticornis:0.001049,(Eucalyptus_polyanthemos:0.004816,Eucalyptus_cladocalyx:0.004835)[&label=78]:0.006623)[&label=41]:9.3E-4)[&label=44]:6.36E-4,(Eucalyptus_sideroxylon:0.073057,Eucalyptus_camaldulensis:1.0E-6)[&label=67]:0.003118)[&label=94]:0.259802,(Olea_europaea:0.108861,('Astragalus_didymocarpus_var._didymocarpus':0.164959,(Salvia_leucophylla:0.003544,(Salvia_mellifera:7.45E-4,Salvia_apiana:0.003111)[&label=68]:0.001184)[&label=100]:0.099157)[&label=78]:0.026677)[&label=84]:0.037335)[&label=60]:0.070956)[&label=30]:0.045492)[&label=10]:0.022146,(Lycium_brevipes:5.2E-4,(Lycium_fremontii:0.00487,Lycium_californicum:0.00384)[&label=86]:0.002944)[&label=100]:0.01423)[&label=14]:0.015404,Calibrachoa_parviflora:0.04435)[&label=21]:0.03794)[&label=2]:1.0E-6)[&label=31]:0.061103)[&label=13]:0.023778,((((Cryptantha_traskiae:0.014721,Cryptantha_leiocarpa:0.021098)[&label=97]:0.006489,(((Pectocarya_penicillata:0.027937,Harpagonella_palmeri:0.019254)[&label=99]:0.015977,Amsinckia_menziesii:0.018131)[&label=34]:0.001118,(Cryptantha_maritima:0.024375,Johnstonella_micromeres:0.029294)[&label=17]:0.002945)[&label=43]:0.008745)[&label=100]:0.161921,(Nama_stenocarpum:0.057067,(Nemophila_menziesii:0.058321,('Emmenanthe_penduliflora_var._penduliflora':0.023499,((Phacelia_ramosissima:0.009248,((Phacelia_hubbyi:1.0E-6,Phacelia_distans:0.003215)[&label=71]:0.003216,'Phacelia_cicutaria_var._hispida':0.002309)[&label=54]:0.001763)[&label=100]:0.014929,((Phacelia_grandiflora:0.004201,Phacelia_viscida:0.006679)[&label=100]:0.008722,'Phacelia_insularis_var._insularis':0.035073)[&label=83]:0.00311)[&label=100]:0.0124)[&label=62]:0.001484)[&label=97]:0.0128)[&label=100]:0.022479)[&label=67]:0.046695,(Vinca_major:0.088041,((Galium_parisiense:0.022107,Galium_aparine:0.01652)[&label=100]:0.016234,('Galium_californicum_ssp._flaccidum':0.007774,('Galium_angustifolium_ssp._angustifolium':0.002764,'Galium_catalinense_ssp._acrispum':1.0E-6)[&label=78]:1.0E-6)[&label=100]:0.018354)[&label=100]:0.179237)[&label=94]:0.033966)[&label=30]:0.00411)[&label=14]:0.005818)[&label=39]:0.026628,((Vaccinium_ovatum:0.061124,(Arbutus_menziesii:0.0254,(Xylococcus_bicolor:0.01192,('Arctostaphylos_crustacea_ssp._subcordata':1.0E-6,(Arctostaphylos_viridissima:0.011906,((Arctostaphylos_insularis:1.0E-6,(Arctostaphylos_catalinae:1.0E-6,'Arctostaphylos_crustacea_ssp._insulicola':1.0E-6)[&label=21]:1.0E-6)[&label=12]:1.0E-6,Arctostaphylos_confertiflora:1.0E-6)[&label=70]:1.0E-6)[&label=66]:9.42E-4)[&label=100]:0.025784)[&label=96]:0.017631)[&label=97]:0.052608)[&label=100]:0.105479,Garrya_veatchii:0.11848)[&label=85]:0.026066)[&label=23]:0.007677)[&label=16]:0.013505,(Cornus_glabrata:0.121825,((Samolus_parviflorus:0.127508,('Primula_clevelandii_ssp._insularis':0.125386,(Lysimachia_minima:0.080002,Lysimachia_arvensis:0.06892)[&label=100]:0.058063)[&label=93]:0.031735)[&label=99]:0.050652,(((('Navarretia_hamata_ssp._leptantha':0.004809,Navarretia_atractyloides:0.006429)[&label=99]:0.012618,Allophyllum_glutinosum:0.018981)[&label=100]:0.010045,(('Gilia_capitata_ssp._abrotanifolia':0.00382,Gilia_clivorum:0.00356)[&label=46]:1.0E-6,(Gilia_angelensis:6.57E-4,(Gilia_nevinii:8.87E-4,'Gilia_achilleifolia_ssp._multicaulis':0.003555)[&label=54]:1.0E-6)[&label=56]:6.56E-4)[&label=100]:0.023451)[&label=98]:0.015412,(Eriastrum_filifolium:0.04449,((Leptosiphon_bicolor:0.020965,Leptosiphon_parviflorus:0.01689)[&label=100]:0.044996,Linanthus_dianthiflorus:0.023387)[&label=100]:0.016864)[&label=67]:0.007787)[&label=100]:0.132979)[&label=93]:0.03326)[&label=75]:0.008012)[&label=14]:0.012495,Mentzelia_micrantha:0.113142)[&label=17]:0.018554)[&label=10]:0.007208,(((Dudleya_greenei:0.002473,((Dudleya_nesiotica:1.0E-6,((Dudleya_traskiae:0.002071,(((('Dudleya_virens_ssp._virens':0.002085,'Dudleya_virens_ssp._insularis':0.00209)[&label=65]:0.004254,'Dudleya_blochmaniae_ssp._blochmaniae':1.0E-6)[&label=47]:7.02E-4,'Dudleya_blochmaniae_ssp._insularis':1.0E-6)[&label=50]:0.003542,'Dudleya_virens_ssp._hassei':0.004215)[&label=48]:0.002091)[&label=33]:6.89E-4,Dudleya_candelabrum:1.0E-6)[&label=33]:1.0E-6)[&label=32]:1.0E-6,Dudleya_gnoma:0.001034)[&label=75]:0.006914)[&label=100]:0.310878,((Micranthes_californica:0.127847,(Heuchera_maxima:0.010731,(Lithophragma_maximum:0.011011,(Lithophragma_affine:0.012797,Lithophragma_cymbalaria:0.009561)[&label=64]:0.004363)[&label=46]:0.005776)[&label=100]:0.086581)[&label=79]:0.063503,('Ribes_malvaceum_var._malvaceum':0.009567,(Ribes_thacherianum:0.00733,Ribes_viburnifolium:0.028031)[&label=80]:0.006639)[&label=100]:0.153889)[&label=19]:0.007806)[&label=43]:0.031771,(((Crossosoma_californicum:0.081816,(Pelargonium_peltatum:0.107838,((Geranium_carolinianum:0.018466,(Geranium_molle:0.015962,Geranium_dissectum:0.005275)[&label=100]:0.023458)[&label=100]:0.064082,(California_macrophylla:0.039162,(Erodium_texanum:0.051891,((Erodium_cicutarium:0.01555,Erodium_moschatum:0.016017)[&label=100]:0.017615,(Erodium_brachycarpum:1.0E-6,Erodium_botrys:1.0E-6)[&label=100]:0.028108)[&label=100]:0.02022)[&label=100]:0.020848)[&label=81]:0.009314)[&label=100]:0.080369)[&label=100]:0.16534)[&label=42]:0.007378,(((Tribulus_terrestris:0.168886,(Ruta_chalepensis:0.17273,(Acer_macrophyllum:0.101256,((Toxicodendron_diversilobum:0.012463,(Malosma_laurina:0.095449,(Rhus_integrifolia:0.001259,Rhus_ovata:5.4E-4)[&label=100]:0.010815)[&label=44]:0.016283)[&label=75]:0.055879,Schinus_molle:0.009872)[&label=75]:0.050039)[&label=41]:0.010128)[&label=75]:0.049613)[&label=37]:0.01757,(((((Malva_assurgentiflora:0.002701,Malva_nicaeensis:0.0037)[&label=67]:7.31E-4,(Malva_parviflora:1.0E-6,Malva_pseudolavatera:1.0E-6)[&label=97]:0.004541)[&label=96]:0.025562,(Alcea_rosea:0.011399,('Sidalcea_malviflora_ssp._malviflora':0.030426,Eremalche_exilis:0.015743)[&label=100]:0.011101)[&label=40]:0.00289)[&label=52]:0.013788,Malvella_leprosa:0.048023)[&label=100]:0.126648,(Tropaeolum_majus:0.125865,(Batis_maritima:0.146533,((Reseda_odorata:0.032513,Oligomeris_linifolia:0.022555)[&label=100]:0.124222,(Peritoma_arborea:0.12825,((((Camissoniopsis_micrantha:0.037941,Nasturtium_officinale:0.023587)[&label=83]:0.012825,(Cardamine_californica:0.00871,Cardamine_oligosperma:0.029052)[&label=100]:0.018322)[&label=82]:0.009811,((Lepidium_draba:0.016788,((Lepidium_didymum:0.018731,(Lepidium_latipes:3.03E-4,Lepidium_nitidum:0.00323)[&label=84]:0.002791)[&label=83]:0.003068,(Lepidium_lasiocarpum:0.003113,Lepidium_oblongum:0.010374)[&label=82]:0.004352)[&label=100]:0.018185)[&label=100]:0.024879,((Descurainia_pinnata:0.02485,(Tropidocarpum_gracile:0.022178,Hornungia_procumbens:0.046683)[&label=98]:0.00455)[&label=100]:0.0156,(Dithyrea_maritima:0.025392,(Erysimum_cheiri:0.02746,(Turritis_glabra:0.01578,Capsella_bursa-pastoris:0.030834)[&label=78]:0.003838)[&label=100]:0.007683)[&label=90]:0.003459)[&label=34]:0.002235)[&label=36]:0.002269)[&label=84]:0.0073,((((((Raphanus_raphanistrum:0.025644,Raphanus_sativus:0.014908)[&label=46]:0.007075,Brassica_rapa:0.014368)[&label=67]:0.009418,((Cakile_edentula:0.002667,Cakile_maritima:0.00178)[&label=100]:0.025782,((Sinapis_arvensis:0.003985,Brassica_nigra:0.004575)[&label=100]:0.005894,(Brassica_tournefortii:0.016148,Hirschfeldia_incana:0.014542)[&label=99]:0.004665)[&label=100]:0.006608)[&label=80]:0.002455)[&label=82]:0.013145,(((Thysanocarpus_conchuliferus:0.022818,(Thysanocarpus_curvipes:0.001873,Thysanocarpus_laciniatus:0.002002)[&label=100]:0.021413)[&label=83]:0.005385,Caulanthus_lasiophyllus:0.005775)[&label=94]:0.007576,(((Sisymbrium_officinale:0.006692,Sisymbrium_orientale:0.009959)[&label=100]:0.012831,Sisymbrium_irio:0.012348)[&label=99]:0.006517,Sisymbrium_altissimum:0.013249)[&label=95]:0.00806)[&label=66]:0.004589)[&label=98]:0.010076,(Draba_cuneifolia:0.006976,Athysanus_pusillus:0.012558)[&label=100]:0.038013)[&label=57]:0.006011,Lobularia_maritima:0.053789)[&label=48]:0.003115)[&label=100]:0.046562)[&label=100]:0.043161)[&label=100]:0.029802)[&label=100]:0.047334)[&label=98]:0.029939)[&label=87]:0.01632)[&label=27]:0.010556,('Salix_lasiandra_var._lasiandra':0.25469,((((Epilobium_brachycarpum:0.070024,((Oenothera_sinuosa:0.006439,Oenothera_xenogaura:0.005235)[&label=100]:0.012542,(Camissonia_strigulosa:0.009077,Eulobus_californicus:0.006832)[&label=81]:0.006086)[&label=68]:0.005896)[&label=49]:7.8E-4,(Clarkia_unguiculata:0.003645,Clarkia_epilobioides:0.010192)[&label=99]:0.014889)[&label=100]:0.120117,'Ludwigia_peploides_ssp._peploides':0.037165)[&label=91]:0.023293,(Ammannia_robusta:0.052445,Lythrum_hyssopifolia:0.06315)[&label=98]:0.048397)[&label=88]:0.02607)[&label=95]:0.068775)[&label=13]:0.002422)[&label=17]:0.003662,((((Quercus_douglasii:0.004019,(Quercus_chrysolepis:0.015913,((Quercus_kelloggii:0.017655,Quercus_engelmannii:0.007944)[&label=66]:0.006221,Quercus_tomentella:0.028899)[&label=36]:0.003867)[&label=61]:0.004085)[&label=74]:0.092378,(Juglans_regia:0.017095,(Juglans_californica:0.010122,(('Stephanomeria_virgata_ssp._virgata':0.116267,Lonicera_hispidula:0.156397)[&label=49]:0.102201,Quercus_lobata:0.134726)[&label=26]:0.091178)[&label=26]:0.169955)[&label=26]:0.071761)[&label=38]:0.065368,((((Ficus_carica:0.111916,(Soleirolia_soleirolii:0.158296,(Urtica_urens:0.054015,('Urtica_dioica_ssp._holosericea':0.030801,Hesperocnide_tenella:0.029035)[&label=85]:0.011424)[&label=100]:0.166517)[&label=100]:0.043299)[&label=100]:0.038379,(Ceanothus_arboreus:0.014014,('Ceanothus_megacarpus_var._insularis':1.0E-6,'Ceanothus_megacarpus_var._megacarpus':1.0E-6)[&label=100]:0.018907)[&label=100]:0.109702)[&label=100]:0.022574,(((Drymocallis_glandulosa:0.065807,(Poterium_sanguisorba:0.10019,Rosa_californica:0.019725)[&label=60]:0.00389)[&label=77]:0.014833,Rubus_ursinus:0.042302)[&label=100]:0.057008,('Prunus_ilicifolia_ssp._lyonii':0.07474,(Holodiscus_discolor:0.069218,(Heteromeles_arbutifolia:0.014054,Cotoneaster_pannosus:0.006383)[&label=100]:0.040193)[&label=95]:0.009601)[&label=96]:0.010935)[&label=99]:0.04845)[&label=98]:0.023098,(((Marah_fabacea:3.5E-4,Marah_macrocarpa:0.006585)[&label=100]:0.024814,Cucurbita_foetidissima:0.037382)[&label=100]:0.121328,(Polygala_californica:0.210776,((Caesalpinia_spinosa:0.066416,(((Acacia_dealbata:0.036233,Acacia_decurrens:0.002074)[&label=100]:0.009178,(Acacia_melanoxylon:0.209838,Acacia_cyclops:0.018049)[&label=98]:0.006643)[&label=99]:0.016105,Albizia_lophantha:0.01534)[&label=99]:0.067616)[&label=99]:0.034991,(((((Pisum_sativum:0.027672,(Lathyrus_odoratus:0.024954,Lathyrus_tingitanus:0.01904)[&label=94]:0.004759)[&label=97]:0.014013,((Vicia_benghalensis:0.012265,Vicia_villosa:0.005446)[&label=100]:0.012202,(Vicia_americana:0.013811,('Vicia_sativa_ssp._sativa':0.005452,'Vicia_sativa_ssp._nigra':1.0E-6)[&label=100]:0.573875)[&label=86]:0.002862)[&label=60]:0.003112)[&label=100]:0.021989,((Trifolium_hirtum:0.022632,(Trifolium_repens:0.016085,((Trifolium_willdenovii:0.001894,(Trifolium_fucatum:0.005653,Trifolium_barbigerum:0.017955)[&label=99]:7.99E-4)[&label=99]:0.004884,((Trifolium_microcephalum:0.005989,Trifolium_microdon:0.008115)[&label=99]:0.00486,((Trifolium_macraei:1.0E-6,Trifolium_albopurpureum:5.24E-4)[&label=100]:0.012059,(Trifolium_palmeri:8.94E-4,(Trifolium_gracilentum:0.001278,Trifolium_ciliolatum:0.003553)[&label=64]:6.25E-4)[&label=100]:0.003062)[&label=94]:0.004229)[&label=87]:0.001521)[&label=100]:0.006984)[&label=96]:0.004908)[&label=100]:0.018547,((Medicago_polymorpha:0.015568,Medicago_sativa:0.014322)[&label=100]:0.01905,(Melilotus_albus:0.003129,Melilotus_indicus:0.008618)[&label=100]:0.015792)[&label=100]:0.008967)[&label=45]:0.003327)[&label=99]:0.066434,(((Coronilla_valentina:0.127195,Lotus_corniculatus:0.045239)[&label=15]:0.006028,('Acmispon_dendroideus_var._dendroideus':0.004963,((Acmispon_wrangelianus:1.0E-6,Acmispon_strigosus:0.002753)[&label=100]:0.012213,('Acmispon_maritimus_var._maritimus':0.005873,(('Acmispon_americanus_var._americanus':0.011543,Acmispon_parviflorus:0.001885)[&label=99]:0.007498,Acmispon_brachycarpus:0.008804)[&label=36]:0.001267)[&label=58]:0.002569)[&label=56]:0.003748)[&label=100]:0.030011)[&label=100]:0.080907,Robinia_pseudoacacia:0.074425)[&label=100]:0.015341)[&label=99]:0.022294,((Spartium_junceum:0.01853,((Genista_monspessulana:0.009724,Genista_linifolia:0.00971)[&label=93]:0.004265,(Lupinus_arboreus:0.004655,((Lupinus_succulentus:1.0E-6,(Lupinus_hirsutissimus:0.001953,(((Lupinus_bicolor:1.0E-6,Lupinus_concinnus:1.0E-6)[&label=91]:1.0E-6,Lupinus_truncatus:0.002823)[&label=92]:0.001138,Lupinus_microcarpus:0.009803)[&label=34]:8.28E-4)[&label=63]:0.001568)[&label=59]:8.23E-4,Lupinus_chamissonis:9.29E-4)[&label=49]:1.0E-6)[&label=100]:0.018899)[&label=91]:0.006635)[&label=100]:0.053072,'Pickeringia_montana_var._montana':0.048934)[&label=100]:0.038072)[&label=99]:0.055333)[&label=98]:0.037949)[&label=97]:0.036554)[&label=90]:0.013131)[&label=39]:0.002338)[&label=36]:0.015398,(((Hesperolinon_micranthum:0.198486,(Populus_trichocarpa:0.014004,(Salix_lasiolepis:0.00152,(Salix_exigua:0.005478,(Salix_laevigata:1.0E-6,Salix_gooddingii:0.001495)[&label=98]:0.003278)[&label=99]:0.007839)[&label=100]:0.018551)[&label=100]:0.10007)[&label=77]:0.01308,(Camissoniopsis_hirtella:0.166908,(Ricinus_communis:0.07338,(((Euphorbia_misera:0.062165,(Euphorbia_serpens:0.033167,(Euphorbia_maculata:0.0055,Euphorbia_serpyllifolia:0.006967)[&label=100]:0.009649)[&label=100]:0.02848)[&label=100]:0.026095,((Euphorbia_peplus:0.00855,Euphorbia_crenulata:0.011422)[&label=100]:0.044288,Euphorbia_spathulata:0.046478)[&label=100]:0.01544)[&label=100]:0.068037,Croton_setigerus:0.15092)[&label=29]:0.007476)[&label=100]:0.033293)[&label=80]:0.009789)[&label=100]:0.052946,((Oxalis_pes-caprae:0.01663,'Oxalis_articulata_ssp._rubra':0.029204)[&label=100]:0.049624,Oxalis_corniculata:0.058652)[&label=100]:0.116142)[&label=98]:0.013984)[&label=36]:0.01897)[&label=19]:0.022992)[&label=7]:0.006828)[&label=55]:0.015241,Vitis_girdiana:0.131878)[&label=87]:0.033258,(((((Papaver_somniferum:0.018106,(Papaver_californicum:0.007668,Papaver_heterophyllum:0.018112)[&label=100]:0.039638)[&label=100]:0.111312,((Romneya_coulteri:0.021992,(Zeltnera_venusta:0.558142,'Heliotropium_curassavicum_var._oculatum':0.42336)[&label=87]:0.363436)[&label=90]:0.010287,Platystemon_californicus:0.135443)[&label=94]:0.035542)[&label=77]:0.006531,(Dendromecon_harfordii:0.03635,(Eschscholzia_ramosa:0.009721,Eschscholzia_californica:0.0033)[&label=100]:0.031193)[&label=100]:0.042531)[&label=93]:0.016539,Ehrendorferia_ochroleuca:0.120554)[&label=94]:0.044545,Platanus_racemosa:0.137488)[&label=89]:0.015156)[&label=89]:0.03522,Anemopsis_californica:0.181964)[&label=48]:0.014739)[&label=85]:0.162432,(Hesperocyparis_macrocarpa:0.214695,(Pinus_radiata:0.007033,('Pinus_torreyana_ssp._insularis':0.004529,Pinus_pinea:0.008526)[&label=88]:0.007616)[&label=100]:0.285683)[&label=95]:0.171878)[&label=58]:0.065164,('Astragalus_trichopodus_var._trichopodus':0.735008,(('Equisetum_telmateia_ssp._braunii':0.064391,('Equisetum_hyemale_ssp._affine':0.009425,Equisetum_laevigatum:0.01965)[&label=96]:0.069311)[&label=96]:0.448754,(Azolla_filiculoides:0.215399,(((((Polypodium_scouleri:0.009195,Polypodium_californicum:0.013973)[&label=100]:0.213532,(Dryopteris_arguta:1.25681,Polystichum_munitum:0.077159)[&label=100]:0.040198)[&label=90]:0.045396,(Cystopteris_fragilis:0.09103,Woodwardia_fimbriata:0.099998)[&label=47]:0.017886)[&label=100]:0.145544,((Adiantum_aleuticum:0.09668,(Adiantum_capillus-veneris:1.0E-6,Adiantum_jordanii:6.37E-4)[&label=100]:0.13581)[&label=94]:0.050919,(('Pellaea_mucronata_var._mucronata':0.022669,Pellaea_andromedifolia:0.016801)[&label=100]:0.043445,(Aspidotis_californica:0.142201,(Myriopteris_cooperae:0.018612,(Myriopteris_newberryi:0.023552,Myriopteris_clevelandii:0.018996)[&label=96]:0.007334)[&label=99]:0.025745)[&label=67]:0.018523)[&label=100]:0.099278)[&label=100]:0.200697)[&label=100]:0.123349,Sphaeropteris_cooperi:0.191167)[&label=100]:0.301012)[&label=98]:0.128106)[&label=64]:0.017033)[&label=42]:0.032008,Selaginella_bigelovii:0.556118);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName="sansserif";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=238;
+	set legend.attribute=null;
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=true;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="Node ages";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set nodeShape.colourAttribute=null;
+	set nodeShape.isShown=false;
+	set nodeShape.minSize=10.0;
+	set nodeShape.scaleType=Width;
+	set nodeShape.shapeType=Circle;
+	set nodeShape.size=4.0;
+	set nodeShape.sizeAttribute=null;
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="sansserif";
+	set tipLabels.fontSize=8;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=true;
+	set trees.orderType="increasing";
+	set trees.rooting=true;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+
