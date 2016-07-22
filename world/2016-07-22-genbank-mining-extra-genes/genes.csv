@@ -1,0 +1,5 @@
+rps4,include,rps4,Rps4,RPS4
+rps4,exclude,trnS
+trnL,include,trnL,trnl,Trnl,TRNL
+trnL,exclude,trnF
+nad5,include,nad5,Nad5,NAD5,
