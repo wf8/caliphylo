@@ -1,7 +1,7 @@
 
 library(taxize)
 
-testing = TRUE
+testing = FALSE
 taxids = read.csv("taxids.csv", header=FALSE, stringsAsFactors=FALSE)
 num_rows = nrow(taxids)
 
@@ -24,7 +24,7 @@ for (i in 1:num_rows) {
         class = ""
         clade = ranks$name[9]
 
-        for (j in 9:num_ranks) {
+        for (j in 1:num_ranks) {
             
             if (ranks$rank[j] == "class" || ranks$rank[j] == "subclass")
                 class = ranks$name[j]
