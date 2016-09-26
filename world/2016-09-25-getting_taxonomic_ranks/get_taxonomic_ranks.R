@@ -18,31 +18,34 @@ for (i in 1:num_rows) {
         
         ranks = classification(taxids[i, 2], db='ncbi')[[1]]
         num_ranks = nrow(ranks)
-        genus = ""
-        family = ""
-        order = ""
-        class = ""
-        clade = ranks$name[9]
+        
+        if (num_ranks > 0) {
+            genus = ""
+            family = ""
+            order = ""
+            class = ""
+            clade = ranks$name[9]
 
-        for (j in 1:num_ranks) {
-            
-            if (ranks$rank[j] == "class" || ranks$rank[j] == "subclass")
-                class = ranks$name[j]
-            if (ranks$rank[j] == "order")
-                order = ranks$name[j]
-            if (ranks$rank[j] == "family")
-                family = ranks$name[j]
-            if (ranks$rank[j] == "genus")
-                genus = ranks$name[j]
+            for (j in 1:num_ranks) {
+                
+                if (ranks$rank[j] == "class" || ranks$rank[j] == "subclass")
+                    class = ranks$name[j]
+                if (ranks$rank[j] == "order")
+                    order = ranks$name[j]
+                if (ranks$rank[j] == "family")
+                    family = ranks$name[j]
+                if (ranks$rank[j] == "genus")
+                    genus = ranks$name[j]
 
+            }
+
+            new_row = data.frame(genus = genus, 
+                                 family = family,
+                                 order = order,
+                                 class = class,
+                                 clade = clade)
+            data_out = rbind(data_out, new_row)
         }
-
-        new_row = data.frame(genus = genus, 
-                             family = family,
-                             order = order,
-                             class = class,
-                             clade = clade)
-        data_out = rbind(data_out, new_row)
     }
 
     if (testing && i == 3)
