@@ -146,7 +146,8 @@ for i, taxon in enumerate(total_taxa):
 
 concatenated_records = []
 for i, taxon in enumerate(total_taxa):
-    concatenated_records.append(SeqRecord(Seq(final_sequences[i], IUPAC.ambiguous_dna), id=taxon, description="", name=""))
+    if final_sequences[i].replace("?", "") != "":
+        concatenated_records.append(SeqRecord(Seq(final_sequences[i], IUPAC.ambiguous_dna), id=taxon, description="", name=""))
 
 print("Making final phylip-relaxed file...")
 SeqIO.write(concatenated_records, "ci_alignment.phy", "phylip-relaxed")
