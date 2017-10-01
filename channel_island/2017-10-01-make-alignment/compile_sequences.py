@@ -65,45 +65,45 @@ for i, gene in enumerate(genes):
     # check all taxa from the GenBank data
     for j, taxon in enumerate(taxa):
     
-        sequence = ''
+        sequence = "?"
         if taxon in CIPP_taxa and gene in CIPP_genes:
             # check for a CIPP sequence
             sequences = list(SeqIO.parse("data/CIPP_endemics_" + gene + ".fasta", "fasta"))
-            for seq in sequences:
-                if taxon in seq.description:
+            for record in sequences:
+                if taxon == record.description:
                     sequence = str(record.seq)
                     total_accessions[i][ total_taxa.index(taxon) ] = "CIPP"
                     break
         
-        if (sequence == ""):
+        if (sequence == "?"):
             # check for a GenBank sequence
-            if accessions[i][j].strip() == '':
-                sequence += "?"
-            else:
+            if accessions[i][j].strip() != "":
                 for record in gb_records:
                     if accessions[i][j].strip() in record.description:
                         sequence = str(record.seq)
                         total_accessions[i][ total_taxa.index(taxon) ] = accessions[i][j].strip()
                         break
     
-        unaligned_records.append(SeqRecord(Seq(sequence, IUPAC.ambiguous_dna), id=taxon, description="", name=""))
+        if (sequence != "?"):
+            unaligned_records.append(SeqRecord(Seq(sequence, IUPAC.ambiguous_dna), id=taxon, description="", name=""))
         
     # check all taxa from the CIPP data
     for j, taxon in enumerate(CIPP_taxa):
 
         if taxon not in taxa:
 
-            sequence = ''
+            sequence = "?"
             if gene in CIPP_genes:
                 # check for a CIPP sequence
                 sequences = list(SeqIO.parse("data/CIPP_endemics_" + gene + ".fasta", "fasta"))
-                for seq in sequences:
-                    if taxon in seq.description:
+                for record in sequences:
+                    if taxon == record.description:
                         sequence = str(record.seq)
                         total_accessions[i][ total_taxa.index(taxon) ] = "CIPP"
                         break
             
-            unaligned_records.append(SeqRecord(Seq(sequence, IUPAC.ambiguous_dna), id=taxon, description="", name=""))
+            if (sequence != "?"):
+                unaligned_records.append(SeqRecord(Seq(sequence, IUPAC.ambiguous_dna), id=taxon, description="", name=""))
 
     # write the unaligned sequences for this gene
     SeqIO.write(unaligned_records, "data/unaligned_" + gene + ".fasta", "fasta")
@@ -139,7 +139,7 @@ for i, taxon in enumerate(total_taxa):
             sequence += get_unknowns(len(str(final_records[j][0].seq)))
         else:
             for record in final_records[j]:
-                if taxon == record.id:
+                if taxon == record.id.replace("_R_",""):
                     sequence += str(record.seq)
                     break
     final_sequences.append(sequence)
