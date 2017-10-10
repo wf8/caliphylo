@@ -1,0 +1,6 @@
+library(ape)
+d = read.csv("final_accessions_100917.csv", stringsAsFactors=FALSE)
+t = read.tree("CI_dated.tree")
+pruned = drop.tip(t, d$taxon[ d$native == 0 ] ) 
+pruned = drop.tip(pruned, "Astragalus_trichopodus_var_trichopodus" ) 
+write.tree(pruned, "CI_dated_native.tree")
